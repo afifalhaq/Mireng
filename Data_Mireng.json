@@ -71,24 +71,6 @@
       "nama": "Astro",
       "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_in_Sept_2017.png"
     
-    },
-    {
-      "id": 7,
-      "nama": "iKon",
-      "gambar": "https://c-sf.smule.com/rs-s53/arr/97/df/0efaa940-3dca-439b-ab6b-4d531a7c1836.jpg"
-    
-    },
-    {
-      "id": 8,
-      "nama": "Red Velvet",
-      "gambar": "https://pa1.narvii.com/6701/f249cd0076fa1f115b43d988a00883452bb0b931_00.gif"
-    
-    },
-    {
-      "id": 9,
-      "nama": "Momoland",
-      "gambar": "https://c-sf.smule.com/rs-s78/arr/fb/64/e693f60d-d384-4f6d-ae16-28399acc7cd1.jpg
-    
     }
   ],
   "Mainkan": [
@@ -155,79 +137,11 @@
       "Judul": "Lies(거짓말)",
       "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/BIGBANG%20-%20Lies%28거짓말%29.mp3",
       "lirik": ""
-    },
-    {
-      "no": 9,
-      "idmp3": "9",
-      "nama_aut": "iKon",
-      "Judul": "I'm OK",
-      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/01%20-%20I%27M%20OK%20-%20HULKPOP.mp3",
-      "lirik": ""
-    },
-    {
-      "no": 10,
-      "idmp3": "10",
-      "nama_aut": "BLACKPINK",
-      "Judul": "Kill This Love",
-      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/01%20-%20Kill%20This%20Love%20-%20HULKPOP.mp3",
-      "lirik": ""
-    },
-    {
-      "no": 11,
-      "idmp3": "11",
-      "nama_aut": "Red Velvet",
-      "Judul": "Really Bad Boy",
-      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/01%20-%20RBB%20%28Really%20Bad%20Boy%29%20-%20HULKPOP.mp3",
-      "lirik": ""
-    },
-    {
-      "no": 12,
-      "idmp3": "12",
-      "nama_aut": "iKon",
-      "Judul": "Bling Bling",
-      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/02%20-%20BLING%20BLING%20-%20HULKPOP.mp3",
-      "lirik": ""
-    },
-    {
-      "no": 13,
-      "idmp3": "13",
-      "nama_aut": "Red Velvet",
-      "Judul": "Butterflies",
-      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/02%20-%20Butterflies%20-%20HULKPOP.mp3",
-      "lirik": ""
-    },
-    {
-      "no": 14,
-      "idmp3": "14",
-      "nama_aut": "BLACKPINK",
-      "Judul": "Don’t Know What To Do",
-      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/02%20-%20Don%E2%80%99t%20Know%20What%20To%20Do%20-%20HULKPOP.mp3",
-      "lirik": ""
-    },
-    {
-      "no": 15,
-      "idmp3": "15",
-      "nama_aut": "Momoland",
-      "Judul": "Falling U",
-      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/02%20-%20Falling%20U%20-%20HULKPOP.mp3",
-      "lirik": ""
-    },
-    {
-      "no": 16,
-      "idmp3": "16",
-      "nama_aut": "BLACKPINK",
-      "Judul": "Kick It",
-      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/03%20-%20Kick%20It%20-%20HULKPOP.mp3",
-      "lirik": ""
-    },
-    {
-      "no": 17,
-      "idmp3": "17",
-      "nama_aut": "iKon",
-      "Judul": "LOVE SCENARIO (사랑을 했다)",
-      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/03%20-%20LOVE%20SCENARIO%20%28%EC%82%AC%EB%9E%91%EC%9D%84%20%ED%96%88%EB%8B%A4%29%20-%20HULKPOP.mp3",
-      "lirik": ""
     }
+    
+    
+    
+    
   
     
     
