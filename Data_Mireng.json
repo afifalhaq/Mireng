@@ -39,37 +39,37 @@
     {
       "id": 1,
       "nama": "BLACKPINK",
-      "gambar": "https://ia601501.us.archive.org/18/items/blackpink_202007/blackpink_06.jpg"
+      "gambar": "https://c-sf.smule.com/rs-s80/arr/0d/34/fa6e2c42-62ac-4e8c-949b-2d5875bc64a6.jpg"
      
     },
     {
       "id": 2,
       "nama": "BIGBANG",
-      "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f3/BIGBANG_With_U.jpg"
+      "gambar": "https://c-sf.smule.com/rs-s35/arr/d2/fe/5550c384-1e65-45c6-86a1-cc5d9593bc87.jpg"
     
     },
     {
       "id": 3,
       "nama": "BTS",
-      "gambar": "https://ia800200.us.archive.org/18/items/249314970024ddbfd6c47O/24931497002_4ddbfd6c47_o.jpg"
+      "gambar": "https://c-sf.smule.com/rs-s30/arr/1f/0f/ddd5ef00-72af-4c1b-a74e-9c10bd2fb3b3.jpg"
     
     },
     {
       "id": 4,
       "nama": "2NE1",
-      "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4c/2NE1_2009_MAMA.jpg"
+      "gambar": "https://c-sf.smule.com/rs-s78/arr/d3/23/385c3b72-69e8-4c94-8c40-73822a1c4036.jpg"
     
     },
     {
       "id": 5,
       "nama": "Apink",
-      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/180708_Sangam_Fan_Signing_Apink.jpg/640px-180708_Sangam_Fan_Signing_Apink.jpg"
+      "gambar": "https://c-sf.smule.com/sf/s38/arr/3e/0e/cdf2858f-89f9-4736-a641-c6d3493bbbfc.jpg"
     
     },
     {
       "id": 6,
       "nama": "Astro",
-      "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_in_Sept_2017.png"
+      "gambar": "https://c-sf.smule.com/rs-s78/arr/ce/08/6807cc86-b579-4411-9129-78c0ea70d95e.jpg"
     
     },
     {
@@ -226,6 +226,46 @@
       "nama_aut": "iKon",
       "Judul": "LOVE SCENARIO (사랑을 했다)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/03%20-%20LOVE%20SCENARIO%20%28%EC%82%AC%EB%9E%91%EC%9D%84%20%ED%96%88%EB%8B%A4%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 18,
+      "idmp3": "18",
+      "nama_aut": "BLACKPINK",
+      "Judul": "Playing With Fire",
+      "url_mp3": "hhttps://ia801507.us.archive.org/9/items/m1reng_202007/03%20-%20PLAYING%20WITH%20FIRE%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 19,
+      "idmp3": "19",
+      "nama_aut": "Red Velvet",
+      "Judul": "So Good",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/03%20-%20So%20Good%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 20,
+      "idmp3": "20",
+      "nama_aut": "Momoland",
+      "Judul": "Holiday",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/04%20-%20Holiday%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 21,
+      "idmp3": "21",
+      "nama_aut": "iKon",
+      "Judul": "KILLING ME (죽겠다)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/04%20-%20KILLING%20ME%20%28%EC%A3%BD%EA%B2%A0%EB%8B%A4%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 22,
+      "idmp3": "22",
+      "nama_aut": "BLACKPINK",
+      "Judul": "Stay",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/04%20-%20STAY%20-%20HULKPOP.mp3",
       "lirik": ""
     }
   ]
