@@ -271,9 +271,233 @@
     {
       "no": 23,
       "idmp3": "23",
+      "nama_aut": "Red Velvet",
+      "Judul": "Sassy Me",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/04%20-%20%EB%A9%8B%EC%9E%88%EA%B2%8C%20%28Sassy%20Me%29%20-%20HULKPOP.mp33",
+      "lirik": ""
+    },
+    {
+      "no": 24,
+      "idmp3": "24",
       "nama_aut": "BLACKPINK",
-      "Judul": "Coba",
-      "url_mp3": "http://docs.google.com/uc?xport=download&id=1xTNP9S4bvUNpLbXDDwCOYBHP2ruZCzUZ",
+      "Judul": "Hope Not",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/04%20-%20%EC%95%84%EB%8B%88%EA%B8%B8%20%28Hope%20Not%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 25,
+      "idmp3": "25",
+      "nama_aut": "iKon",
+      "Judul": "Freedom",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/05%20-%20FREEDOM%20%28%EB%B0%94%EB%9E%8C%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 26,
+      "idmp3": "26",
+      "nama_aut": "Red Velvet",
+      "Judul": "Taste",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/05%20-%20Taste%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 27,
+      "idmp3": "27",
+      "nama_aut": "Momoland",
+      "Judul": "What You Want",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/05%20-%20What%20You%20want%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 28,
+      "idmp3": "28",
+      "nama_aut": "BLACKPINK",
+      "Judul": "(DDU-DU DDU-DU) (Remix)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/05%20-%20%EB%9A%9C%EB%91%90%EB%9A%9C%EB%91%90%20%28DDU-DU%20DDU-DU%29%20%28Remix%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 29,
+      "idmp3": "29",
+      "nama_aut": "iKon",
+      "Judul": "B-DAY (벌떼)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/06%20-%20B-DAY%20%28%EB%B2%8C%EB%96%BC%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 30,
+      "idmp3": "30",
+      "nama_aut": "BLACKPINK",
+      "Judul": "DDU-DU DDU-DU",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/06%20-%20DDU-DU%20DDU-DU%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 31,
+      "idmp3": "31",
+      "nama_aut": "Red Velvet",
+      "Judul": "Really Bad Bay (English Ver.)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/06%20-%20RBB%20%28Really%20Bad%20Boy%29%20%28English%20Ver.%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 31,
+      "idmp3": "31",
+      "nama_aut": "BLACKPINK",
+      "Judul": "Forever Young (Japanese Ver.)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/07%20-%20FOREVER%20YOUNG%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 32,
+      "idmp3": "32",
+      "nama_aut": "iKon",
+      "Judul": "Rubber Band (고무줄다리기)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/07%20-%20RUBBER%20BAND%20%28%EA%B3%A0%EB%AC%B4%EC%A4%84%EB%8B%A4%EB%A6%AC%EA%B8%B0%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 33,
+      "idmp3": "33",
+      "nama_aut": "iKon",
+      "Judul": "Beautiful",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/08%20-%20BEAUTIFUL%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 34,
+      "idmp3": "34",
+      "nama_aut": "BLACKPINK",
+      "Judul": "Really (Japanese Ver.)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/08%20-%20REALLY%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 35,
+      "idmp3": "35",
+      "nama_aut": "iKon",
+      "Judul": "Cocktail",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/09%20-%20COCKTAIL%20%28%EC%B9%B5%ED%85%8C%EC%9D%BC%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 36,
+      "idmp3": "36",
+      "nama_aut": "BLACKPINK",
+      "Judul": "See U Later (Japanese Ver.)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/09%20-%20SEE%20U%20LATER%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 37,
+      "idmp3": "37",
+      "nama_aut": "iKon",
+      "Judul": "Only You",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/10%20-%20ONLY%20YOU%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 38,
+      "idmp3": "38",
+      "nama_aut": "iKon",
+      "Judul": "Everything",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/11%20-%20EVERYTHING%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 39,
+      "idmp3": "39",
+      "nama_aut": "iKon",
+      "Judul": "LOVE ME (나를 사랑하지 않나요)",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/12%20-%20LOVE%20ME%20%28%EB%82%98%EB%A5%BC%20%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80%20%EC%95%8A%EB%82%98%EC%9A%94%29%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 40,
+      "idmp3": "40",
+      "nama_aut": "iKon",
+      "Judul": "DON'T LET ME KNOW (내가 모르게)",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/13%20-%20DON%27T%20LET%20ME%20KNOW%20%28%EB%82%B4%EA%B0%80%20%EB%AA%A8%EB%A5%B4%EA%B2%8C%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 41,
+      "idmp3": "41",
+      "nama_aut": "iKon",
+      "Judul": "GOODBYE ROAD (이별길)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/14%20-%20GOODBYE%20ROAD%20%28%EC%9D%B4%EB%B3%84%EA%B8%B8%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 42,
+      "idmp3": "42",
+      "nama_aut": "iKon",
+      "Judul": "Long Time No See",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/15%20-%20LONG%20TIME%20NO%20SEE%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 43,
+      "idmp3": "43",
+      "nama_aut": "iKon",
+      "Judul": "Best Friend",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/16%20-%20BEST%20FRIEND%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 44,
+      "idmp3": "44",
+      "nama_aut": "iKon",
+      "Judul": "Just Go",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/17%20-%20JUST%20GO%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 45,
+      "idmp3": "45",
+      "nama_aut": "iKon",
+      "Judul": "Adore You (좋아해요)",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/18%20-%20ADORE%20YOU%20%28%EC%A2%8B%EC%95%84%ED%95%B4%EC%9A%94%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 46,
+      "idmp3": "46",
+      "nama_aut": "iKon",
+      "Judul": "Don't Forget (잊지마요)",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/19%20-%20DON%E2%80%99T%20FORGET%20%28%EC%9E%8A%EC%A7%80%EB%A7%88%EC%9A%94%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 47,
+      "idmp3": "47",
+      "nama_aut": "iKon",
+      "Judul": "Jerk (나쁜놈)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/20%20-%20JERK%20%28%EB%82%98%EC%81%9C%EB%86%88%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 48,
+      "idmp3": "48",
+      "nama_aut": "iKon",
+      "Judul": "Perfect (꼴좋다)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/21%20-%20PERFECT%20%28%EA%BC%B4%EC%A2%8B%EB%8B%A4%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 49,
+      "idmp3": "49",
+      "nama_aut": "iKon",
+      "Judul": "Hug Me (안아보자)",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/22%20-%20HUG%20ME%20%28%EC%95%88%EC%95%84%EB%B3%B4%EC%9E%90%29%20-%20HULKPOP.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 50,
+      "idmp3": "50",
+      "nama_aut": "iKon",
+      "Judul": "Just For You (줄게)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/23%20-%20JUST%20FOR%20YOU%20%28%EC%A4%84%EA%B2%8C%29%20-%20HULKPOP.mp3",
       "lirik": ""
     }
   ]
