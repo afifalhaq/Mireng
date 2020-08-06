@@ -994,10 +994,362 @@
     },
     {
       "no": 110,
-      "idmp3": "109",
+      "idmp3": "110",
       "nama_aut": "B1A4",
       "Judul": "Wonderful Tonight",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/B1A4%20%5B%EB%B9%84%EC%9B%90%EC%97%90%EC%9D%B4%ED%8F%AC%5D%20-%20Wonderful%20Tonight.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 111,
+      "idmp3": "111",
+      "nama_aut": "Baekhyun",
+      "Judul": "Candy",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BAEKHYUN%20%28%EB%B0%B1%ED%98%84%29%20-%20Candy.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 112,
+      "idmp3": "112",
+      "nama_aut": "BIGBANG",
+      "Judul": "A Fool Of Tears (눈물뿐인 바보)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20A%20Fool%20Of%20Tears%20%28%EB%88%88%EB%AC%BC%EB%BF%90%EC%9D%B8%20%EB%B0%94%EB%B3%B4%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 113,
+      "idmp3": "113",
+      "nama_aut": "BIGBANG",
+      "Judul": "A Good Man (착한 사람)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20A%20Good%20Man%20%28%EC%B0%A9%ED%95%9C%20%EC%82%AC%EB%9E%8C%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 114,
+      "idmp3": "114",
+      "nama_aut": "BIGBANG",
+      "Judul": "Act Like Nothing's Wrong (아무렇지 않은 척; Amureochi Anheun Cheok)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Act%20Like%20Nothing%27s%20Wrong%20%28%EC%95%84%EB%AC%B4%EB%A0%87%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EC%B2%99%3B%20Amureochi%20Anheun%20Cheok%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 115,
+      "idmp3": "115",
+      "nama_aut": "BIGBANG",
+      "Judul": "Always (English Version)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Always%20%28English%20Version%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 116,
+      "idmp3": "116",
+      "nama_aut": "BIGBANG",
+      "Judul": "Always (English Version)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Always%20%28English%20Version%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 117,
+      "idmp3": "117",
+      "nama_aut": "BIGBANG",
+      "Judul": "Always",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Always.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 118,
+      "idmp3": "118",
+      "nama_aut": "BIGBANG",
+      "Judul": "BLUE (Japanese Version)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20BLUE%20%28Japanese%20Version%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 119,
+      "idmp3": "119",
+      "nama_aut": "BIGBANG",
+      "Judul": "Baby Baby (English Version)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Baby%20Baby%20%28English%20Version%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 120,
+      "idmp3": "120",
+      "nama_aut": "BIGBANG",
+      "Judul": "Big Bang (English Version)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Big%20Bang%20%28English%20Version%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 121,
+      "idmp3": "121",
+      "nama_aut": "BIGBANG",
+      "Judul": "Big Boy (Feat Lee Eunju)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Big%20Boy%20%28Feat%20Lee%20Eunju%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 122,
+      "idmp3": "122",
+      "nama_aut": "BIGBANG",
+      "Judul": "Come Be My Lady",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Come%20Be%20My%20Lady.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 123,
+      "idmp3": "123",
+      "nama_aut": "BIGBANG",
+      "Judul": "Dirty Cash",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Dirty%20Cash.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 124,
+      "idmp3": "124",
+      "nama_aut": "BIGBANG",
+      "Judul": "Everything",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Everything.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 125,
+      "idmp3": "125",
+      "nama_aut": "BIGBANG",
+      "Judul": "FANTASTIC BABY (Japanese Version)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20FANTASTIC%20BABY%20%28Japanese%20Version%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 126,
+      "idmp3": "126",
+      "nama_aut": "BIGBANG",
+      "Judul": "How Gee (English Version)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20How%20Gee%20%28English%20Version%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 127,
+      "idmp3": "127",
+      "nama_aut": "BIGBANG",
+      "Judul": "La La La",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20La%20La%20La.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 128,
+      "idmp3": "128",
+      "nama_aut": "BIGBANG",
+      "Judul": "Lady",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Lady.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 129,
+      "idmp3": "129",
+      "nama_aut": "BIGBANG",
+      "Judul": "Laugh It Off (웃어본다)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Laugh%20It%20Off%20%28%EC%9B%83%EC%96%B4%EB%B3%B8%EB%8B%A4%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 130,
+      "idmp3": "130",
+      "nama_aut": "BIGBANG",
+      "Judul": "Love Dust",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Love%20Dust.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 131,
+      "idmp3": "131",
+      "nama_aut": "BIGBANG",
+      "Judul": "Make Love",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Make%20Love.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 132,
+      "idmp3": "132",
+      "nama_aut": "BIGBANG",
+      "Judul": "My Girl",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20My%20Girl.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 133,
+      "idmp3": "133",
+      "nama_aut": "BIGBANG",
+      "Judul": "My Heaven (천국)",
+      "url_mp3": "hhttps://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20My%20Heaven%20%28%EC%B2%9C%EA%B5%AD%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 134,
+      "idmp3": "134",
+      "nama_aut": "BIGBANG",
+      "Judul": "Next Day (다음날)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Next%20Day%20%28%EB%8B%A4%EC%9D%8C%EB%82%A0%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 135,
+      "idmp3": "135",
+      "nama_aut": "BIGBANG",
+      "Judul": "Number 1",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Number%201.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 136,
+      "idmp3": "136",
+      "nama_aut": "BIGBANG",
+      "Judul": "Oh Ma Baby",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Oh%20Ma%20Baby.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 137,
+      "idmp3": "137",
+      "nama_aut": "BIGBANG",
+      "Judul": "Oh My Friend",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Oh%20My%20Friend.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 138,
+      "idmp3": "138",
+      "nama_aut": "BIGBANG",
+      "Judul": "Remember (English Version)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Remember%20%28English%20Version%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 139,
+      "idmp3": "139",
+      "nama_aut": "BIGBANG",
+      "Judul": "Shake It (흔들어)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Shake%20It%20%28%ED%9D%94%EB%93%A4%EC%96%B4%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 140,
+      "idmp3": "140",
+      "nama_aut": "BIGBANG",
+      "Judul": "She Cant Get Enough",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20She%20Cant%20Get%20Enough.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 141,
+      "idmp3": "141",
+      "nama_aut": "BIGBANG",
+      "Judul": "So Beautiful",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20So%20Beautiful.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 142,
+      "idmp3": "142",
+      "nama_aut": "BIGBANG",
+      "Judul": "This Love",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20This%20Love.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 143,
+      "idmp3": "143",
+      "nama_aut": "BIGBANG",
+      "Judul": "Together Forever",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Together%20Forever.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 144,
+      "idmp3": "144",
+      "nama_aut": "BIGBANG",
+      "Judul": "V.I.P",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20V.I.P.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 145,
+      "idmp3": "145",
+      "nama_aut": "BIGBANG",
+      "Judul": "We Are Big Bang",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20We%20Are%20Big%20Bang.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 146,
+      "idmp3": "146",
+      "nama_aut": "BIGBANG",
+      "Judul": "With U",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20With%20U.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 147,
+      "idmp3": "147",
+      "nama_aut": "BIGBANG",
+      "Judul": "Wrong Number (없는 번호; Eoptneun Beonho)",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/BIGBANG%20%28%EB%B9%85%EB%B1%85%29%20-%20Wrong%20Number%20%28%EC%97%86%EB%8A%94%20%EB%B2%88%ED%98%B8%3B%20Eoptneun%20Beonho%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 148,
+      "idmp3": "148",
+      "nama_aut": "BIGBANG",
+      "Judul": "Always",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20-%20ALWAYS.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 149,
+      "idmp3": "149",
+      "nama_aut": "BIGBANG",
+      "Judul": "Blue",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20-%20BLUE.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 150,
+      "idmp3": "150",
+      "nama_aut": "BIGBANG",
+      "Judul": "Fantastic Baby",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20-%20FANTASTIC%20BABY.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 151,
+      "idmp3": "151",
+      "nama_aut": "BIGBANG",
+      "Judul": "Let's Not Fall In Love",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20-%20Let%27s%20Not%20Fall%20In%20Love.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 152,
+      "idmp3": "152",
+      "nama_aut": "BIGBANG",
+      "Judul": "Lies (거짓말)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20-%20Lies%28%EA%B1%B0%EC%A7%93%EB%A7%90%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 153,
+      "idmp3": "153",
+      "nama_aut": "BIGBANG",
+      "Judul": "Tonight",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20-%20TONIGHT.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 154,
+      "idmp3": "154",
+      "nama_aut": "BIGBANG",
+      "Judul": "BANG BANG BANG",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/BIGBANG%20-%20%EB%B1%85%EB%B1%85%EB%B1%85%20%28BANG%20BANG%20BANG%29.mp3",
       "lirik": ""
     }
   ]
