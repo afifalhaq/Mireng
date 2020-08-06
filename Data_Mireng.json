@@ -89,6 +89,12 @@
       "nama": "Momoland",
       "gambar": "https://c-sf.smule.com/rs-s78/arr/fb/64/e693f60d-d384-4f6d-ae16-28399acc7cd1.jpg"
     
+    },
+    {
+      "id": 10,
+      "nama": "AB6IX",
+      "gambar": "https://c-sf.smule.com/rs-s78/arr/fb/64/e693f60d-d384-4f6d-ae16-28399acc7cd1.jpg"
+    
     }
   ],
   "Mainkan": [
@@ -602,6 +608,46 @@
       "nama_aut": "4Minute",
       "Judul": "Hands Up",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/4Minute%20-%20Hot%20Issue.mp3",
+      "lirik": ""
+    },
+     {
+      "no": 64,
+      "idmp3": "64",
+      "nama_aut": "AB6IX",
+      "Judul": "Be There (기대)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/AB6IX%20%28%EC%97%90%EC%9D%B4%EB%B9%84%EC%8B%9D%EC%8A%A4%29%20-%20%27Be%20There%20%28%EA%B8%B0%EB%8C%80%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 65,
+      "idmp3": "65",
+      "nama_aut": "AB6IX",
+      "Judul": "Blind For Love",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/AB6IX%20%28%EC%97%90%EC%9D%B4%EB%B9%84%EC%8B%9D%EC%8A%A4%29%20-%20BLIND%20FOR%20LOVE.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 66,
+      "idmp3": "66",
+      "nama_aut": "AB6IX",
+      "Judul": "Deep Inside",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/AB6IX%20%28%EC%97%90%EC%9D%B4%EB%B9%84%EC%8B%9D%EC%8A%A4%29%20-%20DEEP%20INSIDE.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 67,
+      "idmp3": "67",
+      "nama_aut": "AB6IX",
+      "Judul": "Nothing Without You",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/AB6IX%20%28%EC%97%90%EC%9D%B4%EB%B9%84%EC%8B%9D%EC%8A%A4%29%20-%20NOTHING%20WITHOUT%20YOU.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 68,
+      "idmp3": "68",
+      "nama_aut": "AB6IX",
+      "Judul": "The Answer (답을 줘)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/AB6IX%20%28%EC%97%90%EC%9D%B4%EB%B9%84%EC%8B%9D%EC%8A%A4%29%20-%20THE%20ANSWER%20%20%28%EB%8B%B5%EC%9D%84%20%EC%A4%98%29.mp3",
       "lirik": ""
     }
   ]
