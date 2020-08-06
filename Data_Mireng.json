@@ -93,7 +93,7 @@
     {
       "id": 10,
       "nama": "AB6IX",
-      "gambar": "https://c-sf.smule.com/rs-s78/arr/fb/64/e693f60d-d384-4f6d-ae16-28399acc7cd1.jpg"
+      "gambar": "https://c-sf.smule.com/s-sf-bck2/arr/fc/dc/0e2f160c-53db-441c-bc89-1f9d188cb97b.jpg"
     
     }
   ],
@@ -648,6 +648,22 @@
       "nama_aut": "AB6IX",
       "Judul": "The Answer (답을 줘)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/AB6IX%20%28%EC%97%90%EC%9D%B4%EB%B9%84%EC%8B%9D%EC%8A%A4%29%20-%20THE%20ANSWER%20%20%28%EB%8B%B5%EC%9D%84%20%EC%A4%98%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 69,
+      "idmp3": "69",
+      "nama_aut": "Astro",
+      "Judul": "When You Call My Name (내 이름을 부를 때)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/ASTRO%20%28%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%29%20-%20When%20You%20Call%20My%20Name%20%28%EB%82%B4%20%EC%9D%B4%EB%A6%84%EC%9D%84%20%EB%B6%80%EB%A5%BC%20%EB%95%8C%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 70,
+      "idmp3": "70",
+      "nama_aut": "ATEEZ",
+      "Judul": "Wonderland",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/ATEEZ%28%EC%97%90%EC%9D%B4%ED%8B%B0%EC%A6%88%29%20-%20WONDERLAND.mp3",
       "lirik": ""
     }
   ]
