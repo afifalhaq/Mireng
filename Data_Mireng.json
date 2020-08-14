@@ -368,7 +368,7 @@
       "nama_aut": "Red Velvet",
       "Judul": "Really Bad Bay (English Ver.)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/06%20-%20RBB%20%28Really%20Bad%20Boy%29%20%28English%20Ver.%29%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/red-velvet-really-bad-boy-english.html"
     },
     {
       "no": 31,
@@ -376,7 +376,7 @@
       "nama_aut": "BLACKPINK",
       "Judul": "Forever Young (Japanese Ver.)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/07%20-%20FOREVER%20YOUNG%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/blackpink-forever-young-japan.html"
     },
     {
       "no": 32,
@@ -384,7 +384,7 @@
       "nama_aut": "iKon",
       "Judul": "Rubber Band (고무줄다리기)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/07%20-%20RUBBER%20BAND%20%28%EA%B3%A0%EB%AC%B4%EC%A4%84%EB%8B%A4%EB%A6%AC%EA%B8%B0%29%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/ikon-rubber-band.html"
     },
     {
       "no": 33,
@@ -392,7 +392,7 @@
       "nama_aut": "iKon",
       "Judul": "Beautiful",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/08%20-%20BEAUTIFUL%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/ikon-beautifull.html"
     },
     {
       "no": 34,
@@ -400,7 +400,7 @@
       "nama_aut": "BLACKPINK",
       "Judul": "Really (Japanese Ver.)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/08%20-%20REALLY%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/blackpink-really-japan.html"
     },
     {
       "no": 35,
@@ -408,7 +408,7 @@
       "nama_aut": "iKon",
       "Judul": "Cocktail",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/09%20-%20COCKTAIL%20%28%EC%B9%B5%ED%85%8C%EC%9D%BC%29%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/ikon-cocktail.html"
     },
     {
       "no": 36,
@@ -416,7 +416,7 @@
       "nama_aut": "BLACKPINK",
       "Judul": "See U Later (Japanese Ver.)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/09%20-%20SEE%20U%20LATER%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/blackpink-see-u-later-japan.html"
     },
     {
       "no": 37,
@@ -424,7 +424,7 @@
       "nama_aut": "iKon",
       "Judul": "Only You",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/10%20-%20ONLY%20YOU%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/ikon-only-you.html"
     },
     {
       "no": 38,
@@ -432,7 +432,7 @@
       "nama_aut": "iKon",
       "Judul": "Everything",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/11%20-%20EVERYTHING%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/ikon-everything.html"
     },
     {
       "no": 39,
@@ -440,7 +440,7 @@
       "nama_aut": "iKon",
       "Judul": "LOVE ME (나를 사랑하지 않나요)",
       "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/12%20-%20LOVE%20ME%20%28%EB%82%98%EB%A5%BC%20%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80%20%EC%95%8A%EB%82%98%EC%9A%94%29%29%20-%20HULKPOP.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/ikon-love-me.html"
     },
     {
       "no": 40,
@@ -2160,6 +2160,14 @@
       "nama_aut": "GOT7",
       "Judul": "Trust My Love",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Trust%20My%20Love.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 0253,
+      "idmp3": "0253",
+      "nama_aut": "GOT7",
+      "Judul": "I Dont Wanna Dance",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/ITZY%20%28%EC%9E%88%EC%A7%80%29%20-%20%27I%20DON%27T%20WANNA%20DANCE.mp3",
       "lirik": ""
     }
   ]
