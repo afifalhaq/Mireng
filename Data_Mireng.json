@@ -104,22 +104,58 @@
     },
     {
       "id": 12,
+      "nama": "ITZY",
+      "gambar": "https://c-sf.smule.com/rs-s-sf-2/sing_google/performance/cover/2d/e4/97a93c5f-fdc2-47ce-bea8-c754c34b57b4.jpg"
+    
+    },
+    {
+      "id": 13,
+      "nama": "IZ*ONE",
+      "gambar": "https://c-sf.smule.com/rs-s-sg-4/sing_google/performance/cover/41/03/7556414a-a908-4bac-84fa-84342f535ce4.jpg"
+    
+    },
+    {
+      "id": 14,
+      "nama": "MCND",
+      "gambar": "https://pm1.narvii.com/7412/202b3c3fb423e353adf77741375b730edc579736r1-800-800v2_128.jpg"
+    
+    },
+    {
+      "id": 15,
       "nama": "Momoland",
       "gambar": "https://c-sf.smule.com/rs-s78/arr/fb/64/e693f60d-d384-4f6d-ae16-28399acc7cd1.jpg"
     
     },
     {
-      "id": 13,
-      "nama": "Red Velvet",
-      "gambar": "https://pa1.narvii.com/6701/f249cd0076fa1f115b43d988a00883452bb0b931_00.gif"
+      "id": 16,
+      "nama": "Mamamoo",
+      "gambar": "https://c-sf.smule.com/rs-s89/arr/bf/69/97df2504-3855-4a89-94a6-3ceb258920fc.jpg"
     
     },
     {
-      "id": 14,
-      "nama": "ITZY",
-      "gambar": "https://c-sf.smule.com/rs-s-sf-2/sing_google/performance/cover/2d/e4/97a93c5f-fdc2-47ce-bea8-c754c34b57b4.jpg"
+      "id": 17,
+      "nama": "NCT 127",
+      "gambar": "https://c-sf.smule.com/rs-s95/arr/c9/6e/c06d079f-d19d-406d-9cd9-9001382993a7.jpg"
     
-    }
+    },
+    {
+      "id": 18,
+      "nama": "NCT Dream",
+      "gambar": "https://c-sf.smule.com/rs-s79/arr/6e/8a/2a1d7123-452b-4e37-b67f-5fc3e2664b67_256.jpg"
+    
+    },
+    {
+      "id": 19,
+      "nama": "NU'EST",
+      "gambar": "https://c-sf.smule.com/sf/s25/arr/8e/eb/6eaf3e86-fb6d-40e9-bd58-6910deef165b.jpg"
+    
+    },
+    {
+      "id": 20,
+      "nama": "Red Velvet",
+      "gambar": "https://pa1.narvii.com/6701/f249cd0076fa1f115b43d988a00883452bb0b931_00.gif"
+    
+    }    
   ],
   "Mainkan": [
     {
