@@ -37,27 +37,15 @@
   ],
   "Categories": [
     {
-      "id": 7,
-      "nama": "BLACKPINK",
-      "gambar": "https://c-sf.smule.com/rs-s80/arr/0d/34/fa6e2c42-62ac-4e8c-949b-2d5875bc64a6.jpg"
-     
-    },
-    {
-      "id": 6,
-      "nama": "BIGBANG",
-      "gambar": "https://c-sf.smule.com/rs-s35/arr/d2/fe/5550c384-1e65-45c6-86a1-cc5d9593bc87.jpg"
-    
-    },
-    {
-      "id": 8,
-      "nama": "BTS",
-      "gambar": "https://c-sf.smule.com/rs-s30/arr/1f/0f/ddd5ef00-72af-4c1b-a74e-9c10bd2fb3b3.jpg"
-    
-    },
-    {
       "id": 1,
       "nama": "2NE1",
       "gambar": "https://c-sf.smule.com/rs-s78/arr/d3/23/385c3b72-69e8-4c94-8c40-73822a1c4036.jpg"
+    
+    },
+    {
+      "id": 2,
+      "nama": "AB6IX",
+      "gambar": "https://c-sf.smule.com/s-sf-bck2/arr/fc/dc/0e2f160c-53db-441c-bc89-1f9d188cb97b.jpg"
     
     },
     {
@@ -73,33 +61,27 @@
     
     },
     {
-      "id": 11,
-      "nama": "iKon",
-      "gambar": "https://c-sf.smule.com/rs-s53/arr/97/df/0efaa940-3dca-439b-ab6b-4d531a7c1836.jpg"
-    
-    },
-    {
-      "id": 13,
-      "nama": "Red Velvet",
-      "gambar": "https://pa1.narvii.com/6701/f249cd0076fa1f115b43d988a00883452bb0b931_00.gif"
-    
-    },
-    {
-      "id": 12,
-      "nama": "Momoland",
-      "gambar": "https://c-sf.smule.com/rs-s78/arr/fb/64/e693f60d-d384-4f6d-ae16-28399acc7cd1.jpg"
-    
-    },
-    {
-      "id": 2,
-      "nama": "AB6IX",
-      "gambar": "https://c-sf.smule.com/s-sf-bck2/arr/fc/dc/0e2f160c-53db-441c-bc89-1f9d188cb97b.jpg"
-    
-    },
-    {
       "id": 5,
       "nama": "B1A4",
       "gambar": "https://c-sf.smule.com/sf/s38/arr/f5/52/54bec960-b1cd-43d8-ad03-26e5102f1508.jpg"
+    
+    },
+    {
+      "id": 6,
+      "nama": "BIGBANG",
+      "gambar": "https://c-sf.smule.com/rs-s35/arr/d2/fe/5550c384-1e65-45c6-86a1-cc5d9593bc87.jpg"
+    
+    },
+    {
+      "id": 7,
+      "nama": "BLACKPINK",
+      "gambar": "https://c-sf.smule.com/rs-s80/arr/0d/34/fa6e2c42-62ac-4e8c-949b-2d5875bc64a6.jpg"
+     
+    },
+    {
+      "id": 8,
+      "nama": "BTS",
+      "gambar": "https://c-sf.smule.com/rs-s30/arr/1f/0f/ddd5ef00-72af-4c1b-a74e-9c10bd2fb3b3.jpg"
     
     },
     {
@@ -112,6 +94,24 @@
       "id": 10,
       "nama": "GOT7",
       "gambar": "https://c-sf.smule.com/rs-s-sf-1/sing_google/performance/cover/55/4b/0e7b6365-376d-4f1f-a182-0f431fdb075a.jpg"
+    
+    },
+    {
+      "id": 11,
+      "nama": "iKon",
+      "gambar": "https://c-sf.smule.com/rs-s53/arr/97/df/0efaa940-3dca-439b-ab6b-4d531a7c1836.jpg"
+    
+    },
+    {
+      "id": 12,
+      "nama": "Momoland",
+      "gambar": "https://c-sf.smule.com/rs-s78/arr/fb/64/e693f60d-d384-4f6d-ae16-28399acc7cd1.jpg"
+    
+    },
+    {
+      "id": 13,
+      "nama": "Red Velvet",
+      "gambar": "https://pa1.narvii.com/6701/f249cd0076fa1f115b43d988a00883452bb0b931_00.gif"
     
     },
     {
