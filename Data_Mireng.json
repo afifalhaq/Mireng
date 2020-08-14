@@ -4,7 +4,7 @@
     {
       "pengaturan_iklan" : "1",
       "interval_intertitial": 4,
-      "intertitial_splash":"0",
+      "intertitial_splash":"1",
 
       "pub_id":"pub-3940256099942544",
       "admob_app_id":"ca-app-pub-3940256099942544~3347511713",
@@ -100,6 +100,18 @@
       "id": 11,
       "nama": "B1A4",
       "gambar": "https://c-sf.smule.com/sf/s38/arr/f5/52/54bec960-b1cd-43d8-ad03-26e5102f1508.jpg"
+    
+    },
+    {
+      "id": 12,
+      "nama": "EXO",
+      "gambar": "https://c-sf.smule.com/rs-s77/arr/1c/26/11699df6-8706-4221-83a3-7524a7fc3f60.jpg"
+    
+    },
+    {
+      "id": 12,
+      "nama": "GOT7",
+      "gambar": "https://c-sf.smule.com/rs-s-sf-1/sing_google/performance/cover/55/4b/0e7b6365-376d-4f1f-a182-0f431fdb075a.jpg"
     
     }
   ],
@@ -1862,6 +1874,286 @@
       "nama_aut": "BIGBANG",
       "Judul": "Monster",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Big%20Bang%20-%20Monster.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 219,
+      "idmp3": "219",
+      "nama_aut": "BIGBANG",
+      "Judul": "Lolipop",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Bigbang%20%26%202NE1%20%28%EB%B9%85%EB%B1%85%20%26%20%ED%88%AC%EC%95%A0%EB%8B%88%EC%9B%90%29%20-%20Lollipop.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 220,
+      "idmp3": "220",
+      "nama_aut": "iKon",
+      "Judul": "Rest Your Bones",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Bobby%20%28iKon%29%20-%20Rest%20Your%20Bones.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 221,
+      "idmp3": "221",
+      "nama_aut": "EXO",
+      "Judul": "Demage",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20-%20%27DAMAGE.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 222,
+      "idmp3": "222",
+      "nama_aut": "EXO",
+      "Judul": "With You (가끔)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20-%20%27With%20You%20%28%EA%B0%80%EB%81%94%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 223,
+      "idmp3": "223",
+      "nama_aut": "EXO",
+      "Judul": "24-7",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20-%2024-7.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 224,
+      "idmp3": "224",
+      "nama_aut": "EXO",
+      "Judul": "Gravity",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20-%20GRAVITY.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 225,
+      "idmp3": "225",
+      "nama_aut": "EXO",
+      "Judul": "Gravity",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20-%20GRAVITY.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 226,
+      "idmp3": "226",
+      "nama_aut": "EXO",
+      "Judul": "Oasis (오아시스)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20-%20Oasis%20%28%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 227,
+      "idmp3": "227",
+      "nama_aut": "EXO",
+      "Judul": "Ooh La La La (닿은 순간)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20-%20Ooh%20La%20La%20La%20%28%EB%8B%BF%EC%9D%80%20%EC%88%9C%EA%B0%84%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 228,
+      "idmp3": "228",
+      "nama_aut": "EXO",
+      "Judul": "Sign",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20-%20SIGN.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 229,
+      "idmp3": "229",
+      "nama_aut": "EXO",
+      "Judul": "SMILE ON MY FACE (여기 있을게)",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20%E2%80%93%20SMILE%20ON%20MY%20FACE%20%28%EC%97%AC%EA%B8%B0%20%EC%9E%88%EC%9D%84%EA%B2%8C%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 230,
+      "idmp3": "230",
+      "nama_aut": "EXO",
+      "Judul": "Trauma (트라우마)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20%E2%80%93%20Trauma%20%28%ED%8A%B8%EB%9D%BC%EC%9A%B0%EB%A7%88%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 231,
+      "idmp3": "231",
+      "nama_aut": "EXO",
+      "Judul": "Wait",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%86%8C%29%20%E2%80%93%20Wait.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 232,
+      "idmp3": "232",
+      "nama_aut": "EXO",
+      "Judul": "Tempo (Chinese Ver)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%28%EC%97%91%EC%88%98%29%20%27TEMPO%27%20EASY%20LYRICS%20CHINESE%20VER..mp3",
+      "lirik": ""
+    },
+    {
+      "no": 233,
+      "idmp3": "233",
+      "nama_aut": "EXO",
+      "Judul": "Call Me Baby",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%EC%97%91%EC%86%8C%20%27CALL%20ME%20BABY%27.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 234,
+      "idmp3": "234",
+      "nama_aut": "EXO",
+      "Judul": "Ko Ko Bop",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/EXO%20%EC%97%91%EC%86%8C%20%27Ko%20Ko%20Bop%27.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 235,
+      "idmp3": "235",
+      "nama_aut": "EXO",
+      "Judul": "Lotto",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%EC%97%91%EC%86%8C%20%27Lotto%27.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 236,
+      "idmp3": "236",
+      "nama_aut": "EXO",
+      "Judul": "Love Shot",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%EC%97%91%EC%86%8C%20%27Love%20Shot%27.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 237,
+      "idmp3": "237",
+      "nama_aut": "EXO",
+      "Judul": "Lucky One",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%EC%97%91%EC%86%8C%20%27Lucky%20One%27.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 238,
+      "idmp3": "238",
+      "nama_aut": "EXO",
+      "Judul": "Monster",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/EXO%20%EC%97%91%EC%86%8C%20%27Monster%27.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 239,
+      "idmp3": "239",
+      "nama_aut": "EXO",
+      "Judul": "Tempo",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%EC%97%91%EC%86%8C%20%27Tempo%27.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 240,
+      "idmp3": "240",
+      "nama_aut": "EXO",
+      "Judul": "Bad Dream (후폭풍)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO%20%EC%97%91%EC%86%8C%20%E2%80%94%20Bad%20Dream%20%28%ED%9B%84%ED%8F%AD%ED%92%8D%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 241,
+      "idmp3": "241",
+      "nama_aut": "EXO",
+      "Judul": "Overdose",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/EXO-K%20%EC%97%91%EC%86%8C%EC%BC%80%EC%9D%B4%20%27%EC%A4%91%EB%8F%85%28Overdose%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 241,
+      "idmp3": "241",
+      "nama_aut": "GFRIEND",
+      "Judul": "Apple",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GFRIEND%20%28%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC%29%20-%20Apple.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 242,
+      "idmp3": "242",
+      "nama_aut": "GOT7",
+      "Judul": "Aura",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Aura.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 243,
+      "idmp3": "243",
+      "nama_aut": "GOT7",
+      "Judul": "Crazy",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Crazy.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 244,
+      "idmp3": "244",
+      "nama_aut": "GOT7",
+      "Judul": "Gravity",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Gravity.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 245,
+      "idmp3": "245",
+      "nama_aut": "GOT7",
+      "Judul": "Love You Better",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Love%20You%20Better.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 246,
+      "idmp3": "246",
+      "nama_aut": "GOT7",
+      "Judul": "Meet Me",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Meet%20Me.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 247,
+      "idmp3": "247",
+      "nama_aut": "GOT7",
+      "Judul": "My Swagger",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20My%20Swagger.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 248,
+      "idmp3": "248",
+      "nama_aut": "GOT7",
+      "Judul": "Not By The Moon",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Not%20By%20The%20Moon.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 249,
+      "idmp3": "249",
+      "nama_aut": "GOT7",
+      "Judul": "Poison",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Poison.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 250,
+      "idmp3": "250",
+      "nama_aut": "GOT7",
+      "Judul": "Ride",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Ride.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 251,
+      "idmp3": "251",
+      "nama_aut": "GOT7",
+      "Judul": "Sing For U",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Sing%20For%20U.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 252,
+      "idmp3": "252",
+      "nama_aut": "GOT7",
+      "Judul": "Trust My Love",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/GOT7%20%28%EA%B0%93%EC%84%B8%EB%B8%90%29%20%E2%80%93%20Trust%20My%20Love.mp3",
       "lirik": ""
     }
   ]
