@@ -134,24 +134,30 @@
     },
     {
       "id": 17,
+      "nama": "MONSTA X",
+      "gambar": "https://c-sf.smule.com/sf/s30/arr/65/dc/395d4c37-e5b2-4ae1-9518-70aa3412c925.jpg"
+    
+    },
+    {
+      "id": 18,
       "nama": "NCT 127",
       "gambar": "https://c-sf.smule.com/rs-s95/arr/c9/6e/c06d079f-d19d-406d-9cd9-9001382993a7.jpg"
     
     },
     {
-      "id": 18,
+      "id": 19,
       "nama": "NCT Dream",
       "gambar": "https://c-sf.smule.com/rs-s79/arr/6e/8a/2a1d7123-452b-4e37-b67f-5fc3e2664b67_256.jpg"
     
     },
     {
-      "id": 19,
+      "id": 20,
       "nama": "NU'EST",
       "gambar": "https://c-sf.smule.com/sf/s25/arr/8e/eb/6eaf3e86-fb6d-40e9-bd58-6910deef165b.jpg"
     
     },
     {
-      "id": 20,
+      "id": 21,
       "nama": "Red Velvet",
       "gambar": "https://pa1.narvii.com/6701/f249cd0076fa1f115b43d988a00883452bb0b931_00.gif"
     
@@ -2204,6 +2210,14 @@
       "nama_aut": "GOT7",
       "Judul": "I Dont Wanna Dance",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/ITZY%20%28%EC%9E%88%EC%A7%80%29%20-%20%27I%20DON%27T%20WANNA%20DANCE.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 254,
+      "idmp3": "254",
+      "nama_aut": "MONSTA X",
+      "Judul": "I Dont Wanna Dance",
+      "url_mp3": "http://docs.google.com/uc?port=download&id=16PXgQSIQRHc7q_xCInYFvivBmFYCWOtu",
       "lirik": ""
     }
   ]
