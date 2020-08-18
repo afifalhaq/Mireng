@@ -3,7 +3,7 @@
 "Iklan": [
     {
       "pengaturan_iklan" : "1",
-      "interval_intertitial": 4,
+      "interval_intertitial": 5,
       "intertitial_splash":"1",
 
       "pub_id":"pub-5011952813953789",
