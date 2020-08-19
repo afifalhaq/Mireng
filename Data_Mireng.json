@@ -3,7 +3,7 @@
 "Iklan": [
     {
       "pengaturan_iklan" : "1",
-      "interval_intertitial": 5,
+      "interval_intertitial": 10,
       "intertitial_splash":"1",
 
       "pub_id":"pub-5011952813953789",
@@ -754,7 +754,7 @@
       "nama_aut": "Apink",
       "Judul": "Miracle (기적 같은 이야기)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Apink%20%28%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC%29%20-%20MIRACLE%20%28%EA%B8%B0%EC%A0%81%20%EA%B0%99%EC%9D%80%20%EC%9D%B4%EC%95%BC%EA%B8%B0%29.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/apink-miracle.html"
     },
     {
       "no": 74,
@@ -762,7 +762,7 @@
       "nama_aut": "Apink",
       "Judul": "Remember",
       "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/Apink%20%28%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC%29%20-%20Remember.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/apink-remember.html"
     },
     {
       "no": 74,
@@ -770,7 +770,7 @@
       "nama_aut": "Apink",
       "Judul": "The Wave",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Apink%20%28%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC%29%20-%20The%20Wave.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/apink-wave.html"
     },
     {
       "no": 75,
@@ -778,7 +778,7 @@
       "nama_aut": "Apink",
       "Judul": "Eung Eung",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Apink%28%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC%29%20-%20%25%25%28Eung%20Eung.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/apink-eung-eung.html"
     },
     {
       "no": 76,
@@ -786,7 +786,7 @@
       "nama_aut": "Apink",
       "Judul": "Cause You're My Star",
       "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/Apink%28%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC%29%20-%20Cause%20you%27re%20my%20star.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/apink-cause-youre-my-star.html"
     },
     {
       "no": 77,
@@ -794,7 +794,7 @@
       "nama_aut": "Apink",
       "Judul": "Crystal (크리스탈)",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Apink%28%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC%29%20-%20Crystal%28%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88%29.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/apink-crystal.html"
     },
     {
       "no": 78,
@@ -802,7 +802,7 @@
       "nama_aut": "Apink",
       "Judul": "Five",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Apink%28%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC%29%20-%20FIVE.mp3",
-      "lirik": ""
+      "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/apink-five.html"
     },
     {
       "no": 79,
