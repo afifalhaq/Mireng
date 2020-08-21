@@ -4,7 +4,7 @@
     {
       "pengaturan_iklan" : "1",
       "interval_intertitial": 10,
-      "intertitial_splash":"1",
+      "intertitial_splash":"0",
 
       "pub_id":"pub-5011952813953789",
       "admob_app_id":"ca-app-pub-5011952813953789~2345540704",
@@ -2429,8 +2429,8 @@
       "lirik": ""
     },
     {
-      "no": 280,
-      "idmp3": "280",
+      "no": 0280,
+      "idmp3": "0280",
       "nama_aut": "BTS",
       "Judul": "Dynamite",
       "url_mp3": "http://docs.google.com/uc?xport=download&id=1Ns2ABfyxkOQRe1_LIyy7vh-jfjZlJt2f",
