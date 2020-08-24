@@ -134,30 +134,36 @@
     },
     {
       "id": 17,
+      "nama": "Momoland",
+      "gambar": "https://c-sf.smule.com/rs-s78/arr/f0/c7/297d7b8b-b4a5-4549-af01-6e5b3610e4e2.jpg"
+    
+    },
+    {
+      "id": 18,
       "nama": "MONSTA X",
       "gambar": "https://c-sf.smule.com/sf/s30/arr/65/dc/395d4c37-e5b2-4ae1-9518-70aa3412c925.jpg"
     
     },
     {
-      "id": 18,
+      "id": 19,
       "nama": "NCT 127",
       "gambar": "https://c-sf.smule.com/rs-s95/arr/c9/6e/c06d079f-d19d-406d-9cd9-9001382993a7.jpg"
     
     },
     {
-      "id": 19,
+      "id": 20,
       "nama": "NCT Dream",
       "gambar": "https://c-sf.smule.com/rs-s79/arr/6e/8a/2a1d7123-452b-4e37-b67f-5fc3e2664b67_256.jpg"
     
     },
     {
-      "id": 20,
+      "id": 21,
       "nama": "NU'EST",
       "gambar": "https://c-sf.smule.com/sf/s25/arr/8e/eb/6eaf3e86-fb6d-40e9-bd58-6910deef165b.jpg"
     
     },
     {
-      "id": 21,
+      "id": 22,
       "nama": "Red Velvet",
       "gambar": "https://pa1.narvii.com/6701/f249cd0076fa1f115b43d988a00883452bb0b931_00.gif"
     
@@ -2818,6 +2824,30 @@
       "nama_aut": "Mamamoo",
       "Judul": "rEALITY",
       "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Mamamoo%20%28%EB%A7%88%EB%A7%88%EB%AC%B4%29%20-%20rEALITY.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 0325,
+      "idmp3": "0325",
+      "nama_aut": "Momoland",
+      "Judul": "Bboom Bboom (Japanese Ver.)",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/Momoland%20%28%E3%83%A2%E3%83%A2%E3%83%A9%E3%83%B3%E3%83%89%29%20-%20Bboom%20Bboom%20%28Japanese%20Ver.%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 0326,
+      "idmp3": "0326",
+      "nama_aut": "Momoland",
+      "Judul": "Only One You",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/Momoland%20%28%EB%AA%A8%EB%AA%A8%EB%9E%9C%EB%93%9C%29%20%E2%80%93%20Only%20One%20You.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 0326,
+      "idmp3": "0326",
+      "nama_aut": "N.Flying",
+      "Judul": "굿밤 (GOOD BAM)",
+      "url_mp3": "https://ia801507.us.archive.org/9/items/m1reng_202007/N.Flying%20%28%EC%97%94%ED%94%8C%EB%9D%BC%EC%9E%89%29%20%E2%80%93%20%EA%B5%BF%EB%B0%A4%20%28GOOD%20BAM%29.mp3",
       "lirik": ""
     }
   ]
