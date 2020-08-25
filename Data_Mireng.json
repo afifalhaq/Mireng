@@ -2859,11 +2859,27 @@
       "lirik": ""
     },
     {
-      "no": 0327,
-      "idmp3": "0327",
+      "no": 0328,
+      "idmp3": "0328",
       "nama_aut": "ATEEZ",
-      "Judul": "THANXX",
+      "Judul": "Aurora (Japan Ver.)",
       "url_mp3": "http://docs.google.com/uc?xport=download&id=17T5Y515ypNkps1eIMx40xZsC20J7yeL_",
+      "lirik": ""
+    },
+    {
+      "no": 0329,
+      "idmp3": "0329",
+      "nama_aut": "ATEEZ",
+      "Judul": "Aurora",
+      "url_mp3": "http://docs.google.com/uc?xport=download&id=1xSeAhEPrOcEDgFcS9GfHUIqO6XIqpjI5",
+      "lirik": ""
+    },
+    {
+      "no": 0330,
+      "idmp3": "0330",
+      "nama_aut": "ATEEZ",
+      "Judul": "Utopia (Japan Ver.)",
+      "url_mp3": "http://docs.google.com/uc?xport=download&id=1FeuENmNv5vic9UBKGBJrJgysP2XAb2zP",
       "lirik": ""
     }
   ]
