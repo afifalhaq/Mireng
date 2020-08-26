@@ -36,19 +36,19 @@
   "music": [
     {
       "id" : 1,
-      "judul" : "Nasihat kepada yang malas ibadah",
-      "host" : "Khalid Basalamah",
-      "gambar" : "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3" : "http://hexa.web.id/malas_ibadah.mp3",
+      "judul" : "THANXX",
+      "host" : "ATEEZ",
+      "gambar" : "https://c-sf.smule.com/rs-s95/arr/ab/6c/fe308d5a-61f8-4d49-a8a1-2d9a38c9403e.jpg",
+      "link_mp3" : "http://docs.google.com/uc?xport=download&id=1EwWHRCLBLiI3OuutQ1sgYPAswse0JRvb",
       "lirik" : "http://hexa.web.id/contoh_text.html",
-      "durasi" : 52
+      "durasi" : 
     },
     {
       "id" : 2,
-      "judul" : "Dosa hanya akan membawa keburukan",
-      "host" : "Khalid Basalamah",
-      "gambar" : "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3" : "http://hexa.web.id/dosa_membawa_keburukan.mp3",
+      "judul" : "Aurora (Japan Ver.)",
+      "host" : "ATEEZ",
+      "gambar" : "https://c-sf.smule.com/rs-s95/arr/ab/6c/fe308d5a-61f8-4d49-a8a1-2d9a38c9403e.jpg",
+      "link_mp3" : "http://docs.google.com/uc?xport=download&id=17T5Y515ypNkps1eIMx40xZsC20J7yeL_",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 76
     },
