@@ -36,19 +36,19 @@
   "music": [
     {
       "id" : 1,
-      "judul" : "THANXX",
-      "host" : "ATEEZ",
-      "gambar" : "https://c-sf.smule.com/rs-s95/arr/ab/6c/fe308d5a-61f8-4d49-a8a1-2d9a38c9403e.jpg",
-      "link_mp3" : "http://docs.google.com/uc?xport=download&id=1EwWHRCLBLiI3OuutQ1sgYPAswse0JRvb",
+      "judul" : "Alones",
+      "host" : "Aqua Timez",
+      "gambar" : "https://c-sf.smule.com/rs-s78/arr/7b/fa/c3b58101-6294-41e7-9e11-f5e5a05cd4a4.jpg",
+      "link_mp3" : "http://docs.google.com/uc?xport=download&id=1m0v_brzPCC02EV8aMt7SgaKikIJPvq9Y",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 52
     },
     {
       "id" : 2,
-      "judul" : "Aurora (Japan Ver.)",
-      "host" : "ATEEZ",
-      "gambar" : "https://c-sf.smule.com/rs-s95/arr/ab/6c/fe308d5a-61f8-4d49-a8a1-2d9a38c9403e.jpg",
-      "link_mp3" : "http://docs.google.com/uc?xport=download&id=17T5Y515ypNkps1eIMx40xZsC20J7yeL_",
+      "judul" : "Velonica",
+      "host" : "Aqua Timez",
+      "gambar" : "https://c-sf.smule.com/rs-s30/arr/05/f6/172a9a48-6398-4327-b5a5-688b6d6db71d.jpg",
+      "link_mp3" : "http://docs.google.com/uc?xport=download&id=1nyioTsHP-9HmQ_t3k7fQOunJKjxMMZn5",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 76
     }
