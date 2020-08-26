@@ -36,12 +36,12 @@
   "music": [
     {
       "id" : 1,
-      "judul" : "THANXX",
-      "host" : "ATEEZ",
+      "judul" : "Nasihat kepada yang malas ibadah",
+      "host" : "Khalid Basalamah",
       "gambar" : "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3" : "http://docs.google.com/uc?xport=download&id=1EwWHRCLBLiI3OuutQ1sgYPAswse0JRvb",
+      "link_mp3" : "http://hexa.web.id/malas_ibadah.mp3",
       "lirik" : "http://hexa.web.id/contoh_text.html",
-      "durasi" : 
+      "durasi" : 52
     },
     {
       "id" : 2,
