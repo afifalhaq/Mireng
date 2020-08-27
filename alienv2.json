@@ -38,7 +38,7 @@
       "id" : 1,
       "judul" : "Alones",
       "host" : "Aqua Timez",
-      "gambar" : "https://c-sf.smule.com/rs-s78/arr/7b/fa/c3b58101-6294-41e7-9e11-f5e5a05cd4a4.jpg",
+      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1m0v_brzPCC02EV8aMt7SgaKikIJPvq9Y",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
@@ -47,7 +47,7 @@
       "id" : 2,
       "judul" : "Velonica",
       "host" : "Aqua Timez",
-      "gambar" : "",
+      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1nyioTsHP-9HmQ_t3k7fQOunJKjxMMZn5",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
@@ -56,7 +56,7 @@
       "id" : 3,
       "judul" : "After Dark (アフターダーク)",
       "host" : "Asian Kung-Fu Generation",
-      "gambar" : "",
+      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=13eJYGUgj1KqJiLZsTmR9JMNLXZdAcfDP",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
@@ -65,7 +65,7 @@
       "id" : 4,
       "judul" : "Tonight, Tonight, Tonight",
       "host" : "Beat Crusaders",
-      "gambar" : "",
+      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1CUUCqTqD_P9bIGgQjwBf7Ovn_dLnp3YE",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
