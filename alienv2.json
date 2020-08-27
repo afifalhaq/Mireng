@@ -69,6 +69,15 @@
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1CUUCqTqD_P9bIGgQjwBf7Ovn_dLnp3YE",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
+    },
+      {
+      "id" : 5,
+      "judul" : "Ichirin no Hana (一輪の花)",
+      "host" : "High and Mighty Color",
+      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
+      "link_mp3" : "http://docs.google.com/uc?xport=download&id=1THii-TVJ_Bh8TmuIkyIMKuE9Vt_-wr6V",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 100
     }
   ]
 }
