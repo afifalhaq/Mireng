@@ -36,44 +36,44 @@
   "music": [
     {
       "id" : 1,
-      "judul" : "Alones",
-      "host" : "Aqua Timez",
-      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
+      "judul" : "Aqua Timez - Alones",
+      "host" : "Bleach",
+      "gambar" : "",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1m0v_brzPCC02EV8aMt7SgaKikIJPvq9Y",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
     },
     {
       "id" : 2,
-      "judul" : "Velonica",
-      "host" : "Aqua Timez",
-      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
+      "judul" : "Aqua Timez - Velonica",
+      "host" : "Bleach",
+      "gambar" : "",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1nyioTsHP-9HmQ_t3k7fQOunJKjxMMZn5",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
     },
     {
       "id" : 3,
-      "judul" : "After Dark (アフターダーク)",
-      "host" : "Asian Kung-Fu Generation",
-      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
+      "judul" : "Asian Kung-Fu Generation- After Dark (アフターダーク)",
+      "host" : "Bleach",
+      "gambar" : "",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=13eJYGUgj1KqJiLZsTmR9JMNLXZdAcfDP",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
     },
     {
       "id" : 4,
-      "judul" : "Tonight, Tonight, Tonight",
-      "host" : "Beat Crusaders",
-      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
+      "judul" : "Beat Crusaders - Tonight, Tonight, Tonight",
+      "host" : "Bleach",
+      "gambar" : "",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1CUUCqTqD_P9bIGgQjwBf7Ovn_dLnp3YE",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
     },
       {
       "id" : 5,
-      "judul" : "Ichirin no Hana (一輪の花)",
-      "host" : "High and Mighty Color",
+      "judul" : "High and Mighty Color - Ichirin no Hana (一輪の花)",
+      "host" : "Bleach",
       "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1THii-TVJ_Bh8TmuIkyIMKuE9Vt_-wr6V",
       "lirik" : "http://hexa.web.id/contoh_text.html",
