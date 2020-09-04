@@ -74,8 +74,26 @@
       "id" : 5,
       "judul" : "High and Mighty Color - Ichirin no Hana (一輪の花)",
       "host" : "Bleach",
-      "gambar" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Musicicon.png",
+      "gambar" : "",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1THii-TVJ_Bh8TmuIkyIMKuE9Vt_-wr6V",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 100
+    },
+{
+      "id" : 6,
+      "judul" : "Namie Amuro - Hope",
+      "host" : "One Piece",
+      "gambar" : "",
+      "link_mp3" : "http://docs.google.com/uc?xport=download&id=1_b8sJjZBiUUDEmZAYbp3FGXSEgmWnIgm",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 100
+    },
+      {
+      "id" : 7,
+      "judul" : "Namie Amuro - Fight Together",
+      "host" : "One Piece",
+      "gambar" : "",
+      "link_mp3" : "http://docs.google.com/uc?xport=download&id=1O-Hmjz0lqMjFhU6sJtc6pSBbyBM9UeFN",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
     }
