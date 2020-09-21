@@ -104,6 +104,34 @@
       "nama_cat": "BTS",
       "judul":"",
       "image":"https://ia801402.us.archive.org/5/items/bts-1/6.jpg"
+    },
+    {
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "BTS",
+      "judul":"",
+      "image":"https://ia801402.us.archive.org/5/items/bts-1/7.jpg"
+    },
+          {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "BTS",
+      "judul":"",
+      "image":"https://ia801402.us.archive.org/5/items/bts-1/8.jpg"
+    },
+          {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "BTS",
+      "judul":"",
+      "image":"https://ia801402.us.archive.org/5/items/bts-1/9.jpg"
+    },
+          {
+      "id":10,
+      "id_wall":"0010",
+      "nama_cat": "BTS",
+      "judul":"",
+      "image":"https://ia801402.us.archive.org/5/items/bts-1/10.jpg"
     }
 
   ]
