@@ -32,6 +32,23 @@
 
         }
     ],
+    "Category": [
+    {
+      "id" : 1,
+      "host" : "Bleach",
+      "gambar" : "https://avatarfiles.alphacoders.com/537/53714.jpg"
+    },
+    {
+      "id" : 2,
+      "host" : "One Piece",
+      "gambar" : "https://c-sf.smule.com/rs-s44/arr/57/18/643b13a5-0a67-43de-9ed3-0251e34ec004.jpg"
+    },
+    {
+      "id" : 3,
+      "host" : "Mr. Kim",
+      "gambar" : "https://aliendro.id/uploads/profile/avatar_5f7660fda38de1-39888056-68757770.jpg"
+    }
+  ],
 
   "music": [
     {
