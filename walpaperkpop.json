@@ -7,7 +7,7 @@
         "nativeid": "ca-app-pub-5011952813953789/4316854693",
         "openads":"ca-app-pub-5011952813953789/2826651389",
                 
-        "interval": 5,
+        "interval": 10,
         "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
@@ -1319,7 +1319,182 @@
       "id_wall":"00175",
       "nama_cat": "Blackpink",
       "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/1.jpg"
+    },
+          {
+      "id":176,
+      "id_wall":"00176",
+      "nama_cat": "Blackpink",
+      "judul":"",
       "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/26.jpg"
+    },
+    {
+      "id":177,
+      "id_wall":"00177",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/27.jpg"
+    },
+      {
+      "id":178,
+      "id_wall":"00178",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/28.jpg"
+    },
+    {
+      "id":179,
+      "id_wall":"00179",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/29.jpg"
+    },
+      {
+      "id":180,
+      "id_wall":"00180",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/30.jpg"
+    },
+    {
+      "id":181,
+      "id_wall":"00181",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/31.jpg"
+    },
+    {
+      "id":182,
+      "id_wall":"00182",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/32.jpg"
+    },
+          {
+      "id":183,
+      "id_wall":"00183",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/33.jpg"
+    },
+          {
+      "id":184,
+      "id_wall":"00184",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/34.jpg"
+    },
+          {
+      "id":185,
+      "id_wall":"00185",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/35.jpg"
+    },
+           {
+      "id":186,
+      "id_wall":"00186",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/36.jpg"
+    },
+          {
+      "id":187,
+      "id_wall":"00187",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/37.jpg"
+    },
+          {
+      "id":188,
+      "id_wall":"00188",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/38.jpg"
+    },
+          {
+      "id":189,
+      "id_wall":"00189",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/39.jpg"
+    },
+          {
+      "id":190,
+      "id_wall":"00190",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/40.jpg"
+    },
+          {
+      "id":191,
+      "id_wall":"00191",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/41.jpg"
+    },
+          {
+      "id":192,
+      "id_wall":"00192",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/42.jpg"
+    },
+          {
+      "id":193,
+      "id_wall":"00193",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/43.jpg"
+    },
+          {
+      "id":194,
+      "id_wall":"00194",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/44.jpg"
+    },
+          {
+      "id":195,
+      "id_wall":"00195",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/45.jpg"
+    },
+          {
+      "id":196,
+      "id_wall":"00196",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/46.jpg"
+    },
+          {
+      "id":197,
+      "id_wall":"00197",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/47.jpg"
+    },
+          {
+      "id":198,
+      "id_wall":"00198",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/48.jpg"
+    },
+          {
+      "id":199,
+      "id_wall":"00199",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/49.jpg"
+    },
+          {
+      "id":200,
+      "id_wall":"00200",
+      "nama_cat": "Blackpink",
+      "judul":"",
+      "image":"https://ia601503.us.archive.org/4/items/blackpink_202009/50.jpg"
     }
 
   ]
