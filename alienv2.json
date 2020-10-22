@@ -45,8 +45,8 @@
     },
     {
       "id" : 3,
-      "host" : "Mr. Kim",
-      "gambar" : "https://aliendro.id/uploads/profile/avatar_5f7660fda38de1-39888056-68757770.jpg"
+      "host" : "Inuyasha",
+      "gambar" : "https://i.pinimg.com/originals/02/b8/55/02b85538cbae2950f49f70897879b845.jpg"
     }
   ],
 
@@ -111,6 +111,24 @@
       "host" : "One Piece",
       "gambar" : "",
       "link_mp3" : "http://docs.google.com/uc?xport=download&id=1O-Hmjz0lqMjFhU6sJtc6pSBbyBM9UeFN",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 100
+    },
+      {
+      "id" : 8,
+      "judul" : "Ayumi Hamasaki - Dearest",
+      "host" : "Inuyasha",
+      "gambar" : "",
+      "link_mp3" : "https://ia801905.us.archive.org/2/items/ayeyeyesinuyashaending_202007/Ayumi%20Hamasaki%20-%20Dearest.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 100
+    },
+      {
+      "id" : 9,
+      "judul" : "BoA - Every Heart",
+      "host" : "Inuyasha",
+      "gambar" : "",
+      "link_mp3" : "https://ia801905.us.archive.org/2/items/ayeyeyesinuyashaending_202007/BoA%20-%20Every%20Heart.mp3",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
     }
