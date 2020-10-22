@@ -128,7 +128,7 @@
       "id_wall":"008",
       "nama_cat": "One Piece",
       "judul":"",
-      "image":"https://i.pinimg.com/564x/fa/0d/a4/fa0da42579f9808c5327dcc8de967f8c.jpg"
+      "image":"https://i.pinimg.com/564x/b1/fd/c5/b1fdc5d22e422af6190b2c988de28359.jpg"
     },
           {
       "id":9,
@@ -143,6 +143,27 @@
       "nama_cat": "One Piece",
       "judul":"",
       "image":"https://i.pinimg.com/564x/82/fe/b7/82feb73ab18be058b4555e3e853111bc.jpg"
+    },
+          {
+      "id":11,
+      "id_wall":"0011",
+      "nama_cat": "One Piece",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/c2/c1/20/c2c120cf3a69cad1a45ef554ad56db04.jpg"
+    },
+          {
+      "id":12,
+      "id_wall":"0012",
+      "nama_cat": "One Piece",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/93/6c/e7/936ce725075ee86340c35069ea25a620.jpg"
+    },
+          {
+      "id":13,
+      "id_wall":"0013",
+      "nama_cat": "One Piece",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/6b/c2/a0/6bc2a0216bd772a9925456b4ba27bf88.jpg"
     }
 
   ]
