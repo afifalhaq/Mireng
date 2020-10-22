@@ -76,15 +76,15 @@
       "id":1,
       "id_wall":"001",
       "nama_cat": "One Piece",
-      "judul":"Roronoa Zoro",
+      "judul":"",
       "image":"https://i.pinimg.com/736x/65/c2/11/65c211c2e3d902c3293e3ad285a1eefb.jpg"
     },
     {
       "id":2,
       "id_wall":"002",
       "nama_cat": "One Piece",
-      "judul":"Jinbei",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ae01b20-3764-4fd7-91b0-57fd27d63bb5/dcx73le-c3f839c5-079a-4126-81e4-90d058d2e7fa.jpg/v1/fill/w_1024,h_1463,q_75,strp/jinbe_wci_card_by_leegrove_by_leegrove_dcx73le-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MyIsInBhdGgiOiJcL2ZcLzJhZTAxYjIwLTM3NjQtNGZkNy05MWIwLTU3ZmQyN2Q2M2JiNVwvZGN4NzNsZS1jM2Y4MzljNS0wNzlhLTQxMjYtODFlNC05MGQwNThkMmU3ZmEuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tV0sqADZP93bqyibM1wcxzenXvrOcPXoEpsCDpfYDDA"
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/0c/d6/88/0cd688085e7d16ba308f01ebd88338c3.jpg"
     },
       {
       "id":3,
@@ -106,7 +106,7 @@
       "id":5,
       "id_wall":"005",
       "nama_cat": "One Piece",
-      "judul":"Shank",
+      "judul":"",
       "image":"https://static.zerochan.net/Shanks.full.1917475.jpg"
     },
     {
@@ -115,6 +115,34 @@
       "nama_cat": "Naruto",
       "judul":"Uchiha Itachi",
       "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
+    },
+          {
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "One Piece",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/eb/2f/15/eb2f15a945bc43dbaa1b5b2b9064ce31.jpg"
+    },
+          {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "One Piece",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/fa/0d/a4/fa0da42579f9808c5327dcc8de967f8c.jpg"
+    },
+          {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "One Piece",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/fa/0d/a4/fa0da42579f9808c5327dcc8de967f8c.jpg"
+    },
+          {
+      "id":10,
+      "id_wall":"0010",
+      "nama_cat": "One Piece",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/82/fe/b7/82feb73ab18be058b4555e3e853111bc.jpg"
     }
 
   ]
