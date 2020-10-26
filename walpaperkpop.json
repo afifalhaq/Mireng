@@ -1901,7 +1901,20 @@
       "nama_cat": "Blackpink",
       "judul":"",
       "image":"https://i.pinimg.com/564x/81/93/70/8193709a15b9ac19952e9d981e3d913f.jpg"
-    }
+    },
+          {
+      "id":261,
+      "id_wall":"00261",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/0e/5e/91/0e5e91475b67d1fe51071c6e0b66eea5.jpg"
+    },
+          {
+      "id":262,
+      "id_wall":"00262",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/d9/04/1e/d9041e1de12304359a5f593c74c96384.jpg
   ]
 }
 
