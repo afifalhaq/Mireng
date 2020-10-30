@@ -140,6 +140,15 @@
       "link_mp3" : "https://firebasestorage.googleapis.com/v0/b/ainime.appspot.com/o/Twice%20-%20I%20CAN'T%20STOP%20ME.mp3?alt=media&token=8bab71da-4b55-42f5-b251-d11d36f0b9f5",
       "lirik" : "http://hexa.web.id/contoh_text.html",
       "durasi" : 100
+    },
+      {
+      "id" : 11,
+      "judul" : "BLACKPINK - You Never Know",
+      "host" : "Inuyasha",
+      "gambar" : "",
+      "link_mp3" : "http://senthong.web.id/BLACKPINK%20-%20You%20Never%20Know.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 100
     }
   ]
 }
