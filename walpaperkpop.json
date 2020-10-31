@@ -71,18 +71,24 @@
     },
           {
       "id": 4,
+      "nama_cat": "GOT7",
+      "gambar": "https://i.pinimg.com/564x/00/ac/b4/00acb462a7b98d450c797c99c28b7de1.jpg"
+     
+    },
+          {
+      "id": 5,
       "nama_cat": "Red Velvet",
       "gambar": "https://ia601502.us.archive.org/24/items/redvelvet-1/1.png"
      
     },
           {
-      "id": 5,
+      "id": 6,
       "nama_cat": "Stray Kids",
       "gambar": "https://ia601407.us.archive.org/30/items/StrayKids-1/1.png"
      
     },
           {
-      "id": 6,
+      "id": 7,
       "nama_cat": "Twice",
       "gambar": "https://ia801506.us.archive.org/10/items/twice-1/1.jpg"
      
@@ -1915,7 +1921,98 @@
       "nama_cat": "EXO",
       "judul":"",
       "image":"https://i.pinimg.com/564x/d9/04/1e/d9041e1de12304359a5f593c74c96384.jpg"
-                  }
+                  },
+          {
+      "id":263,
+      "id_wall":"00263",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/93/4f/13/934f13a501fb69066aa7c4d91e486122.jpg"
+    },
+          {
+      "id":264,
+      "id_wall":"00264",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/ae/c0/77/aec0774215bb8e37a86d605e6865a60c.jpg"
+    },
+          {
+      "id":265,
+      "id_wall":"00265",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/ae/c0/77/aec0774215bb8e37a86d605e6865a60c.jpg"
+    },
+          {
+      "id":266,
+      "id_wall":"266",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/e4/93/be/e493be875980b6464fa2d7266f80069a.jpg"
+    },
+          {
+      "id":267,
+      "id_wall":"267",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/71/57/73/715773289d7943418880d5396d29a9fb.jpg"
+    },
+          {
+      "id":268,
+      "id_wall":"268",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/0e/a1/82/0ea18271b8604ce32fa909ff5d1aa1ea.jpg"
+    },
+          {
+      "id":269,
+      "id_wall":"269",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/65/84/5b/65845b90425d2117ff6acdf2f8a3dec7.jpg"
+    },
+          {
+      "id":270,
+      "id_wall":"270",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/f1/c0/ca/f1c0ca3e188470910983159c63cd367b.jpg"
+    },
+          {
+      "id":271,
+      "id_wall":"00271",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/4c/54/2c/4c542cbcca82636fb9d77bb658ca2eb8.jpg"
+    },
+          {
+      "id":272,
+      "id_wall":"00272",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/95/8a/e1/958ae107f223acf94f7f8b65b1150a3c.jpg"
+    },
+          {
+      "id":273,
+      "id_wall":"00273",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/25/0a/71/250a71f3b227ae32c7ed8187026cb3ad.jpg"
+    },
+          {
+      "id":274,
+      "id_wall":"00274",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/f9/9c/3e/f99c3ed87a05eee0e496a733ddc0b940.jpg"
+    },
+          {
+      "id":275,
+      "id_wall":"00275",
+      "nama_cat": "EXO",
+      "judul":"",
+      "image":"https://i.pinimg.com/564x/e2/46/b8/e246b8e48af87e153a3de909d561f32b.jpg"
+    }
   ]
 }
 
