@@ -167,7 +167,13 @@
       "nama": "Red Velvet",
       "gambar": "https://pa1.narvii.com/6701/f249cd0076fa1f115b43d988a00883452bb0b931_00.gif"
     
-    }    
+    },
+    {
+      "id": 24,
+      "nama": "TREASURE",
+      "gambar": "https://pm1.narvii.com/7608/d226f5f1f96c98a16daafca9bc56243ba0e03951r1-976-2047v2_128.jpg"
+    
+    } 
   ],
   "Mainkan": [
     {
@@ -2897,6 +2903,62 @@
       "Judul": "You Never Know",
       "url_mp3": "http://senthong.web.id/BLACKPINK%20-%20You%20Never%20Know.mp3",
       "lirik": "https://hanyauntuklirik.blogspot.com/2020/08/blackpink-ice-cream.html"
+    },
+    {
+      "no": 0333,
+      "idmp3": "0333",
+      "nama_aut": "TREASURE",
+      "Judul": "TREASURE - B.L.T (BLING LIKE THIS)",
+      "url_mp3": "https://ia801507.us.archive.org/12/items/wasur-mir/TREASURE%20-%20B.L.T%20%28BLING%20LIKE%20THIS%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 334,
+      "idmp3": "334",
+      "nama_aut": "TREASURE",
+      "Judul": "TREASURE - BOY",
+      "url_mp3": "https://ia601507.us.archive.org/12/items/wasur-mir/TREASURE%20-%20BOY.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 335,
+      "idmp3": "335",
+      "nama_aut": "TREASURE",
+      "Judul": "TREASURE - Going Crazy (미쳐가네)",
+      "url_mp3": "https://ia601507.us.archive.org/12/items/wasur-mir/TREASURE%20-%20Going%20Crazy%20%28미쳐가네%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 336,
+      "idmp3": "336",
+      "nama_aut": "TREASURE",
+      "Judul": "TREASURE - I LOVE YOU (사랑해)",
+      "url_mp3": "https://ia601507.us.archive.org/12/items/wasur-mir/TREASURE%20-%20I%20LOVE%20YOU%20%28사랑해%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 337,
+      "idmp3": "337",
+      "nama_aut": "TREASURE",
+      "Judul": "TREASURE - MMM (음)",
+      "url_mp3": "https://ia801507.us.archive.org/12/items/wasur-mir/TREASURE%20-%20MMM%20%28음%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 338,
+      "idmp3": "338",
+      "nama_aut": "TREASURE",
+      "Judul": "TREASURE - ORANGE (오렌지)",
+      "url_mp3": "https://ia801507.us.archive.org/12/items/wasur-mir/TREASURE%20-%20ORANGE%20%28오렌지%29.mp3",
+      "lirik": ""
+    },
+    {
+      "no": 339,
+      "idmp3": "339",
+      "nama_aut": "TREASURE",
+      "Judul": "TREASURE - 들어와 (COME TO ME)",
+      "url_mp3": "https://ia801507.us.archive.org/12/items/wasur-mir/TREASURE%20-%20들어와%20%28COME%20TO%20ME%29.mp3",
+      "lirik": ""
     }
   ]
 }
