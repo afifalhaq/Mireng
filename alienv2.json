@@ -14,14 +14,14 @@
 "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
 "mopub_inter": "24534e1901884e398f1253216226017e",
 "appodeal_key": "b195f8dd8ded45fe847ad89ed1d016da",
-"packagename": "kim.aliendroid"
+"packagename": "kim.aliendroid.audioonoff"
 }
 ],
 "Categories": [
 {
 "id": 1,
-"name_category": "Khalid Basalamah",
-"image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1469444/1469444-1551253073015-0996a7d2bd44b.jpg"
+"name_category": "Bleach",
+"image": "https://avatarfiles.alphacoders.com/537/53714.jpg"
 },
 {
 "id": 2,
@@ -37,28 +37,28 @@
 "Data": [
 {
 "id": 1,
-"name_category": "Hanan Attaki",
-"title": "Bahagia Itu Sederhana",
-"image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
-"link_mp3": "http://aliendro.id/mp3json/mp3/bahagia.mp3",
+"name_category": "Bleach",
+"title": "Aqua Timez - Alones",
+"image": "",
+"link_mp3": "http://docs.google.com/uc?xport=download&id=1m0v_brzPCC02EV8aMt7SgaKikIJPvq9Y",
 "duration": "175",
 "lyrics": "<p><span style=\"color:#ffffff\"><strong>1. الرحمن = Ar Rahman</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pengasih<br />\r\n<br />\r\n<strong>2. الرحيم = Ar Rahiim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penyayang<br />\r\n<br />\r\n<strong>3. الملك = Al Malik</strong><br />\r\n<br />\r\nArtinya: Yang Maha Merajai (bisa diartikan Raja dari semua Raja)<br />\r\n<br />\r\n<strong>4. القدوس = Al Quddus</strong><br />\r\n<br />\r\nArtinya: Yang Maha Suci<br />\r\n<br />\r\n<strong>5. السلام = As Salaam</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memberi Kesejahteraan<br />\r\n<br />\r\n<strong>6. المؤمن = Al Mu&#39;min</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memberi Keamanan<br />\r\n<br />\r\n<strong>7. المهيمن = Al Muhaimin</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengatur<br />\r\n<br />\r\n<strong>8. العزيز = Al &#39;Aziiz</strong><br />\r\n<br />\r\nArtinya: Yang Maha Perkasa<br />\r\n<br />\r\n<strong>9. الجبار = Al Jabbar</strong><br />\r\n<br />\r\nArtinya: Yang Memiliki (Mutlak) Kegagahan<br />\r\n<br />\r\n<strong>10. المتكبر = Al Mutakabbir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Megah, yang memiliki kebesaran</span></p>\r\n"
 },
 {
 "id": 2,
-"name_category": "Hanan Attaki",
-"title": "Sambung Silaturahim",
+"name_category": "Bleach",
+"title": "BoA - Every Heart",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrKmaN8afggEfkCuTHrbQ5-v1l4zjUmkVz3A&usqp=CAU",
-"link_mp3": "http://aliendro.id/mp3json/mp3/balikan_lagi.mp3",
+"link_mp3": "https://ia801905.us.archive.org/2/items/ayeyeyesinuyashaending_202007/Ayumi%20Hamasaki%20-%20Dearest.mp3",
 "duration": "58",
 "lyrics": "<p><span style=\"color:#ffffff\"><strong>11. الخالق = Al Khaliq</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pencipta<br />\r\n<br />\r\n<strong>12. البارئ = Al Baari&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Melepaskan (membuat, membentuk, menyeimbangkan)<br />\r\n<br />\r\n<strong>13. المصور = Al Mushawwir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Membentuk Rupa (makhluk-Nya)<br />\r\n<br />\r\n<strong>14. الغفار = Al Ghaffaar</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pengampun<br />\r\n<br />\r\n<strong>15. القهار = Al Qahhaar</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menundukkan/Menaklukkan Segala Sesuatu<br />\r\n<br />\r\n<strong>16. الوهاب = Al Wahhaab</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Karunia<br />\r\n<br />\r\n<strong>17. الرزاق = Ar Razzaaq</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Rezeki<br />\r\n<br />\r\n<strong>18. الفتاح = Al Fattaah</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pembuka Rahmat<br />\r\n<br />\r\n<strong>19. العليم = Al &#39;Aliim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengetahui<br />\r\n<br />\r\n<strong>20. القابض = Al Qaabidh</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menyempitkan</span></p>\r\n"
 },
 {
 "id": 3,
-"name_category": "Khalid Basalamah",
-"title": "Siapa yang bangkrut?",
+"name_category": "Bleach",
+"title": "Twice - I CAN'T STOP ME",
 "image": "https://awsimages.detik.net.id/community/media/visual/2020/08/09/khalid-basalamah_43.png?w=700&q=90",
-"link_mp3": "http://aliendro.id/mp3json/mp3/bangkrut.mp3",
+"link_mp3": "https://firebasestorage.googleapis.com/v0/b/ainime.appspot.com/o/Twice%20-%20I%20CAN'T%20STOP%20ME.mp3?alt=media&token=8bab71da-4b55-42f5-b251-d11d36f0b9f5",
 "duration": "56",
 "lyrics": "<p><span style=\"color:#ffffff\"><strong>21. الباسط = Al Baasith</strong><br />\r\n<br />\r\nArtinya: Yang Maha Melapangkan<br />\r\n<br />\r\n<strong>22. الخافض = Al Khaafidh</strong><br />\r\n<br />\r\nArtinya: Yang Maha Merendahkan<br />\r\n<br />\r\n<strong>23. الرافع = Ar Raafi&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Meninggikan<br />\r\n<br />\r\n<strong>24. المعز = Al Mu&#39;izz</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memuliakan<br />\r\n<br />\r\n<strong>25. المذل = Al Mudzil</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menghinakan<br />\r\n<br />\r\n<strong>26. السميع = Al Samii&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mendengar<br />\r\n<br />\r\n<strong>27. البصير = Al Bashiir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Melihat<br />\r\n<br />\r\n<strong>28. الحكم = Al Hakam</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menetapkan<br />\r\n<br />\r\n<strong>29. العدل = Al &#39;Adl</strong><br />\r\n<br />\r\nArtinya: Yang Maha Adil<br />\r\n<br />\r\n<strong>30. اللطيف = Al Lathiif</strong><br />\r\n<br />\r\nArtinya: Yang Maha Lembut</span></p>\r\n"
 },
