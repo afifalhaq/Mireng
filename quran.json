@@ -89,7 +89,7 @@
 {
 "id": 1,
 "name_category": "Sheikh Ibrahim Al Jormy",
-"title": "114. An-Nas",
+"title": "114 An-Nas",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
 "link_mp3": "https://server11.mp3quran.net/jormy/114.mp3",
 "duration": "175",
@@ -98,7 +98,7 @@
 {
 "id": 2,
 "name_category": "Sheikh Ibrahim Al Jormy",
-"title": "113. Al-Falaq",
+"title": "113 Al-Falaq",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
 "link_mp3": "https://server11.mp3quran.net/jormy/113.mp3",
 "duration": "175",
@@ -107,7 +107,7 @@
 {
 "id": 3,
 "name_category": "Sheikh Ibrahim Al Jormy",
-"title": "112. Al-Ikhlas",
+"title": "112 Al-Ikhlas",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
 "link_mp3": "https://server11.mp3quran.net/jormy/112.mp3",
 "duration": "175",
@@ -116,7 +116,7 @@
 {
 "id": 4,
 "name_category": "Sheikh Ibrahim Al Jormy",
-"title": "111. Al-Masad",
+"title": "111 Al-Masad",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
 "link_mp3": "https://server11.mp3quran.net/jormy/111.mp3",
 "duration": "175",
@@ -125,9 +125,144 @@
 {
 "id": 5,
 "name_category": "Sheikh Ibrahim Al Jormy",
-"title": "110. An-Nasr",
+"title": "110 An-Nasr",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
 "link_mp3": "https://server11.mp3quran.net/jormy/110.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 6,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "109 Al-Kafirun",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/109.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 7,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "108 Al-Kauthar",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/108.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 8,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "107 Al-Ma'un",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/107.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 9,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "106 Quraish",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/106.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 10,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "105 Al-Fil",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/105.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 11,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "104 Al-Humazah",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/104.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 12,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "103 Al-'Asr",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/103.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 13,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "102 At-Takathur",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/102.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 14,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "101 Al-Qari'ah",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/101.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 15,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "100 Al-'Adiyat",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/100.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 16,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "99 Az-Zalzalah",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/99.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 17,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "98 Al-Baiyinah",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/98.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 18,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "97 Al-Qadr",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/97.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 19,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "96 Al-'Alaq",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/96.mp3",
+"duration": "175",
+"lyrics": ""
+},
+{
+"id": 20,
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "95 At-Tin",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/95.mp3",
 "duration": "175",
 "lyrics": ""
 }
