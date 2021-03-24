@@ -20,13 +20,13 @@
 "Categories": [
 {
 "id": 1,
-"name_category": "Black Clover",
-"image": "https://i.pinimg.com/originals/e3/e9/55/e3e9555ac0ff83c5f8a42a25261d65cc.jpg"
+"name_category": "Sheikh Ibrahim Al Jormy",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg"
 },
 {
 "id": 2,
-"name_category": "Bleach",
-"image": "https://c4.wallpaperflare.com/wallpaper/518/304/37/bleach-chibi-comics-hollow-wallpaper-preview.jpg"
+"name_category": "Sheikh Maher Al Mueaqly",
+"image": "http://en.quran.com.kw/wp-content/uploads/maher-almoeqly.jpg"
 },
 {
 "id": 3,
@@ -88,19 +88,19 @@
 "Data": [
 {
 "id": 1,
-"name_category": "Fairy Tail",
-"title": "BoA - MASAYUME CHASING",
-"image": "https://www.wallpapertip.com/wmimgs/191-1912147_juvia-chibi-fairy-tail-pinterest-juvia-lockser-chibi.png",
-"link_mp3": "https://ia801401.us.archive.org/2/items/fary_tel/Fairy%20Tail/OP/%5BYumeOST%5D%20BoA%20-%20MASAYUME%20CHASING.mp3",
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "114. An-Nas",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/114.mp3",
 "duration": "175",
 "lyrics": ""
 },
 {
 "id": 2,
-"name_category": "Fairy Tail",
-"title": "Daisy X Daisy - Evidence",
-"image": "https://www.wallpapertip.com/wmimgs/191-1912147_juvia-chibi-fairy-tail-pinterest-juvia-lockser-chibi.png",
-"link_mp3": "https://ia801401.us.archive.org/2/items/fary_tel/Fairy%20Tail/OP/Daisy%20X%20Daisy%20-%20Evidence.mp3",
+"name_category": "Sheikh Ibrahim Al Jormy",
+"title": "113. Al-Falaq",
+"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+"link_mp3": "https://server11.mp3quran.net/jormy/113.mp3",
 "duration": "175",
 "lyrics": ""
 },
