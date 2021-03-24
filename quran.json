@@ -87,7 +87,7 @@
   
 "Data": [
 {
-"id": 1,
+"id": 0001,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "114 An-Nas",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -96,7 +96,7 @@
 "lyrics": ""
 },
 {
-"id": 2,
+"id": 0002,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "113 Al-Falaq",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -105,7 +105,7 @@
 "lyrics": ""
 },
 {
-"id": 3,
+"id": 0003,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "112 Al-Ikhlas",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -114,7 +114,7 @@
 "lyrics": ""
 },
 {
-"id": 4,
+"id": 0004,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "111 Al-Masad",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -123,7 +123,7 @@
 "lyrics": ""
 },
 {
-"id": 5,
+"id": 0005,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "110 An-Nasr",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -132,7 +132,7 @@
 "lyrics": ""
 },
 {
-"id": 6,
+"id": 0006,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "109 Al-Kafirun",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -141,7 +141,7 @@
 "lyrics": ""
 },
 {
-"id": 7,
+"id": 0007,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "108 Al-Kauthar",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -150,7 +150,7 @@
 "lyrics": ""
 },
 {
-"id": 8,
+"id": 0008,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "107 Al-Ma'un",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -159,7 +159,7 @@
 "lyrics": ""
 },
 {
-"id": 9,
+"id": 0009,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "106 Quraish",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -168,7 +168,7 @@
 "lyrics": ""
 },
 {
-"id": 10,
+"id": 0010,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "105 Al-Fil",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -177,7 +177,7 @@
 "lyrics": ""
 },
 {
-"id": 11,
+"id": 0011,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "104 Al-Humazah",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -186,7 +186,7 @@
 "lyrics": ""
 },
 {
-"id": 12,
+"id": 0012,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "103 Al-'Asr",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -195,7 +195,7 @@
 "lyrics": ""
 },
 {
-"id": 13,
+"id": 0013,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "102 At-Takathur",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -204,7 +204,7 @@
 "lyrics": ""
 },
 {
-"id": 14,
+"id": 0014,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "101 Al-Qari'ah",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -213,7 +213,7 @@
 "lyrics": ""
 },
 {
-"id": 15,
+"id": 0015,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "100 Al-'Adiyat",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -222,7 +222,7 @@
 "lyrics": ""
 },
 {
-"id": 16,
+"id": 0016,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "99 Az-Zalzalah",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -231,7 +231,7 @@
 "lyrics": ""
 },
 {
-"id": 17,
+"id": 0017,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "98 Al-Baiyinah",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -240,7 +240,7 @@
 "lyrics": ""
 },
 {
-"id": 18,
+"id": 0018,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "97 Al-Qadr",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -249,7 +249,7 @@
 "lyrics": ""
 },
 {
-"id": 19,
+"id": 0019,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "96 Al-'Alaq",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
@@ -258,7 +258,7 @@
 "lyrics": ""
 },
 {
-"id": 20,
+"id": 0020,
 "name_category": "Sheikh Ibrahim Al Jormy",
 "title": "95 At-Tin",
 "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
