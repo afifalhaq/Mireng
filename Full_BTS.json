@@ -61,7 +61,7 @@
   {
 "id": 10,
 "name_category": "Wings",
-"image": "http://3.bp.blogspot.com/-Zt5limcxn94/ToO6WKBPSLI/AAAAAAAAA8M/p9xSvxlB4MA/s1600/eyeshield-21_00.jpg"
+"image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg"
 },
   {
 "id": 11,
@@ -599,6 +599,15 @@
 "title": "Attack Of Bangtan (進撃の防弾)",
 "image": "https://i.pinimg.com/originals/1e/c6/06/1ec6064684691835e9ec2b93e933a6a7.jpg",
 "link_mp3": "http://docs.google.com/uc?xport=download&id=1KNJJYscYGaRToYobda91Yf4TJYVpMdhE",
+"duration": "228",
+"lyrics": ""
+},
+	{
+"id": 60,
+"name_category": "Wings",
+"title": "Stigma",
+"image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+"link_mp3": "http://docs.google.com/uc?xport=download&id=1S7p5VBXS17eXM0qRpzB6Rxe27hvxD52n",
 "duration": "228",
 "lyrics": ""
 }
