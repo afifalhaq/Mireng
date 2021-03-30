@@ -86,185 +86,1031 @@
 ],
   
 "Data": [
-{
-"id": 1,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "1 Al Fatihah",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/001.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 2,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "2 Al-Baqarah",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/002.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 3,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "3 Al-Imran",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/003.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 4,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "4 An-Nisa'",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/004.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 5,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "5 Al-Ma'idah",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/005.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 6,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "6 Al-An'am",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/006.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 7,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "7 Al-A'raf",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/007.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 8,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "8 Al-Anfal",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/008.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 9,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "9 At-Taubah",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/009.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 10,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "10 Yunus",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/010.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 11,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "11 Hood",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/011.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 12,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "12 Yusuf",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/012.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 13,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "13 Ar-Ra'd",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/013.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 14,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "14 Ibrahim",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/014.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 15,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "15 Al-Hijr",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/015.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 16,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "16 An-Nahl",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/016.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 17,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "17 Al-Isra",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/017.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 18,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "18 Al-Kahf",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/018.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 19,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "19 Maryam",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/019.mp3",
-"duration": "175",
-"lyrics": ""
-},
-{
-"id": 20,
-"name_category": "Sheikh Ibrahim Al Jormy",
-"title": "20 TaHa",
-"image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
-"link_mp3": "https://server11.mp3quran.net/jormy/020.mp3",
-"duration": "175",
-"lyrics": ""
-}
+  {
+    "id": 1,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "1. Al-Fatihah (the Opening)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/001.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "2. Al-Baqarah (the Cow)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/002.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "3. Aali Imran (the Family of Imran)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/003.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "4. An-Nisa� (the Women)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/004.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "5. Al-Ma�idah (the Table)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/005.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "6. Al-An�am (the Cattle)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/006.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "7. Al-A�raf (the Heights)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/007.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "8. Al-Anfal (the Spoils of War)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/008.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "9. At-Taubah (the Repentance)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/009.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "10. Yunus (Yunus)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/010.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "11. Hud (Hud)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/011.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "12. Yusuf (Yusuf)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/012.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "13. Ar-Ra�d (the Thunder)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/013.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "14. Ibrahim (Ibrahim)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/014.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "15. Al-Hijr (the Rocky Tract)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/015.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "16. An-Nahl (the Bees)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/016.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "17. Al-Isra� (the Night Journey)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/017.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "18. Al-Kahf (the Cave)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/018.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "19. Maryam (Maryam)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/019.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "20. Ta-Ha (Ta-Ha)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/020.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "21. Al-Anbiya� (the Prophets)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/021.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "22. Al-Haj (the Pilgrimage)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/022.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "23. Al-Mu�minun (the Believers)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/023.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "24. An-Nur (the Light)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/024.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "25. Al-Furqan (the Criterion)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/025.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "26. Ash-Shu�ara� (the Poets)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/026.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "27. An-Naml (the Ants)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/027.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "28. Al-Qasas (the Stories)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/028.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "29. Al-Ankabut (the Spider)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/029.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "30. Ar-Rum (the Romans)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/030.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 31,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "31. Luqman (Luqman)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/031.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 32,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "32. As-Sajdah (the Prostration)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/032.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 33,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "33. Al-Ahzab (the Combined Forces)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/033.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 34,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "34. Saba� (the Sabeans)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/034.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 35,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "35. Al-Fatir (the Originator)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/035.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 36,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "36. Ya-Sin (Ya-Sin)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/036.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 37,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "37. As-Saffah (Those Ranges in Ranks)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/037.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 38,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "38. Sad (Sad)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/038.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 39,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "39. Az-Zumar (the Groups)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/039.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 40,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "40. Ghafar (the Forgiver)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/040.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 41,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "41. Fusilat (Distinguished)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/041.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 42,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "42. Ash-Shura (the Consultation)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/042.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 43,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "43. Az-Zukhruf (the Gold)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/043.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 44,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "44. Ad-Dukhan (the Smoke)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/044.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 45,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "45. Al-Jathiyah (the Kneeling)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/045.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 46,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "46. Al-Ahqaf (the Valley)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/046.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 47,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "47. Muhammad (Muhammad)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/047.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 48,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "48. Al-Fat�h (the Victory)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/048.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 49,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "49. Al-Hujurat (the Dwellings)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/049.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 50,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "50. Qaf (Qaf)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/050.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 51,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "51. Adz-Dzariyah (the Scatterers)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/051.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 52,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "52. At-Tur (the Mount)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/052.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 53,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "53. An-Najm (the Star)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/053.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 54,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "54. Al-Qamar (the Moon)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/054.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 55,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "55. Ar-Rahman (the Most Gracious)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/055.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 56,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "56. Al-Waqi�ah (the Event)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/056.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 57,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "57. Al-Hadid (the Iron)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/057.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 58,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "58. Al-Mujadilah (the Reasoning)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/058.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 59,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "59. Al-Hashr (the Gathering)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/059.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 60,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "60. Al-Mumtahanah (the Tested)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/060.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 61,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "61. As-Saf (the Row)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/061.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 62,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "62. Al-Jum�ah (Friday)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/062.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 63,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "63. Al-Munafiqun (the Hypocrites)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/063.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 64,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "64. At-Taghabun (the Loss & Gain)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/064.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 65,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "65. At-Talaq (the Divorce)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/065.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 66,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "66. At-Tahrim (the Prohibition)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/066.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 67,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "67. Al-Mulk � (the Kingdom)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/067.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 68,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "68. Al-Qalam (the Pen)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/068.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 69,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "69. Al-Haqqah (the Inevitable)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/069.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 70,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "70. Al-Ma�arij (the Elevated Passages)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/070.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 71,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "71. Nuh (Nuh)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/071.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 72,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "72. Al-Jinn (the Jinn)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/072.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 73,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "73. Al-Muzammil (the Wrapped)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/073.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 74,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "74. Al-Mudaththir (the Cloaked)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/074.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 75,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "75. Al-Qiyamah (the Resurrection)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/075.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 76,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "76. Al-Insan (the Human)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/076.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 77,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "77. Al-Mursalat (Those Sent Forth)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/077.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 78,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "78. An-Naba� (the Great News)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/078.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 79,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "79. An-Nazi�at (Those Who Pull Out)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/079.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 80,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "80. �Abasa (He Frowned)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/080.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 81,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "81. At-Takwir (the Overthrowing)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/081.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 82,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "82. Al-Infitar (the Cleaving)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/082.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 83,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "83. Al-Mutaffifin (Those Who Deal in Fraud)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/083.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 84,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "84. Al-Inshiqaq (the Splitting Asunder)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/084.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 85,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "85. Al-Buruj (the Stars)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/085.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 86,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "86. At-Tariq (the Nightcomer)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/086.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 87,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "87. Al-A�la (the Most High)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/087.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 88,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "88. Al-Ghashiyah (the Overwhelming)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/088.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 89,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "89. Al-Fajr (the Dawn)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/089.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 90,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "90. Al-Balad (the City)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/090.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 91,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "91. Ash-Shams (the Sun)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/091.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 92,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "92. Al-Layl (the Night)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/092.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 93,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "93. Adh-Dhuha (the Forenoon)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/093.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 94,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "94. Al-Inshirah (the Opening Forth)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/094.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 95,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "95. At-Tin (the Fig)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/095.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 96,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "96. Al-�Alaq (the Clot)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/096.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 97,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "97. Al-Qadar (the Night of Decree)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/097.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 98,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "98. Al-Bayinah (the Proof)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/098.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 99,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "99. Az-Zalzalah (the Earthquake)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/099.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 100,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "100. Al-�Adiyah (the Runners)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/100.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 101,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "101. Al-Qari�ah (the Striking Hour)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/101.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 102,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "102. At-Takathur (the Piling Up)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/102.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 103,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "103. Al-�Asr (the Time)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/103.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 104,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "104. Al-Humazah (the Slanderer)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/104.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 105,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "105. Al-Fil (the Elephant)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/105.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 106,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "106. Quraish (Quraish)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/106.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 107,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "107. Al-Ma�un (the Assistance)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/107.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 108,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "108. Al-Kauthar (the River of Abundance)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/108.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 109,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "109. Al-Kafirun (the Disbelievers)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/109.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 110,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "110. An-Nasr (the Help)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/110.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 111,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "111. Al-Masad (the Palm Fiber)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/111.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 112,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "112. Al-Ikhlas (the Sincerity)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/112.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 113,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "113. Al-Falaq (the Daybreak)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/113.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 114,
+    "name_category": "Sheikh Ibrahim Al Jormy",
+    "title": "114. An-Nas (Mankind)",
+    "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
+    "link_mp3": "https://server11.mp3quran.net/jormy/114.mp3",
+    "duration": 175,
+    "lyrics": ""
+  }
 ]
 }
