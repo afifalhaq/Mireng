@@ -30,13 +30,13 @@
 },
 {
 "id": 3,
-"name_category": "Fairy Tail",
-"image": "https://www.seekpng.com/png/detail/381-3812342_report-abuse-fairy-tail-natsu-chibi.png"
+"name_category": "Abdul Aziz Al-Ahmad",
+"image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg"
 },
   {
 "id": 4,
-"name_category": "Naruto",
-"image": "https://www.seekpng.com/png/detail/5-51445_naruto-naruto-png-naruto-uzumaki-kawaii-naruto-chibi.png"
+"name_category": "Mishary Alafasy",
+"image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg"
 },
   {
 "id": 5,
@@ -683,7 +683,7 @@
   {
     "id": 67,
     "name_category": "Sheikh Ibrahim Al Jormy",
-    "title": "67. Al-Mulk � (the Kingdom)",
+    "title": "67. Al-Mulk – (the Kingdom)",
     "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
     "link_mp3": "https://server11.mp3quran.net/jormy/067.mp3",
     "duration": 175,
@@ -800,7 +800,7 @@
   {
     "id": 80,
     "name_category": "Sheikh Ibrahim Al Jormy",
-    "title": "80. �Abasa (He Frowned)",
+    "title": "80. ‘Abasa (He Frowned)",
     "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
     "link_mp3": "https://server11.mp3quran.net/jormy/080.mp3",
     "duration": 175,
@@ -944,7 +944,7 @@
   {
     "id": 96,
     "name_category": "Sheikh Ibrahim Al Jormy",
-    "title": "96. Al-�Alaq (the Clot)",
+    "title": "96. Al-‘Alaq (the Clot)",
     "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
     "link_mp3": "https://server11.mp3quran.net/jormy/096.mp3",
     "duration": 175,
@@ -980,7 +980,7 @@
   {
     "id": 100,
     "name_category": "Sheikh Ibrahim Al Jormy",
-    "title": "100. Al-�Adiyah (the Runners)",
+    "title": "100. Al-‘Adiyah (the Runners)",
     "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
     "link_mp3": "https://server11.mp3quran.net/jormy/100.mp3",
     "duration": 175,
@@ -1007,7 +1007,7 @@
   {
     "id": 103,
     "name_category": "Sheikh Ibrahim Al Jormy",
-    "title": "103. Al-�Asr (the Time)",
+    "title": "103. Al-‘Asr (the Time)",
     "image": "https://alkabbah.com/storage/scholar/ROoNOaIjqLgHugrEKmnuqTFhQ4kIucOTCMAVtiMu.jpeg",
     "link_mp3": "https://server11.mp3quran.net/jormy/103.mp3",
     "duration": 175,
@@ -1709,7 +1709,7 @@
   {
     "id": 181,
     "name_category": "Sheikh Maher Al Mueaqly",
-    "title": "67. Al-Mulk � (the Kingdom)",
+    "title": "67. Al-Mulk – (the Kingdom)",
     "image": "http://en.quran.com.kw/wp-content/uploads/maher-almoeqly.jpg",
     "link_mp3": "https://server12.mp3quran.net/maher/067.mp3",
     "duration": 175,
@@ -1826,7 +1826,7 @@
   {
     "id": 194,
     "name_category": "Sheikh Maher Al Mueaqly",
-    "title": "80. �Abasa (He Frowned)",
+    "title": "80. ‘Abasa (He Frowned)",
     "image": "http://en.quran.com.kw/wp-content/uploads/maher-almoeqly.jpg",
     "link_mp3": "https://server12.mp3quran.net/maher/080.mp3",
     "duration": 175,
@@ -1970,7 +1970,7 @@
   {
     "id": 210,
     "name_category": "Sheikh Maher Al Mueaqly",
-    "title": "96. Al-�Alaq (the Clot)",
+    "title": "96. Al-‘Alaq (the Clot)",
     "image": "http://en.quran.com.kw/wp-content/uploads/maher-almoeqly.jpg",
     "link_mp3": "https://server12.mp3quran.net/maher/096.mp3",
     "duration": 175,
@@ -2006,7 +2006,7 @@
   {
     "id": 214,
     "name_category": "Sheikh Maher Al Mueaqly",
-    "title": "100. Al-�Adiyah (the Runners)",
+    "title": "100. Al-‘Adiyah (the Runners)",
     "image": "http://en.quran.com.kw/wp-content/uploads/maher-almoeqly.jpg",
     "link_mp3": "https://server12.mp3quran.net/maher/100.mp3",
     "duration": 175,
@@ -2033,7 +2033,7 @@
   {
     "id": 217,
     "name_category": "Sheikh Maher Al Mueaqly",
-    "title": "103. Al-�Asr (the Time)",
+    "title": "103. Al-‘Asr (the Time)",
     "image": "http://en.quran.com.kw/wp-content/uploads/maher-almoeqly.jpg",
     "link_mp3": "https://server12.mp3quran.net/maher/103.mp3",
     "duration": 175,
@@ -2135,6 +2135,2058 @@
     "title": "114. An-Nas (Mankind)",
     "image": "http://en.quran.com.kw/wp-content/uploads/maher-almoeqly.jpg",
     "link_mp3": "https://server12.mp3quran.net/maher/114.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 229,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "1. Al-Fatihah (the Opening)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/001.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 230,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "2. Al-Baqarah (the Cow)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/002.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 231,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "3. Aali Imran (the Family of Imran)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/003.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 232,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "4. An-Nisa' (the Women)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/004.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 233,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "5. Al-Maidah (the Table)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/005.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 234,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "6. Al-Anam (the Cattle)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/006.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 235,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "7. Al-A'raf (the Heights)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/007.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 236,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "8. Al-Anfal (the Spoils of War)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/008.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 237,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "9. At-Taubah (the Repentance)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/009.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 238,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "10. Yunus (Yunus)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/010.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 239,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "11. Hud (Hud)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/011.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 240,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "12. Yusuf (Yusuf)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/012.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 241,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "13. Ar-Ra'd (the Thunder)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/013.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 242,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "14. Ibrahim (Ibrahim)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/014.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 243,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "15. Al-Hijr (the Rocky Tract)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/015.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 244,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "16. An-Nahl (the Bees)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/016.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 245,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "17. Al-Isra' (the Night Journey)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/017.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 246,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "18. Al-Kahf (the Cave)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/018.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 247,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "19. Maryam (Maryam)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/019.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 248,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "20. Ta-Ha (Ta-Ha)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/020.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 249,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "21. Al-Anbiya' (the Prophets)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/021.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 250,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "22. Al-Haj (the Pilgrimage)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/022.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 251,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "23. Al-Mu'minun (the Believers)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/023.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 252,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "24. An-Nur (the Light)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/024.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 253,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "25. Al-Furqan (the Criterion)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/025.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 254,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "26. Ash-Shu'ara' (the Poets)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/026.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 255,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "27. An-Naml (the Ants)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/027.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 256,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "28. Al-Qasas (the Stories)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/028.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 257,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "29. Al-Ankabut (the Spider)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/029.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 258,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "30. Ar-Rum (the Romans)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/030.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 259,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "31. Luqman (Luqman)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/031.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 260,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "32. As-Sajdah (the Prostration)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/032.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 261,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "33. Al-Ahzab (the Combined Forces)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/033.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 262,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "34. Saba' (the Sabeans)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/034.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 263,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "35. Al-Fatir (the Originator)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/035.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 264,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "36. Ya-Sin (Ya-Sin)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/036.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 265,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "37. As-Saffah (Those Ranges in Ranks)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/037.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 266,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "38. Sad (Sad)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/038.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 267,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "39. Az-Zumar (the Groups)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/039.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 268,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "40. Ghafar (the Forgiver)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/040.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 269,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "41. Fusilat (Distinguished)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/041.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 270,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "42. Ash-Shura (the Consultation)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/042.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 271,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "43. Az-Zukhruf (the Gold)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/043.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 272,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "44. Ad-Dukhan (the Smoke)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/044.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 273,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "45. Al-Jathiyah (the Kneeling)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/045.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 274,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "46. Al-Ahqaf (the Valley)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/046.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 275,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "47. Muhammad (Muhammad)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/047.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 276,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "48. Al-Fat'h (the Victory)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/048.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 277,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "49. Al-Hujurat (the Dwellings)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/049.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 278,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "50. Qaf (Qaf)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/050.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 279,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "51. Adz-Dzariyah (the Scatterers)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/051.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 280,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "52. At-Tur (the Mount)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/052.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 281,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "53. An-Najm (the Star)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/053.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 282,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "54. Al-Qamar (the Moon)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/054.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 283,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "55. Ar-Rahman (the Most Gracious)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/055.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 284,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "56. Al-Waqi'ah (the Event)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/056.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 285,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "57. Al-Hadid (the Iron)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/057.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 286,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "58. Al-Mujadilah (the Reasoning)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/058.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 287,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "59. Al-Hashr (the Gathering)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/059.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 288,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "60. Al-Mumtahanah (the Tested)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/060.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 289,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "61. As-Saf (the Row)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/061.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 290,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "62. Al-Jum'ah (Friday)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/062.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 291,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "63. Al-Munafiqun (the Hypocrites)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/063.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 292,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "64. At-Taghabun (the Loss & Gain)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/064.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 293,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "65. At-Talaq (the Divorce)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/065.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 294,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "66. At-Tahrim (the Prohibition)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/066.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 295,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "67. Al-Mulk – (the Kingdom)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/067.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 296,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "68. Al-Qalam (the Pen)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/068.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 297,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "69. Al-Haqqah (the Inevitable)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/069.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 298,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "70. Al-Ma'arij (the Elevated Passages)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/070.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 299,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "71. Nuh (Nuh)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/071.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 300,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "72. Al-Jinn (the Jinn)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/072.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 301,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "73. Al-Muzammil (the Wrapped)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/073.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 302,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "74. Al-Mudaththir (the Cloaked)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/074.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 303,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "75. Al-Qiyamah (the Resurrection)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/075.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 304,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "76. Al-Insan (the Human)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/076.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 305,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "77. Al-Mursalat (Those Sent Forth)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/077.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 306,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "78. An-Naba' (the Great News)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/078.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 307,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "79. An-Nazi'at (Those Who Pull Out)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/079.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 308,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "80. ‘Abasa (He Frowned)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/080.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 309,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "81. At-Takwir (the Overthrowing)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/081.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 310,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "82. Al-Infitar (the Cleaving)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/082.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 311,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "83. Al-Mutaffifin (Those Who Deal in Fraud)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/083.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 312,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "84. Al-Inshiqaq (the Splitting Asunder)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/084.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 313,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "85. Al-Buruj (the Stars)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/085.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 314,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "86. At-Tariq (the Nightcomer)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/086.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 315,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "87. Al-A'la (the Most High)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/087.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 316,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "88. Al-Ghashiyah (the Overwhelming)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/088.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 317,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "89. Al-Fajr (the Dawn)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/089.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 318,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "90. Al-Balad (the City)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/090.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 319,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "91. Ash-Shams (the Sun)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/091.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 320,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "92. Al-Layl (the Night)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/092.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 321,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "93. Adh-Dhuha (the Forenoon)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/093.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 322,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "94. Al-Inshirah (the Opening Forth)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/094.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 323,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "95. At-Tin (the Fig)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/095.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 324,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "96. Al-‘Alaq (the Clot)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/096.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 325,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "97. Al-Qadar (the Night of Decree)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/097.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 326,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "98. Al-Bayinah (the Proof)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/098.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 327,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "99. Az-Zalzalah (the Earthquake)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/099.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 328,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "100. Al-‘Adiyah (the Runners)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/100.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 329,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "101. Al-Qari'ah (the Striking Hour)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/101.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 330,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "102. At-Takathur (the Piling Up)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/102.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 331,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "103. Al-‘Asr (the Time)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/103.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 332,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "104. Al-Humazah (the Slanderer)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/104.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 333,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "105. Al-Fil (the Elephant)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/105.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 334,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "106. Quraish (Quraish)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/106.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 335,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "107. Al-Ma'un (the Assistance)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/107.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 336,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "108. Al-Kauthar (the River of Abundance)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/108.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 337,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "109. Al-Kafirun (the Disbelievers)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/109.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 338,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "110. An-Nasr (the Help)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/110.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 339,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "111. Al-Masad (the Palm Fiber)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/111.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 340,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "112. Al-Ikhlas (the Sincerity)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/112.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 341,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "113. Al-Falaq (the Daybreak)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/113.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 342,
+    "name_category": "Sheikh Abdul Aziz Al-Ahmad",
+    "title": "114. An-Nas (Mankind)",
+    "image": "https://tvquran.com/uploads/authors/images/عبد%20العزيز%20الأحمد.jpg",
+    "link_mp3": "https://server11.mp3quran.net/a_ahmed/114.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 343,
+    "name_category": "Mishary Alafasy",
+    "title": "1. Al-Fatihah (the Opening)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/001.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 344,
+    "name_category": "Mishary Alafasy",
+    "title": "2. Al-Baqarah (the Cow)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/002.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 345,
+    "name_category": "Mishary Alafasy",
+    "title": "3. Aali Imran (the Family of Imran)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/003.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 346,
+    "name_category": "Mishary Alafasy",
+    "title": "4. An-Nisa' (the Women)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/004.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 347,
+    "name_category": "Mishary Alafasy",
+    "title": "5. Al-Maidah (the Table)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/005.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 348,
+    "name_category": "Mishary Alafasy",
+    "title": "6. Al-Anam (the Cattle)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/006.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 349,
+    "name_category": "Mishary Alafasy",
+    "title": "7. Al-A'raf (the Heights)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/007.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 350,
+    "name_category": "Mishary Alafasy",
+    "title": "8. Al-Anfal (the Spoils of War)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/008.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 351,
+    "name_category": "Mishary Alafasy",
+    "title": "9. At-Taubah (the Repentance)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/009.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 352,
+    "name_category": "Mishary Alafasy",
+    "title": "10. Yunus (Yunus)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/010.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 353,
+    "name_category": "Mishary Alafasy",
+    "title": "11. Hud (Hud)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/011.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 354,
+    "name_category": "Mishary Alafasy",
+    "title": "12. Yusuf (Yusuf)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/012.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 355,
+    "name_category": "Mishary Alafasy",
+    "title": "13. Ar-Ra'd (the Thunder)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/013.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 356,
+    "name_category": "Mishary Alafasy",
+    "title": "14. Ibrahim (Ibrahim)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/014.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 357,
+    "name_category": "Mishary Alafasy",
+    "title": "15. Al-Hijr (the Rocky Tract)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/015.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 358,
+    "name_category": "Mishary Alafasy",
+    "title": "16. An-Nahl (the Bees)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/016.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 359,
+    "name_category": "Mishary Alafasy",
+    "title": "17. Al-Isra' (the Night Journey)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/017.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 360,
+    "name_category": "Mishary Alafasy",
+    "title": "18. Al-Kahf (the Cave)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/018.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 361,
+    "name_category": "Mishary Alafasy",
+    "title": "19. Maryam (Maryam)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/019.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 362,
+    "name_category": "Mishary Alafasy",
+    "title": "20. Ta-Ha (Ta-Ha)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/020.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 363,
+    "name_category": "Mishary Alafasy",
+    "title": "21. Al-Anbiya' (the Prophets)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/021.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 364,
+    "name_category": "Mishary Alafasy",
+    "title": "22. Al-Haj (the Pilgrimage)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/022.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 365,
+    "name_category": "Mishary Alafasy",
+    "title": "23. Al-Mu'minun (the Believers)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/023.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 366,
+    "name_category": "Mishary Alafasy",
+    "title": "24. An-Nur (the Light)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/024.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 367,
+    "name_category": "Mishary Alafasy",
+    "title": "25. Al-Furqan (the Criterion)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/025.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 368,
+    "name_category": "Mishary Alafasy",
+    "title": "26. Ash-Shu'ara' (the Poets)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/026.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 369,
+    "name_category": "Mishary Alafasy",
+    "title": "27. An-Naml (the Ants)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/027.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 370,
+    "name_category": "Mishary Alafasy",
+    "title": "28. Al-Qasas (the Stories)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/028.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 371,
+    "name_category": "Mishary Alafasy",
+    "title": "29. Al-Ankabut (the Spider)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/029.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 372,
+    "name_category": "Mishary Alafasy",
+    "title": "30. Ar-Rum (the Romans)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/030.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 373,
+    "name_category": "Mishary Alafasy",
+    "title": "31. Luqman (Luqman)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/031.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 374,
+    "name_category": "Mishary Alafasy",
+    "title": "32. As-Sajdah (the Prostration)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/032.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 375,
+    "name_category": "Mishary Alafasy",
+    "title": "33. Al-Ahzab (the Combined Forces)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/033.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 376,
+    "name_category": "Mishary Alafasy",
+    "title": "34. Saba' (the Sabeans)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/034.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 377,
+    "name_category": "Mishary Alafasy",
+    "title": "35. Al-Fatir (the Originator)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/035.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 378,
+    "name_category": "Mishary Alafasy",
+    "title": "36. Ya-Sin (Ya-Sin)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/036.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 379,
+    "name_category": "Mishary Alafasy",
+    "title": "37. As-Saffah (Those Ranges in Ranks)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/037.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 380,
+    "name_category": "Mishary Alafasy",
+    "title": "38. Sad (Sad)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/038.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 381,
+    "name_category": "Mishary Alafasy",
+    "title": "39. Az-Zumar (the Groups)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/039.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 382,
+    "name_category": "Mishary Alafasy",
+    "title": "40. Ghafar (the Forgiver)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/040.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 383,
+    "name_category": "Mishary Alafasy",
+    "title": "41. Fusilat (Distinguished)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/041.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 384,
+    "name_category": "Mishary Alafasy",
+    "title": "42. Ash-Shura (the Consultation)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/042.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 385,
+    "name_category": "Mishary Alafasy",
+    "title": "43. Az-Zukhruf (the Gold)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/043.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 386,
+    "name_category": "Mishary Alafasy",
+    "title": "44. Ad-Dukhan (the Smoke)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/044.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 387,
+    "name_category": "Mishary Alafasy",
+    "title": "45. Al-Jathiyah (the Kneeling)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/045.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 388,
+    "name_category": "Mishary Alafasy",
+    "title": "46. Al-Ahqaf (the Valley)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/046.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 389,
+    "name_category": "Mishary Alafasy",
+    "title": "47. Muhammad (Muhammad)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/047.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 390,
+    "name_category": "Mishary Alafasy",
+    "title": "48. Al-Fat'h (the Victory)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/048.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 391,
+    "name_category": "Mishary Alafasy",
+    "title": "49. Al-Hujurat (the Dwellings)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/049.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 392,
+    "name_category": "Mishary Alafasy",
+    "title": "50. Qaf (Qaf)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/050.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 393,
+    "name_category": "Mishary Alafasy",
+    "title": "51. Adz-Dzariyah (the Scatterers)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/051.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 394,
+    "name_category": "Mishary Alafasy",
+    "title": "52. At-Tur (the Mount)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/052.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 395,
+    "name_category": "Mishary Alafasy",
+    "title": "53. An-Najm (the Star)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/053.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 396,
+    "name_category": "Mishary Alafasy",
+    "title": "54. Al-Qamar (the Moon)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/054.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 397,
+    "name_category": "Mishary Alafasy",
+    "title": "55. Ar-Rahman (the Most Gracious)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/055.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 398,
+    "name_category": "Mishary Alafasy",
+    "title": "56. Al-Waqi'ah (the Event)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/056.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 399,
+    "name_category": "Mishary Alafasy",
+    "title": "57. Al-Hadid (the Iron)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/057.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 400,
+    "name_category": "Mishary Alafasy",
+    "title": "58. Al-Mujadilah (the Reasoning)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/058.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 401,
+    "name_category": "Mishary Alafasy",
+    "title": "59. Al-Hashr (the Gathering)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/059.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 402,
+    "name_category": "Mishary Alafasy",
+    "title": "60. Al-Mumtahanah (the Tested)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/060.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 403,
+    "name_category": "Mishary Alafasy",
+    "title": "61. As-Saf (the Row)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/061.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 404,
+    "name_category": "Mishary Alafasy",
+    "title": "62. Al-Jum'ah (Friday)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/062.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 405,
+    "name_category": "Mishary Alafasy",
+    "title": "63. Al-Munafiqun (the Hypocrites)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/063.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 406,
+    "name_category": "Mishary Alafasy",
+    "title": "64. At-Taghabun (the Loss & Gain)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/064.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 407,
+    "name_category": "Mishary Alafasy",
+    "title": "65. At-Talaq (the Divorce)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/065.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 408,
+    "name_category": "Mishary Alafasy",
+    "title": "66. At-Tahrim (the Prohibition)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/066.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 409,
+    "name_category": "Mishary Alafasy",
+    "title": "67. Al-Mulk – (the Kingdom)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/067.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 410,
+    "name_category": "Mishary Alafasy",
+    "title": "68. Al-Qalam (the Pen)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/068.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 411,
+    "name_category": "Mishary Alafasy",
+    "title": "69. Al-Haqqah (the Inevitable)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/069.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 412,
+    "name_category": "Mishary Alafasy",
+    "title": "70. Al-Ma'arij (the Elevated Passages)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/070.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 413,
+    "name_category": "Mishary Alafasy",
+    "title": "71. Nuh (Nuh)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/071.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 414,
+    "name_category": "Mishary Alafasy",
+    "title": "72. Al-Jinn (the Jinn)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/072.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 415,
+    "name_category": "Mishary Alafasy",
+    "title": "73. Al-Muzammil (the Wrapped)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/073.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 416,
+    "name_category": "Mishary Alafasy",
+    "title": "74. Al-Mudaththir (the Cloaked)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/074.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 417,
+    "name_category": "Mishary Alafasy",
+    "title": "75. Al-Qiyamah (the Resurrection)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/075.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 418,
+    "name_category": "Mishary Alafasy",
+    "title": "76. Al-Insan (the Human)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/076.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 419,
+    "name_category": "Mishary Alafasy",
+    "title": "77. Al-Mursalat (Those Sent Forth)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/077.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 420,
+    "name_category": "Mishary Alafasy",
+    "title": "78. An-Naba' (the Great News)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/078.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 421,
+    "name_category": "Mishary Alafasy",
+    "title": "79. An-Nazi'at (Those Who Pull Out)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/079.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 422,
+    "name_category": "Mishary Alafasy",
+    "title": "80. ‘Abasa (He Frowned)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/080.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 423,
+    "name_category": "Mishary Alafasy",
+    "title": "81. At-Takwir (the Overthrowing)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/081.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 424,
+    "name_category": "Mishary Alafasy",
+    "title": "82. Al-Infitar (the Cleaving)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/082.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 425,
+    "name_category": "Mishary Alafasy",
+    "title": "83. Al-Mutaffifin (Those Who Deal in Fraud)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/083.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 426,
+    "name_category": "Mishary Alafasy",
+    "title": "84. Al-Inshiqaq (the Splitting Asunder)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/084.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 427,
+    "name_category": "Mishary Alafasy",
+    "title": "85. Al-Buruj (the Stars)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/085.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 428,
+    "name_category": "Mishary Alafasy",
+    "title": "86. At-Tariq (the Nightcomer)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/086.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 429,
+    "name_category": "Mishary Alafasy",
+    "title": "87. Al-A'la (the Most High)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/087.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 430,
+    "name_category": "Mishary Alafasy",
+    "title": "88. Al-Ghashiyah (the Overwhelming)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/088.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 431,
+    "name_category": "Mishary Alafasy",
+    "title": "89. Al-Fajr (the Dawn)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/089.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 432,
+    "name_category": "Mishary Alafasy",
+    "title": "90. Al-Balad (the City)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/090.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 433,
+    "name_category": "Mishary Alafasy",
+    "title": "91. Ash-Shams (the Sun)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/091.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 434,
+    "name_category": "Mishary Alafasy",
+    "title": "92. Al-Layl (the Night)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/092.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 435,
+    "name_category": "Mishary Alafasy",
+    "title": "93. Adh-Dhuha (the Forenoon)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/093.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 436,
+    "name_category": "Mishary Alafasy",
+    "title": "94. Al-Inshirah (the Opening Forth)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/094.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 437,
+    "name_category": "Mishary Alafasy",
+    "title": "95. At-Tin (the Fig)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/095.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 438,
+    "name_category": "Mishary Alafasy",
+    "title": "96. Al-‘Alaq (the Clot)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/096.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 439,
+    "name_category": "Mishary Alafasy",
+    "title": "97. Al-Qadar (the Night of Decree)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/097.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 440,
+    "name_category": "Mishary Alafasy",
+    "title": "98. Al-Bayinah (the Proof)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/098.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 441,
+    "name_category": "Mishary Alafasy",
+    "title": "99. Az-Zalzalah (the Earthquake)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/099.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 442,
+    "name_category": "Mishary Alafasy",
+    "title": "100. Al-‘Adiyah (the Runners)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/100.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 443,
+    "name_category": "Mishary Alafasy",
+    "title": "101. Al-Qari'ah (the Striking Hour)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/101.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 444,
+    "name_category": "Mishary Alafasy",
+    "title": "102. At-Takathur (the Piling Up)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/102.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 445,
+    "name_category": "Mishary Alafasy",
+    "title": "103. Al-‘Asr (the Time)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/103.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 446,
+    "name_category": "Mishary Alafasy",
+    "title": "104. Al-Humazah (the Slanderer)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/104.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 447,
+    "name_category": "Mishary Alafasy",
+    "title": "105. Al-Fil (the Elephant)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/105.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 448,
+    "name_category": "Mishary Alafasy",
+    "title": "106. Quraish (Quraish)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/106.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 449,
+    "name_category": "Mishary Alafasy",
+    "title": "107. Al-Ma'un (the Assistance)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/107.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 450,
+    "name_category": "Mishary Alafasy",
+    "title": "108. Al-Kauthar (the River of Abundance)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/108.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 451,
+    "name_category": "Mishary Alafasy",
+    "title": "109. Al-Kafirun (the Disbelievers)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/109.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 452,
+    "name_category": "Mishary Alafasy",
+    "title": "110. An-Nasr (the Help)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/110.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 453,
+    "name_category": "Mishary Alafasy",
+    "title": "111. Al-Masad (the Palm Fiber)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/111.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 454,
+    "name_category": "Mishary Alafasy",
+    "title": "112. Al-Ikhlas (the Sincerity)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/112.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 455,
+    "name_category": "Mishary Alafasy",
+    "title": "113. Al-Falaq (the Daybreak)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/113.mp3",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 456,
+    "name_category": "Mishary Alafasy",
+    "title": "114. An-Nas (Mankind)",
+    "image": "http://tuqaa.com/ar/wp-content/uploads/2017/02/مشاري-العفاسي-300x300.jpg",
+    "link_mp3": "https://server8.mp3quran.net/gulan/Rewayat-Hafs-A-n-Assem/114.mp3",
     "duration": 175,
     "lyrics": ""
   }
