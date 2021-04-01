@@ -18,101 +18,166 @@
 }
 ],
 "Categories": [
-{
-"id": 1,
-"name_category": "2 Cool 4 Skool",
-"image": "https://www.pngitem.com/pimgs/m/277-2772440_transparent-bts-chibi-png-bts-jungkook-cute-chibi.png"
-},
-{
-"id": 2,
-"name_category": "O!RUL8,2?",
-"image": "https://ih0.redbubble.net/image.706842758.3927/flat,1000x1000,075,f.u1.jpg"
-},
-{
-"id": 3,
-"name_category": "Skool Luv Affair",
-"image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png"
-},
   {
-"id": 4,
-"name_category": "Dark & Wild",
-"image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg"
-},
+    "id": 1,
+    "name_category": "2NE1",
+    "image": "https://i.pinimg.com/originals/30/7b/4b/307b4b647887880a85b117fd751873b8.jpg"
+  },
   {
-"id": 5,
-"name_category": "Wake Up",
-"image": "https://i.pinimg.com/originals/1e/c6/06/1ec6064684691835e9ec2b93e933a6a7.jpg"
-},
+    "id": 2,
+    "name_category": "aespa",
+    "image": "https://jateng.poskota.co.id/photo/plugin/article/2021/1610181039_1-org.jpg"
+  },
   {
-"id": 7,
-"name_category": "Most Beautiful Moment, Part 1",
-"image": "https://pm1.narvii.com/6624/3a2e25d6fce8b65f152c5efd58652f66df8529cd_hq.jpg"
-},
+    "id": 3,
+    "name_category": "Apink",
+    "image": "https://i.pinimg.com/736x/32/43/32/324332c4b052b3cebe655d5052bca994--apink-naeun-apink-kpop.jpg"
+  },
   {
-"id": 8,
-"name_category": "Most Beautiful Moment, Part 2",
-"image": "https://pm1.narvii.com/6576/891885e819741ef7a2041f09af8d78c4ff7f7dfc_hq.jpg"
-},
+    "id": 4,
+    "name_category": "Astro",
+    "image": "https://i0.wp.com/hallyumusic.com/wp-content/uploads/2020/05/ASTRO-COVER.png?fit=600%2C600&ssl=1"
+  },
   {
-"id": 9,
-"name_category": "Youth",
-"image": "http://cdn31.picsart.com/150201994002202.jpeg"
-},
+    "id": 5,
+    "name_category": "ATEEZ",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg"
+  },
   {
-"id": 10,
-"name_category": "Wings",
-"image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg"
-},
+    "id": 7,
+    "name_category": "B1A4",
+    "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg"
+  },
   {
-"id": 11,
-"name_category": "Love Yourself 承 'Her'",
-"image": "https://wallpapercave.com/wp/wp3762087.jpg"
-},
+    "id": 8,
+    "name_category": "BIG BANG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg"
+  },
   {
-"id": 12,
-"name_category": "Face Yourself",
-"image": "https://www.pngitem.com/pimgs/m/10-101571_bts-chibi-bts-chibi-png-transparent-png.png"
-},
+    "id": 9,
+    "name_category": "BLACKPINK",
+    "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg"
+  },
   {
-"id": 13,
-"name_category": "Love Yourself 轉 'Tear'",
-"image": "https://pm1.narvii.com/6534/4a65d72cece577d06b58a558b82ec8a0488f620d_hq.jpg"
-},
+    "id": 10,
+    "name_category": "BTS",
+    "image": "https://assets.nst.com.my/images/articles/07ntBTS_1517969024.jpg"
+  },
   {
-"id": 13,
-"name_category": "Love Yourself 結 'Answer'",
-"image": "https://i.pinimg.com/originals/4d/db/fd/4ddbfddba13a8e700fe2047077831900.png"
-},
+    "id": 11,
+    "name_category": "CRAVITY",
+    "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg"
+  },
   {
-"id": 14,
-"name_category": "MAP OF THE SOUL : PERSONA",
-"image": "https://i.pinimg.com/originals/4d/db/fd/4ddbfddba13a8e700fe2047077831900.png"
-},
+    "id": 12,
+    "name_category": "Dreamcatcher",
+    "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg"
+  },
   {
-"id": 15,
-"name_category": "BTS World",
-"image": "https://i.pinimg.com/originals/4d/db/fd/4ddbfddba13a8e700fe2047077831900.png"
-},
+    "id": 13,
+    "name_category": "ENHYPEN",
+    "image": "https://image.kpopmap.com/2020/12/rookie-enhypen.jpg"
+  },
   {
-"id": 17,
-"name_category": "MAP OF THE SOUL : 7",
-"image": "https://i.pinimg.com/originals/4d/db/fd/4ddbfddba13a8e700fe2047077831900.png"
-},
+    "id": 13,
+    "name_category": "EXO",
+    "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg"
+  },
   {
-"id": 18,
-"name_category": "MAP OF THE SOUL : 7 ~ THE JOURNEY ~",
-"image": "https://i.pinimg.com/originals/4d/db/fd/4ddbfddba13a8e700fe2047077831900.png"
-},
-   {
-"id": 19,
-"name_category": "BE",
-"image": "https://i.pinimg.com/originals/4d/db/fd/4ddbfddba13a8e700fe2047077831900.png"
-},
+    "id": 14,
+    "name_category": "G-idle",
+    "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg"
+  },
   {
-"id": 20,
-"name_category": "Other Songs",
-"image": "https://i.pinimg.com/originals/4d/db/fd/4ddbfddba13a8e700fe2047077831900.png"
-}
+    "id": 15,
+    "name_category": "GOT7",
+    "image": "https://pbs.twimg.com/profile_images/957032046836240384/NneCvaHk.jpg"
+  },
+  {
+    "id": 17,
+    "name_category": "iKon",
+    "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg"
+  },
+  {
+    "id": 18,
+    "name_category": "ITZY",
+    "image": "https://1409791524.rsc.cdn77.org/data/thumbs/full/547971/650/0/0/0/itzy-wannabe-mv-3-consecutive-100-million-views.jpg"
+  },
+  {
+    "id": 19,
+    "name_category": "IU",
+    "image": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg"
+  },
+  {
+    "id": 20,
+    "name_category": "IZ*ONE",
+    "image": "https://i.redd.it/obceohfe3jh21.jpg"
+  },
+  {
+    "id": 21,
+    "name_category": "Mamamoo",
+    "image": "https://www.hellokpop.com/wp-content/uploads/2016/08/20160824_mamamoo.jpg"
+  },
+  {
+    "id": 22,
+    "name_category": "MCND",
+    "image": "https://i0.wp.com/kstationtv.com/wp-content/uploads/2019/12/MCND-2.jpg?fit=798%2C798&ssl=1"
+  },
+  {
+    "id": 23,
+    "name_category": "Momoland",
+    "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1"
+  },
+  {
+    "id": 24,
+    "name_category": "MONSTA X",
+    "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg"
+  },
+  {
+    "id": 25,
+    "name_category": "NCT",
+    "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg"
+  },
+  {
+    "id": 26,
+    "name_category": "NU'EST",
+    "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg"
+  },
+  {
+    "id": 27,
+    "name_category": "Red Velvet",
+    "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg"
+  },
+  {
+    "id": 28,
+    "name_category": "SECRET NUMBER",
+    "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg"
+  },
+  {
+    "id": 29,
+    "name_category": "Shinee",
+    "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg"
+  },
+  {
+    "id": 30,
+    "name_category": "Stray Kids",
+    "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg"
+  },
+  {
+    "id": 31,
+    "name_category": "TREASURE",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg"
+  },
+  {
+    "id": 32,
+    "name_category": "Twice",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg"
+  },
+  {
+    "id": 33,
+    "name_category": "TXT",
+    "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg"
+  }
 ],
   
 "Data": [
