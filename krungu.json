@@ -1,0 +1,374 @@
+{
+"Ads": [
+{
+"select_ads": "ADMOB",
+"status_app": "0",
+"link_redirect": "https://",
+"admob_interid": "ca-app-pub-3940256099942544/1033173712",
+"admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+"admob_openid": "ca-app-pub-3940256099942544/1033173712",
+"interval_intertitial": "5",
+"startappid": "201669628",
+"fan_inter": "YOUR_PLACEMENT_ID",
+"fan_banner": "YOUR_PLACEMENT_ID",
+"mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+"mopub_inter": "24534e1901884e398f1253216226017e",
+"appodeal_key": "b195f8dd8ded45fe847ad89ed1d016da",
+"packagename": "com.mireng.senthong"
+}
+],
+"Categories": [
+  {
+    "id": 1,
+    "name_category": "2NE1",
+    "image": "https://i.pinimg.com/originals/30/7b/4b/307b4b647887880a85b117fd751873b8.jpg"
+  },
+  {
+    "id": 2,
+    "name_category": "aespa",
+    "image": "https://jateng.poskota.co.id/photo/plugin/article/2021/1610181039_1-org.jpg"
+  },
+  {
+    "id": 3,
+    "name_category": "Apink",
+    "image": "https://i.pinimg.com/736x/32/43/32/324332c4b052b3cebe655d5052bca994--apink-naeun-apink-kpop.jpg"
+  },
+  {
+    "id": 4,
+    "name_category": "Astro",
+    "image": "https://i0.wp.com/hallyumusic.com/wp-content/uploads/2020/05/ASTRO-COVER.png?fit=600%2C600&ssl=1"
+  },
+  {
+    "id": 5,
+    "name_category": "ATEEZ",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg"
+  },
+  {
+    "id": 7,
+    "name_category": "B1A4",
+    "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg"
+  },
+  {
+    "id": 8,
+    "name_category": "BIG BANG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg"
+  },
+  {
+    "id": 9,
+    "name_category": "BLACKPINK",
+    "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg"
+  },
+  {
+    "id": 10,
+    "name_category": "BTS",
+    "image": "https://assets.nst.com.my/images/articles/07ntBTS_1517969024.jpg"
+  },
+  {
+    "id": 11,
+    "name_category": "CRAVITY",
+    "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg"
+  },
+  {
+    "id": 12,
+    "name_category": "Dreamcatcher",
+    "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg"
+  },
+  {
+    "id": 13,
+    "name_category": "ENHYPEN",
+    "image": "https://image.kpopmap.com/2020/12/rookie-enhypen.jpg"
+  },
+  {
+    "id": 13,
+    "name_category": "EXO",
+    "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg"
+  },
+  {
+    "id": 14,
+    "name_category": "G-idle",
+    "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg"
+  },
+  {
+    "id": 15,
+    "name_category": "GOT7",
+    "image": "https://pbs.twimg.com/profile_images/957032046836240384/NneCvaHk.jpg"
+  },
+  {
+    "id": 17,
+    "name_category": "iKon",
+    "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg"
+  },
+  {
+    "id": 18,
+    "name_category": "ITZY",
+    "image": "https://1409791524.rsc.cdn77.org/data/thumbs/full/547971/650/0/0/0/itzy-wannabe-mv-3-consecutive-100-million-views.jpg"
+  },
+  {
+    "id": 19,
+    "name_category": "IU",
+    "image": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg"
+  },
+  {
+    "id": 20,
+    "name_category": "IZ*ONE",
+    "image": "https://i.redd.it/obceohfe3jh21.jpg"
+  },
+  {
+    "id": 21,
+    "name_category": "Mamamoo",
+    "image": "https://www.hellokpop.com/wp-content/uploads/2016/08/20160824_mamamoo.jpg"
+  },
+  {
+    "id": 22,
+    "name_category": "MCND",
+    "image": "https://i0.wp.com/kstationtv.com/wp-content/uploads/2019/12/MCND-2.jpg?fit=798%2C798&ssl=1"
+  },
+  {
+    "id": 23,
+    "name_category": "Momoland",
+    "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1"
+  },
+  {
+    "id": 24,
+    "name_category": "MONSTA X",
+    "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg"
+  },
+  {
+    "id": 25,
+    "name_category": "NCT",
+    "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg"
+  },
+  {
+    "id": 26,
+    "name_category": "NU'EST",
+    "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg"
+  },
+  {
+    "id": 27,
+    "name_category": "Red Velvet",
+    "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg"
+  },
+  {
+    "id": 28,
+    "name_category": "SECRET NUMBER",
+    "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg"
+  },
+  {
+    "id": 29,
+    "name_category": "Shinee",
+    "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg"
+  },
+  {
+    "id": 30,
+    "name_category": "Stray Kids",
+    "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg"
+  },
+  {
+    "id": 31,
+    "name_category": "TREASURE",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg"
+  },
+  {
+    "id": 32,
+    "name_category": "Twice",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg"
+  },
+  {
+    "id": 33,
+    "name_category": "TXT",
+    "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg"
+  }
+],
+  
+"Data": [
+  {
+    "id": 10000,
+    "name_category": "TREASURE",
+    "title": "MY TREASURE",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=18n4FwhJhuKIYCTGbMdvmkuH7VPjb-MrZ",
+    "duration": 175,
+    "lyrics": "<p>Jichin haneulbit<br />Haeneun jamdeulgo<br />Barami bulmyeon<br />Da jinagago isseo<br />Kkumeseo kkaen deut<br />Dashi saerobge<br />It's alright jal dwel geoya<br /><br />Takhae mami<br />Dabdabhae sumeul shwil suga eopjana<br />I wanna go back to the good times<br />Ha- hansumman nawa<br />Gabyeobge amu noraena teureonoko<br />Neowa chumchugo shipeo<br /><br />Biga geuchimyeon<br />Malgeun haneuri uril gidarideut<br />Deo joeun nari balga ol geoya<br />Gyeoul kkeute bomi wa<br />Ganeun gil eodideun kkot pil geoya<br />Neo boran deushi<br /><br />It's gonna be alright<br />C'mon<br /><br />Geokjeong ma<br />Han beon deo tteugeobge useojweo tteugeobge!<br />Useul ttae deo yeppeo neon<br />Himeul nae<br />Urin gyeolguk binnal teni<br />Gameun nuneul tteo<br />You're the only one TREASURE<br /><br />Andwemyeon eottae dashi shijakhae<br />Deoneun ulji mayo<br />Naeiri ol ttae binnaneun jonjae<br />You're the only one TREASURE<br />It's all good day<br /><br />Sakmakhaejyeo beorin segye<br />Bunwigiga neomu deep hae<br />Haengboge galjeungeul neukkyeo weonhae oashiseu<br />Piryohae haneure pray<br /><br />We can believe hangsang geuraetteushi<br />Useumeul ilchi ma jeoldaero<br />Doraogetji haengbokhadeon geu nal geuttaero<br />We're gonna be ok<br /><br />Bi geuchigo malgeun nari ol ttae<br />Urin haengbokhaejigo yea<br />Eonjena naegero waseo soneul jaba<br />Nunmuljocha himi dwel geoya<br /><br />Amu geokjeong haji ma<br />Ne mamdaero meottaero<br />Jeulgineun geoya<br />Nam boran deushi<br /><br />It's gonna be alright<br />C'mon<br /><br />Geokjeong ma<br />Han beon deo tteugeobge useojweo tteugeobge!<br />Useul ttae deo yeppeo neon<br />Himeul nae<br />Urin gyeolguk binnal teni<br />Gameun nuneul tteo<br />You're the only one TREASURE<br /><br />Jiteun saebyeok jina<br />Jamdeureotteon haega tteoolla<br />Urireul bichumyeon<br />Shideureotteon haengbokgwa<br />Piji mothan sarangi<br />Dashi jaranal teni<br />Never give up<br />MY TREASURE<br /><br />All we need is love<br />Geokjeong ma<br />Han beon deo tteugeobge useojweo<br />Useul ttae deo yeppeo neon<br />Himeul nae Just for me<br />Neoneun deo binnal teni<br />You're the only one<br />You're my TREASURE<br /><br />Andwemyeon eottae dashi shijakhae<br />Deoneun ulji mayo<br />Naeiri ol ttae binnaneun jonjae<br />You're the only one TREASURE<br /><br />Mothamyeon eottae dashi shijakhae<br />Keuge useobwayo<br />Naeiri ol ttae binnaneun jonjae<br />You're the only one TREASURE</p>"
+  },
+  {
+    "id": 9999,
+    "name_category": "TREASURE",
+    "title": "BE WITH ME (나랑 있자)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1RmmsAT7bnqAfYJgHp35ydiNrJqa2SGAn",
+    "duration": 175,
+    "lyrics": "<p>Myeot siya<br />Sigan jom boji ma<br />Don't know why<br /><br />Paran moonlight<br />Imi gipeun bamiya<br />Eodil ga<br /><br />Jogeumman deo bollae<br />Tto geupage jibe ga mwohae<br />It's very very fine<br />Cheoncheonhi cheonhi ga<br /><br />Eojjeol suga eomne<br />Makchakkaji kkeunkin geot gata<br />That's very very nice<br />Naega jikyeo jul subakke eomneungeol<br /><br />Baram buneun bame<br />Ontong kkaman haneul arae<br />Eodil gayo geokjeongdwaeyo<br /><br />Boreumdari tteune<br />Jibe doraganeun gire<br />Neukdaedeuri neoreul jabachae galgeol<br /><br />Narang itja<br />Gaji ma gaji ma girl<br /><br />Geunyang narang itja<br />It's up to you<br /><br />Nega mwora mwora naege malhaedo<br />Wiheom wiheomhae<br /><br />Tell me tell me<br />Eotteon byeonmyeongdo an tonghae<br />Maeil bam seororeul haneure<br />Geurigiman hae tto<br />Oneureun mot neomeoga<br />Sarang anin geurium<br />Not a chance only you<br /><br />Uri gyesok play all night<br />Eodiedo gaji mara jwo<br />Narang soneul jabeumyeonseo<br />Neorang gyesok itgo sipeo<br />Nareul tteonaji ma<br /><br />Jogeumman deo bollae<br />Tto geupage jibe ga mwohae<br />It's very very fine<br />Cheoncheonhi cheonhi ga<br /><br />Mideul suga eomne<br />Uri koga matdaeun geot gata<br />That's very very nice<br />Ije jikyeo jul subakke eomneungeol<br /><br />Baram buneun bame<br />Ontong kkaman haneul arae<br />Eodil gayo geokjeongdwaeyo<br /><br />Boreumdari tteune<br />Jibe doraganeun gire<br />Neukdaedeuri neoreul jabachae galgeol<br /><br />Narang itja<br />Gaji ma gaji ma girl<br /><br />Geunyang narang itja<br />It's up to you<br /><br />Nega mwora mwora naege malhaedo<br />Wiheom wiheomhae<br /><br />Kkumin deut kkumi anin deusi kkumsok gateun neo<br />Oh dreamy girl, you're dreamy girl<br /><br />Nae gaseum gadeuk chage neoreul anajul geoya<br />Jeo byeoreul ttara naege heulleowa jun neo<br /><br />Jigeumbuteo saebyeokkkaji<br />Eodideun georeogaja nawa gachi<br />Mwol haebwado nan neoegero ikkeullyeoga<br />Girl neoui misul gateun ipsul<br /><br />Saebyeok neomeo achimkkaji<br />Nuga mwora mwora nareul tathaedo<br />Neoreul joahae</p>"
+  },
+  {
+    "id": 9998,
+    "name_category": "TREASURE",
+    "title": "SLOWMOTION",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1GCuCPa5-ExV9UzfNDo_hZJCBJDgohAmJ",
+    "duration": 175,
+    "lyrics": "<p>Neurin useum<br />Deo neurin georeumeuro<br />Geotja du son kkok japgo<br />Kkeuchi boiji anke<br /><br />Neurin gureum<br />Hangsang neul ireoke<br />We go slow motion<br />Slow motion<br /><br />Maeumui junbireul hae<br />Saenggangnal ttaemada gidohae<br />Gal giri meonikka urin<br />Kkeuchi eopseo boinikka juri<br /><br />Naneun wonhae deep talk<br />Gipeojija uri deo<br />Apeul hyanghae big jump<br />Igeo bwa nareul mideo<br />Deo cheoncheonhi deo cheon cheoncheonhi deo<br />We gon' make it<br />We gon' reach at<br /><br />Da malhaji mothaedo<br />Urin seoroui himeul algo isseo<br />Sarangseureoun neoui<br /><br />Neurin useum<br />Deo neurin georeumeuro<br />Geotja du son kkok japgo<br />Kkeuchi boiji anke<br /><br />Neurin gureum<br />Hangsang neul ireoke<br />We go slow motion<br />Slow motion<br /><br />Neoreul saenggakae haru jongil<br />I'm addicted to your love for real<br />Nuga mwora haedo<br />Naman mideojwo babe<br />Uri dulmanui song<br />Naege gidaedo dwae<br /><br />Yeah we are butterfly<br />Hamkke jeo haneul neomeo<br />Bitbaraen kkumsogeuro<br />Together uju meolli<br />All day gaja long day<br />Mideo nae yeope gidae<br />Na eodi an ga geokjeong ma my maker<br /><br />Gamdangchi mothaedo<br />Jageun himeul moaseo beotyeowasseo<br />Areumdaun neoui<br /><br />Neurin useum<br />Deo neurin georeumeuro<br />Geotja du son kkok japgo<br />Kkeuchi boiji anke<br /><br />Neurin gureum<br />Hangsang neul ireoke<br />We go slow motion<br />Slow motion<br /><br />Oh oh oh oh<br />Oh oh oh oh<br />Oh oh oh oh<br />Slow motion, baby<br />Slow motion, yeah<br /><br />Oh oh oh oh<br />Oh oh oh oh<br />Oh oh oh oh<br />Slow motion, baby<br />Slow motion, yeah</p>"
+  },
+  {
+    "id": 9997,
+    "name_category": "TREASURE",
+    "title": "BOY",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1qP6LkKW-bPVbUjcxI_fo0FXJA_Oopgmg",
+    "duration": 175,
+    "lyrics": "<p>Woah oh<br />Yeah<br /><br />Neon machi beautiful danger<br />Chyeodabol su eopseo<br />Neomu nunbusin halo<br />Nuneul garyeobwado sumgyeobwado<br />Neon jeongmal different<br />Heeonaol su eopseo<br />Teojildeuthan nae heartbeat<br />Bureul jilleo oh oh oh<br />Deo oh oh oh<br />Oh no ontong meoritsogi messed up<br />Yo oneulttara michigesseo<br />You're so beautiful malhago sipeo<br />Nuneul majuchin sungan ijeonui nan<br />Mollasseosseo naui taip<br />Neon jeongmal special treasure<br />Yeah I'm gonna be the one<br />Neoreul wonhae<br /><br />Unmyeongieotdeon geotcheoreom yeah<br />Sumaneun saramdeul sok neoman boyeo<br />I can make you happy<br />Nan kkok neoyeoyaman hae girl<br />Mameul yeoreojwo<br />I just wanna be your boy<br /><br />I'll be your boy<br />Mameul yeoreojwo<br />Be my be my be my girl<br />I'll be your boy<br />Be my be my be my<br />I just wanna be your boy<br /><br />Jigeum mak jigeum mak<br />Nuni meoreobeoril geonman gateum<br />Sum makineun areumdaum<br />I'm so addicted to you, can't control<br />Kokkeute danggyeo neoui hyanggi<br />Buljangnaneun geuman sarangeuro chaewo yeolgi<br />I'm runnin' and runnin' and<br />Neol wihaeseoramyeon nan<br />Jeonbu da georeo ride or die<br /><br />Unmyeongieotdeon geotcheoreom yeah<br />Sumaneun saramdeul sok neoman boyeo<br />I can make you happy<br />Nan kkok neoyeoyaman hae girl<br />Mameul yeoreojwo<br />I just wanna be your boy<br /><br />I'll be your boy<br />Mameul yeoreojwo<br />Be my be my be my girl<br />I'll be your boy<br />Be my be my be my<br />I just wanna be your boy<br /><br />Eodiseodeun binna<br />Neoneun naui yeowang<br />I'mma ride for you<br />I'mma ride or die for you girl<br />Baby I'll be yours<br />Baby I'll be yours<br />But you're so far away<br />Ije mameul yeoreojwo<br />I'm gonna be your boy<br /><br />I'll be your boy<br />Be my be my be my girl<br />Nae mamgwa gatdamyeon<br />Be my be my be my<br />I just wanna be your boy<br /><br />Da pillyo eopseo nawa soneul japgo run<br />Shh Treasure<br />Oh oh oh oh oh oh oh oh<br />Na na na na na now<br />Oh oh oh oh oh oh<br />Mameul yeoreojwo<br />Oh oh oh oh oh oh oh oh<br />Na na na na na now<br />Oh oh oh oh oh oh<br />I'm gonna be your boy</p>"
+  },
+  {
+    "id": 9996,
+    "name_category": "TREASURE",
+    "title": "COME TO ME (들어와)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=18NOAfaAO6JpQwACw6fc6Kfa9a9VWwqjW",
+    "duration": 175,
+    "lyrics": "<p>Jigeum mameun eotteoni<br />Geokjeongdwae jom mani<br />Jakku meoreojilkka<br />Duryeowo kkwae mani<br /><br />Naega tokaetdeon geu bami tteoolla<br />Nega taekaetdeon maldeuri goerowo<br />Neomu chakaetdeon neol boni seoreowo<br />Dwiro back back doraga dollyeonwa<br /><br />Naega monnatgin jom monnatji neomu seotun geot gata<br />Neoksi nagal daero nagatji naega jalmothan geoya<br /><br />Eotteoke eodukaejin ne maeume<br />Dasi bureul kyeo bolkka<br />Eotteokedeunji nae modeun geol geolgo<br />Jikyeojulge baby<br /><br />Nuga mworaedeun jakku mworaedeun<br />Nuga mworaedeun jakku mworaedeun<br />Nuga mworaedeun jakku mworaedeun<br /><br />Dakkajulge ne modeun ge saehayake dasi binnal ttaekkaji<br />Gajulge gachi gajulge kkeutkkaji ne pyeon halge girl<br />Gwaenchana chagapgen an byeonhae baby<br />Nugubodado neol wonhae maeil<br />Josimseure nega pyeonhal ttae mareul kkeonaelge<br /><br />Ssok deureowa nae keun pume deureowa<br />Anytime you're ready girl<br />Josimseure nega pyeonhal ttae mareul kkeonaelge<br />Ja deureowa<br /><br />Jakku kkeullyeo nege maeilmaeil<br />Neomu dalkomhan neon wiheomhae<br />Eojireowo gyesok bingbing<br />Nae ape natanatda domangchiji malgo ije deureowa<br /><br />Ije deureowa jwo<br />Gidarin nae mamsok binjarireul chaewojwo<br />Come and fill me up<br />My diamond in the dirt<br />Honja ganjikago sipeo<br />Girl, you got me like<br /><br />Naega monnatgin jom monnatji neomu seotun geot gata<br />Neoksi nagal daero nagatji naega jalmothan geoya<br /><br />Ireoke eodukaejin nae harue<br />Dasi deureowa jullae<br />Eotteokedeunji nae modeun geol itgo<br />Useobolge baby<br /><br />Nuga mworaedeun jakku mworaedeun<br />Nuga mworaedeun jakku mworaedeun<br />Nuga mworaedeun jakku mworaedeun<br /><br />Dakkajulge ne modeun ge saehayake dasi binnal ttaekkaji<br />Gajulge gachi gajulge kkeutkkaji ne pyeon halge girl<br />Gwaenchana chagapgen an byeonhae baby<br />Nugubodado neol wonhae maeil<br />Josimseure nega pyeonhal ttae mareul kkeonaelge<br /><br />Hanjeokan maeume hwalgiga cha<br />Nega nae bicheuro tteoolla<br />Nun gameul ttae you're my sweet dream at night<br />Ijen pyeonhi jame deul geot gata ye<br />Nega isseoseo ibureun 'cheon' jeongdo<br />Cause you are so warm 'man'gaehan nae miso<br />Nado ne ilbuga doego sipeo<br /><br />Ssok deureowa nae keun pume deureowa<br />Anytime you're ready girl<br />Kkwak aneulge nochi aneulge buteo isseulge<br />Ssok deureowa</p>"
+  },
+  {
+    "id": 9995,
+    "name_category": "TREASURE",
+    "title": "I LOVE YOU (사랑해)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1l2euhmsXOAxx62qqX6m_5VLrCJs6Wfu3",
+    "duration": 175,
+    "lyrics": "<p>Tteoollin ne saenggage<br />Meoriga jom bokjabhae<br />Kkaejil geonman gata<br /><br />Gadeukhan Fantasy<br />Gunggeumhan Mystery<br />Jebal hinteureul jweo<br /><br />Sasohan geot hanakkaji neol ttarahae<br />Shilsuhan geon anya jayeonseureobge Yeah<br />Imi mome gipge baein neoran hyanggie<br />Jungdogi dwae beorin geoya<br /><br />Neo eopshin nan amugeotto mot hae<br />Naega babo gata boigetji Yeah<br />Shimjangi neo eopshin ttwijil mothae<br />Meoributeo balkkeutkkaji modu<br /><br />Da saranghae<br />Neol saranghae<br />Neol saranghae<br />Neol saranghae<br /><br />Jamkkane bulsshiga peojyeo Flame<br />Jeoldaero beoseonaji ma nae Frame<br />Bupiga keojin nae gamjeongi baekpeosenteu<br />Neoro chaolla nae pume Come on in<br /><br />Come on in come on in naegero neon<br />Naman barabwa tteugeoun taeyangcheoreom<br />Mamdaero nae mameul dwijibeo noko<br />Doraseoji ma! nae soneul jaba<br /><br />Bakke mot naga neo ttaemae michyeo<br />Juche mot haneun Beast<br />Dalbit arae nege norael bulleo<br />Deullini Where you at? My boo<br /><br />Neo eopshin nan amugeotto mot hae<br />Naega babo gata boigetji Yeah<br />Shimjangi neo eopshin ttwijil mothae<br />Meoributeo balkkeutkkaji modu<br /><br />Da saranghae<br />Neol saranghae<br />Neol saranghae<br />Neol saranghae<br /><br />Oh my god<br />Maeil Up and down<br />Geonjohan nal heumppeok jeokshin geon neoya<br /><br />Maeil bam neoran saram ttaemae<br />Michyeo beorin geoya<br />Suwi jojeol shilpaeya<br />OH OH OH<br /><br />Neo eopshin nan amugeotto mot hae<br />Naega babo gata boigetji Yeah<br />Shimjangi neo eopshin ttwijil mothae<br />Meoributeo balkkeutkkaji modu<br /><br />We goin' hard deo tteugeobge<br />LA LA LA LA LA<br />We make it pop bultaeulge<br />LA LA LA LA LA<br />Put your hands up In the air Say<br />LA LA LA LA LA<br /><br />Let's make love Hey<br />Let's make love Hey<br /><br />Da saranghae<br />Neol saranghae<br />Neol saranghae<br />Neol saranghae</p>"
+  },
+  {
+    "id": 9994,
+    "name_category": "TREASURE",
+    "title": "B.L.T (BLING LIKE THIS)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=14_SWDN6eq5NkEtc5h5YkQIMXn0ZMyu14",
+    "duration": 175,
+    "lyrics": "<p>Heundeullin byeolbiche peojineun sigye sori<br />Barame deullyeooneun neoreul chaja Every day<br />Byeori nuntteul ttae boineun urimanui 'bimil'<br />Paradise, paradise<br /><br />Neowa muldeullyeogan sigan sogeseo<br />Chajeul geoya nege daeul su inneun geot<br /><br />Shine!<br />Nareul kkaewojuneun Moonlight<br />Seororeul bichuneun Spotlight<br />Yeah nan neoui sunaebo<br />Nege ganeun gireul makji ma I'ma go<br /><br />Eodume garyeojyeo<br />Heuteojineun hyanggicheoreom gyeote isseojwo<br />Namgyeodulge modeun geol<br />Byeolbit jeomureo ganeun igoseseo<br /><br />Bling like this<br />Bling like this<br />Binnaneun neowa naui maeumsok<br />Meomchwobeorin sigan soge<br />Bling like this<br />Bling like this<br /><br />Eodil bwado binna neoneun<br />Nal bichwojwo You're like the moon<br />Gureumdeuri neoreul garyeodo bol su itge<br />Yeongwonhi Eyes on you<br /><br />Bling-bling bichi naneun neoro neukkyeojin 美<br />Dalkomhan maeryeogi Pop!<br />Nae mame teojineun Shooting star<br /><br />Neowa muldeullyeogan sigan sogeseo<br />Chajeul geoya nege daeul su inneun geot<br /><br />Eodumeul hechyeonagal su itge<br />Naui du soneul jabajwo Babe<br /><br />Nae jageun mameseo biroso<br />Neoraneun bichi muldeureogane<br /><br />Eodume garyeojyeo<br />Heuteojineun hyanggicheoreom gyeote isseojwo<br />Namgyeodulge modeun geol<br />Byeolbit jeomureo ganeun igoseseo<br /><br />Bling like this<br />Bling like this<br />Binnaneun neowa naui maeumsok<br />Meomchwobeorin sigan soge<br />Bling like this<br />Bling like this<br /><br />Dalbicheul balgoseo jogeumssik gakkawojyeo<br />Siganeul geoseulleo<br />Yeongwonhi hamkkenikka<br /><br />Bling-bling baby<br />Neoreul hyanghan nunbit<br />Bling-bling baby tonight<br /><br />Bling-bling baby<br />Naege bonaen byeolbitcheoreom<br />Banjjagineun neowa naneun Bling-bling<br /><br />Bling-bling baby<br />Neoreul hyanghan nunbit<br />Bling-bling baby tonight<br /><br />Bling-bling baby<br />Naege bonaen byeolbitcheoreom<br />Banjjagineun neowa naneun Bling-bling</p>"
+  },
+  {
+    "id": 9993,
+    "name_category": "TREASURE",
+    "title": "MMM (음)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1TftRlVNsCOMkR_A-NTWd5qvq6aNBxRyK",
+    "duration": 175,
+    "lyrics": "<p>Mmm, mmm, mmm<br />Let me treasure you, treasure you, treasure you<br /><br />Kkamjjagiya!<br />Neoreul bomyeon ibi beoreojyeo hwaljjak<br />Nunbusin biche nuni meoreo nae palja<br />Tto ne saenggageul hago itji maeil bam<br />Cheongugui hyanggireul mata naraolla<br /><br />Modeun ge wanbyeokan oneuri baro<br />D-day, day, day, day, day, day<br />Dulmanui bimireul mandeureo boja<br />My babe, babe, babe, babe, babe, babe<br />Jayeonseure nan neol rideuhaneun rideoga dwae<br />Sasireun neol bomyeon tteollyeo<br />Ginjanghae nal gudeo beorige mandeuneun medusa<br /><br />Neoman bomyeon nolla gamtanhae<br />Neoui gyeoteuro eodideun dallyeoga<br />Runnin', runnin', runnin'<br /><br />Geurae naya<br />Geommeogeul pillyo eopjana nae son jaba<br />Mujogeon nal mideo You know what I'm sayin'<br />Geurae jigeum geu nunbicheuro<br />Nareul chyeodabol ttae<br /><br />Teojil geot gata neo ttaemae Mmm<br />Jigeum nae simjangi Mmm<br />Michin geot gata Mmm<br />Let me treasure you, treasure you<br /><br />Teojil geot gata neo ttaemae Mmm<br />Wiheomhae jigeum Mmm<br />Bisangsatae Mmm<br />Let me treasure you, treasure you<br />Teojil geot gata neo ttaemae<br /><br />Neol jom deo wonhae aewonhae Want some more<br />Yeah neon nae mureupi ttange dake mandeureo yuilhae<br />I han mom bachigopeun yeowangiya<br />Neon machi myeongjak gata pilteo ttawin pillyo eopji<br />Eok soriga nawa geu gapseun gamjeong bulga<br /><br />Neoman bomyeon nolla gamtanhae<br />Neoui gyeoteuro eodideun dallyeoga<br />Runnin', runnin', runnin'<br /><br />Geurae naya<br />Geommeogeul pillyo eopjana nae son jaba<br />Mujogeon nal mideo You know what I'm sayin'<br />Geurae jigeum geu nunbicheuro<br />Nareul chyeodabol ttae<br /><br />Teojil geot gata neo ttaemae Mmm<br />Jigeum nae simjangi Mmm<br />Michin geot gata Mmm<br />Let me treasure you, treasure you<br /><br />Teojil geot gata neo ttaemae Mmm<br />Wiheomhae jigeum Mmm<br />Bisangsatae Mmm<br />Let me treasure you, treasure you<br /><br />Neoui geu misoro nae gipeun hansumeul nallyeojwo<br />(Gipeun hansumeul nallyeojwo)<br />Jigeum i neukkimi jeo haneure daeul ttaekkaji<br />(Jeo haneure daeul ttaekkaji)<br />Jogeum deo nopeun got gureum wireul geotgo sipeo<br />(Gureum wireul geotgo sipeo)<br />Neoreul bol ttaemada kkumeseo kkaego sipji ana<br />(Kkumeseo kkaego sipji ana)<br /><br />Dareun yeojan chyeodado an bwa nan<br />Naegen ojik yeojan neo hanaya<br />Amman bomyeo ttwineun gyeongjuma nan<br />Neoman bomyeon nae simjangi<br />Papa papapa papa papapa Fire<br /><br />Naegen ojik yeojan neo hanaya<br />Bulkkeunbulkkeun taoreuneun nae mam<br />Neoman bomyeon nae simjangi<br />Papa papapa papa papapa Fire</p>"
+  },
+  {
+    "id": 9992,
+    "name_category": "TREASURE",
+    "title": "ORANGE (오렌지)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1RHI_2f_W7HtQUJ_C1QlVdL4FwxGOdI0L",
+    "duration": 175,
+    "lyrics": "<p>Nan 1bun 1chorado<br />Deo ppalli neoreul bogopeunde<br />Neon hangsang bappeudae<br />Geuraeseo urin tto hanjeongdoen siganeul bonae<br /><br />Haengbokan siganeun geumbang ga neomu aswipjiman<br />Nan geuraedo joa<br />Uri saien geuge deo joa<br /><br />Nan neowa maneun iyagireul hadaga<br />Sigyereul bogo gapjagi danghwangseureowojyeo<br />Jigeum neoreul jibe bonaegi sileo<br />Hajiman geureol suneun eopseoseo<br /><br />Oneuldo orenjiro muldeureoganeun neoreul yeojeonhi nan<br />Aswiwohamyeonseo jibe doragal geot gata<br />Naneun deo neowa hamkkehago sipeunde<br /><br />Haega jyeodo gidarimyeon dasi tteudeusi<br />Naeildo bogopa<br />Nan seulpeohamyeonseo jibe doragal geot gata<br />Aswipge oneuldo noeuri boigi sijakaetda<br /><br />Orenjibichi na siwonhan baram<br />Georireul jopyeo nan soneul jababonda<br />Uimi eomneun maldeureul deonjyeo bwado<br />Neon ginjang haenneunji nal chyeodaboji ana<br /><br />Eoduwojigi sijakamyeon<br />Nae pyojeongdo eoduwojijana<br />Nega doraseogi jeone<br />Oneureun malhaeyagetda sipeo<br /><br />Jogeon eopsi maeil binnajuneun jeo noeulcheoreom<br />Neodo hangsang geureoke maeil useo jugil bara<br />Geureom neol pyeongsaeng ganjikal su isseunikka<br />Eoduwodo nae nunen nega gajang bichi nanikka<br /><br />Nan neowa maneun iyagireul hadaga<br />Sigyereul bogo gapjagi danghwangseureowojyeo<br />Jigeum neoreul jibe bonaegi sileo<br />Hajiman geureol suneun eopseoseo<br /><br />Oneuldo orenjiro muldeureoganeun neoreul yeojeonhi nan<br />Aswiwohamyeonseo jibe doragal geot gata<br />Naneun deo neowa hamkkehago sipeunde<br /><br />Haega jyeodo gidarimyeon dasi tteudeusi<br />Naeildo bogopa<br />Nan seulpeohamyeonseo jibe doragal geot gata<br />Aswipge oneuldo noeuri boigi sijakaetda<br /><br />Sigani meomchwo idaero<br />Haega an jyeosseum hae<br /><br />Neomaneun useojwo naega<br />Haengbokage jibe gal su itge<br /><br />Jeo binnaneun noeuldo mianhaehajana<br />Meonjeo ga<br />Nado useumyeo neoreul bonaelge<br /><br />Oneuldo orenjiro muldeureoganeun neoreul yeojeonhi nan<br />Aswiwohamyeonseo jibe doragal geot gata<br />Naneun deo neowa hamkkehago sipeunde<br /><br />Haega jyeodo gidarimyeon dasi tteudeusi<br />Naeildo bogopa<br />Nan seulpeohamyeonseo jibe doragal geot gata<br />Aswipge oneuldo noeuri boigi sijakaetda</p>"
+  },
+  {
+    "id": 9991,
+    "name_category": "TREASURE",
+    "title": "GOING CRAZY (미쳐가네)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1M4nLub9Zumkyo1lakUFqIedOWMIh2i4E",
+    "duration": 175,
+    "lyrics": "<p>I'm going crazy<br /><br />Oneuldo nan neoreul barabogo isseo<br />Neul daedab eopneun neoreul dashi bulleobwa<br />Hajiman neoye du nunen<br />Naman eopneun geot gata (I'm going crazy)<br /><br />I'm going crazy (roll, action)<br />Gamjeongi moribi dwaesseo<br />Yeongiramyeon igeoseun mesodeu<br />Hajiman hyeonshire saeroun neukkimi neukkimi<br />Call me freaky freaky boy bebekkoin uri body<br /><br />Wae nan neoege dagagalsurok<br />Neon nae gyeoteseo meoreojineunji<br />Nan neoye gyeote hangsang<br />Sumeul shwigo shipeunde<br />Neon naye mameul moreuni<br /><br />Michyeogane naneun michyeogane<br />Michyeogane nege michyeogane<br />Nan neoege ppajyeoisseo<br />Neol saranghago isseo (I'm going crazy)<br /><br />This must be crazy love<br />This must be crazy love<br />Honjamane sarangeun hagi shireo<br />This is crazy love<br /><br />Boijido anne<br />Neowa na mildang hago isseo<br />Gyesok jabhil deut mal deut<br />Namgigo ganeun hyanggiga neomuna jiteo<br /><br />Nareul michin deushi chumeul chumyeo<br />Ne ireumeul wechyeo<br />24/7 a day gomin maeil hae<br />Nae meorissok gyesok maemdora crazy<br /><br />Wae nan neoege dagagalsurok<br />Neon nae gyeoteseo meoreojineunji<br />Nan neoye gyeote hangsang<br />Sumeul shwigo shipeunde<br />Neon naye mameul moreuni<br /><br />Michyeogane naneun michyeogane<br />Michyeogane nege michyeogane<br />Nan neoege ppajyeoisseo<br />Neol saranghago isseo (I'm going crazy)<br /><br />This must be crazy love<br />This must be crazy love<br />Honjamane sarangeun hagi shireo<br />This is crazy love<br /><br />Ojik neol saranghago isseo<br />Nae maeumeun neol gidarigo isseo<br />Hajiman neon oneuldo naege<br />Eopneun geot gata (I'm going crazy)<br /><br />Apman bwa ojik neomaneul<br />Hyanghae dallyeogago isseo<br />Gakkeum sseureojyeodo dwae<br />I'll never give up<br /><br />Nareul jabajwo naye<br />Nalgaega dweeo ttwija haneulwiro<br />Jeoldae pogi mothae<br />We going all the way<br /><br />This must be crazy love<br />This must be crazy love<br />Honjamane sarangeun hagi shireo<br />This is crazy love</p>"
+  },
+  {
+    "id": 9990,
+    "name_category": "SECRET NUMBER",
+    "title": "Got That Boom",
+    "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=13QW--uYUkKouMGHhrgeWJFPoIHNXP3t5",
+    "duration": 175,
+    "lyrics": "<p>Turn it up turn it up<br />Eh turn it up<br />Turn it up turn it up<br />Turn the music up<br /><br />Neoreul gamdongsikil naya move like that<br />Neoman aneun Secretkkaji bounce like that<br />Rideumeun tteugeopge<br />Tto stepeun gabyeopge<br />Saekaman i bam gadeuki teoteuryeo boilge<br /><br />Modeun ge kkumilji molla far away<br />Neol bichun music<br />Eodume seonmyeonghi deo binna<br />Kkeullindamyeon moyeo modu<br /><br />Dance dance dance get up dance<br />Byeoreul ttara taoreuneun mam deo morachideut<br />Dance dance dance get up dance<br />Kkeuteopsi beokchaoreuneun bam<br /><br />Gimme gimme that gimme gimme that dough<br />Oh tic tac toe<br />Gimme gimme that gimme gimme that flow<br />Oh imi neon<br />Gimme gimme that gimme gimme that dough<br />Oh tic tac toe<br />Bureul buchin bameul nege throw<br />I know you got that boom<br /><br />Areundae haru jongil like that<br />Gadeukae i neukkimeul like that<br /><br />Neoman aneun feel<br />Ne sonkkeuteul ttara gubichineun beat<br />Pagodeureo in your bass<br /><br />Hwaryeohan jomyeongeul ttara run away<br />Tteollyeo on mami<br />Du nune bulkkocheuro binna<br />Sumi chage pyeolchyeojyeo<br /><br />Dance dance dance get up dance<br />Byeoreul ttara taoreuneun mam deo morachideut<br />Dance dance dance get up dance<br />Kkeuteopsi beokchaoreuneun bam<br /><br />Gimme gimme that gimme gimme that dough<br />Oh tic tac toe<br />Gimme gimme that gimme gimme that flow<br />Oh imi neon<br />Gimme gimme that gimme gimme that dough<br />Oh tic tac toe<br />Bureul buchin bameul nege throw<br />I know you got that boom<br /><br />I know you got that boom<br />I know you got that boom<br /><br />Meomchuji ma oneuri majimakcheoreom turn it up up<br />We gon' burn it up up<br />Nari sael ttaekkaji neoreul naege matgyeo<br />Uriga neukkineun daero hae woo<br /><br />Tto seureuk seureuk seureuk ppajyeo deo<br />Illeongideut mameul pagodeuneun drum<br />Keojineun volumee<br />Nareul gyeonun geu biche<br />Nogadeureo nan<br /><br />Teoteuryeo High high high away<br />(Deo jiteogal rideume)<br />Nalgaereul dara Fly fly fly away<br />Sumsorijocha nal chumchuge haneun beat<br />Jayurowo jigeum ne nunbit<br /><br />Gimme gimme that gimme gimme that dough<br />Oh tic tac toe<br />Gimme gimme that gimme gimme that flow<br />Oh imi neon<br />Gimme gimme that gimme gimme that dough<br />Oh tic tac toe<br />Kkeullin deusi dagagadeut zoom<br />I know you got that boom</p>"
+  },
+  {
+    "id": 9989,
+    "name_category": "SECRET NUMBER",
+    "title": "Holiday",
+    "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1np3PsIB6ZvuZdm8lwekeq0M4FABOdE8S",
+    "duration": 175,
+    "lyrics": "<p>I'm lovin' myself naega joa eotteokae<br />Tto nareunhaejyeo heuteureojyeo Get away<br /><br />Simjangi jjarithan neukkim geureon geon sileo Oh<br />Pyeonhage swigo sipeo nan<br />Stop tellin' me what I should do<br />Nan nae mamdaero hal geonikka<br />Get away, get away<br />Maeil nan Holiday<br /><br />Holiday<br />No oh Away<br />No oh Away<br /><br />Pigonhan Scandal geuman ttarawa Man<br />I'm a Miss Independent nega nal eotteoke hae<br />Oneureun Holiday boy keep goin' on your way<br />Yeokjuhaeng geumji Get outta my way<br /><br />Cham honjain ge neomu joa Get away<br />Mwonga jom haeihaejin neukkim geureon ge joa Oh<br />Pyeonhage swigo sipeo nan<br />Stop tellin' me what I should do<br />Nan nae mamdaero hal geonikka<br />Get away, get away<br />Maeil nan Holiday<br /><br />Holiday<br />No Oh Away<br />No Oh Away<br /><br />Gakkeumssik nado oerounde<br />Easy come, easy go<br />Maeil ppeonhan mannameun sileo No no (No)<br />Yeah I wanna get away<br />Cause it's my holiday, come on<br /><br />Ooh!<br />Yeah yeah<br />No oh oh<br /><br />Holiday<br />No oh Away<br />No oh Away<br />Oh</p>"
+  },
+  {
+    "id": 9988,
+    "name_category": "SECRET NUMBER",
+    "title": "PRIVACY",
+    "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1RQ8YFmGwe7wFXKQDAXr-07o3YRBJZXiy",
+    "duration": 175,
+    "lyrics": "<p>Wonhaneun geol malhaejullae Oh<br />Naneun dabi pillyohae<br />Gwaenhan ohaehajin ma<br />Na geujeo jom deo neoreul algo sipeunde Hey<br /><br />Amudo moreuge haebollae Oh<br />Bimilseureopge Let's go<br />Uri dulmanui yeogin Little privacy<br />Seureureuk nuneul gama<br /><br />I want you to be with me<br />Jakku nega saenggangna Alright<br />Sumgil su eomneun geol<br />Haru jongil achimbuteo bamsae Everyday<br />Oh no Oh no<br />My privacy<br /><br />Mun yeoreonoeulge nae noriteoro wa<br />Allyeojulge nae bimil jeonbu da<br />Boy nobody knows this junbihae Questions<br />Seumugogae norihae baro Ready action<br />Huh neon cha eopsido You can drive me crazy<br />You're my Rari Rari<br />Pull up in my yeogi yeogi<br />Go with the flow mmm jeoleumeun swipge tanikka<br />Namanui Lil' privacy ije neoman anikka<br /><br />I want you to be with me<br />Jakku nega saenggangna Alright<br />Meomchul su eomneun geol<br />Stay oh nawa nollae<br />Oh no Oh no<br />My privacy<br /><br />Boy nega wonhaetdeon<br />Bimireul boyeojul geoya<br />Neol hyanghan i mameun Privacy<br /><br />I want you to be with me<br />Jakku nega saenggangna Alright<br />Sumgil su eomneun geol<br />Haru jongil achimbuteo bamsae Everyday<br />Oh no Oh no<br />My privacy</p>"
+  },
+  {
+    "id": 9987,
+    "name_category": "SECRET NUMBER",
+    "title": "Who Dis?",
+    "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=12UXUwzgL683K33Kyw8eq1cjbtAbsVAAb",
+    "duration": 175,
+    "lyrics": "<p>Who Dis<br />Hello? Hello? Who Dis<br />Who Dis<br /><br />Eodil gana dadeul naega jel gunggeumhajyo Who is this? Who is this?<br />Irijeori dulleobwado gajang nunbusyeo Who is this? Who is this? Yeah<br />Ttaraoneun siseon nuneul mot tte eomeo Bling Bling bichi nandae<br />Machi eoneu sungan Leap of Faith<br />Hollin deut ppajyeo neukkyeo Tension<br /><br />Sometimes I feel like that simjangi tteugeopge taoreuneun neukkim<br />Naragal geonman gata Ooh-ah-ah-I<br />I'm gonna be a star useum dwi garyeojin gangnyeolhan Energy<br />Gipeojyeo Don't be surprised<br />Oh ajjilhage boyeojwo<br />Who Dis<br /><br />Nan idaero neomu joeungeol bakkuryeo deulji ma nae seutaildaero sara (Who Dis)<br />Dangdanghan nae maeryeoge imi neon ppajyeodeureo Baby<br />Oh ajjilhage boyeojwo<br />Who Dis<br /><br />Mwol wonhae Stranger I'm not a danger<br />Ireondeul eotteoni (Who Dis)<br />I don't even care I'll be the good girl<br />Baby it's that easy (Who Dis)<br />Mwol wonhae Stranger I'm not a danger<br />Ireondeul eotteoni (Who Dis)<br />I don't even care I'll be the good girl<br />Baby it's that easy (Who Dis)<br /><br />Do you know me? ppajyeodeul subakke eomneungeol Who is this? Who is this?<br />Hyangsubodan syampu hyanggi mwonga dareungeol Who is this? Who is this? Yeah<br />Sungan ssodajineun Line of Sight saramdeurui siseon singyeong an sseo<br />Eomman wae ireoke nal yeppeuge<br />Naaseo gollanhae I'm so tired<br /><br />Sometimes I feel like that simjangi tteugeopge taoreuneun neukkim<br />Naragal geonman gata Ooh-ah-ah-I<br />I'm gonna be a star useum dwi garyeojin gangnyeolhan Energy<br />Gipeojyeo Don't be surprised<br />Oh ajjilhage boyeojwo<br />Who Dis<br /><br />Nan idaero neomu joeungeol bakkuryeo deulji ma nae seutaildaero sara (Who Dis)<br />Dangdanghan nae maeryeoge imi neon ppajyeodeureo Baby<br />Oh ajjilhage boyeojwo<br />Who Dis<br /><br />Who Dis Who Dis<br />Who Dis Dis Dis Dis Who Dis<br /><br />Yeah it&rsquo;s that easy boy<br />Eochapi naege kkeullilgeol<br />Nae sikdaero Chic hage gureodo naege ppajyeodeuljana<br />Who~ Who Dis<br /><br />(Who~) nae mamdaero nae neukkimdaero nuga mwora haedo nan singyeong sseuji ana (Who Dis)<br />Dangdanghan nae maeryeoge imi neon ppajyeodeureo Baby<br />Oh ajjilhage boyeojwo<br />Who Dis<br /><br />Mwol wonhae Stranger I'm not a danger<br />Ireondeul eotteoni (Who Dis)<br />I don't even care I'll be the good girl<br />Baby it's that easy (Who Dis)<br />Mwol wonhae Stranger I'm not a danger<br />Ireondeul eotteoni (Who Dis)<br />I don't even care I'll be the good girl<br />Baby it's that easy<br />Who Dis</p>"
+  },
+  {
+    "id": 9986,
+    "name_category": "TREASURE",
+    "title": "BEAUTIFUL",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1ltVBpK3TWdPbaY2Ayy7qize2KgHnY4je",
+    "duration": 175,
+    "lyrics": "<p>Beautiful... beautiful... beautiful...<br />Oh yeah<br /><br />Yoake mae no sora shizuka ni sotto<br />Hora aratana hibi ga hajimaru<br />Mune ni shimai konda mama no omoi o tokihanate<br />Sono tsubasa wo hirogete one more time<br /><br />Ima tobitatte ano unabara o mioroshite<br />Dare yori mo tōku nando de mo we'll fly<br /><br />Beautiful don'na keshiki mo kimi to ireba kagayaku yo dakara zutto soba ni ite<br />And never let go boku no kono-te o<br />Hanasanaide doko made mo tsuite kite hoshī<br />The world is so beautiful<br /><br />Toki ga tatte hi ga shizunde mo te o tsukande mada? Minu sekai e<br />Don'na michi demo futari de ayunde iku mayowanai-sa<br />Keiken ga hora meisei no yō ni kirenai ai no seimei-sen<br /><br />Kakugo wa dekiteiru ready kodoku to kanashimi se ni<br />Ryōme ni misueru mezasu itadakinara tsuneni winning<br />Konosaki nani ga machiukete mo konotabi no naka de yume o miyou<br />Let's go kinōkyō ijō asu e no kibō<br /><br />Ima tobitatte aoku sunda sora miagete<br />Dare yori mo tōku nando de mo we'll fly<br /><br />Beautiful don'na mirai mo kimi to ireba hirogaru yo miwatasukagiri no kibō<br />Where ever you go boku no kono-te o<br />Hanasanaide doko made mo tsudzukete hoshī<br />The world is so beautiful<br /><br />Reisei to jōnetsu no aida ni himeta tagiru o omoi-tachi wa never die<br />Hi wa mata nobotte ochite o kurikaesu<br />Inochi no kagiri nandodemo yomigaeru<br /><br />Beautiful... beautiful... beautiful...<br />You make the world so beautiful, so...<br /><br />Beautiful don'na keshiki mo kimi to ireba kagayaku yo dakara zutto soba ni ite<br />And never let go boku no kono-te o<br />Hanasanaide doko made mo tsuite kite hoshī<br />The world is so beautiful</p>"
+  },
+  {
+    "id": 9985,
+    "name_category": "TREASURE",
+    "title": "BOY (Japanese Version)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1s1ZEfle-RZXP0Oxv3UDqdnz5CJSZAf8-",
+    "duration": 175,
+    "lyrics": "<p>Woah oh<br />Yeah<br /><br />Kimi wa beautiful danger<br />Mitsumeru hodo<br />Mabushi sugiru halo<br />Mewotojite mo kakushite mo<br /><br />Kagayaku different<br />Mayoikomu hodo<br />Haretsu sunzen no heartbeat<br />Hi o tsuke ro oh oh<br />Motto oh oh<br /><br />Oh no atama no naka messed up<br />Yo ushinau nda risei sae<br />You're so beautiful afure dashi-sō<br />Me to me ga kasanatta shunkan<br />Hanasaku haru ga<br />Kimi wa special treasure<br />Yeah I'm gonna be the one<br />Koko ni oide<br /><br />Unmei ni hikareaudarou yeah<br />Sekaijū dokoni ita to shite mo<br />I can make you happy<br />Boku no subete sasageru girl<br />Ima kokoro o knock<br />I just wanna be your boy<br /><br />I'll be your boy<br />Aite yo sono door<br />Be my be my be my girl<br />I'll be your boy<br />Be my be my be my<br />I just wanna be your boy<br /><br />Megaau megaau<br />Dake de ikigatsumaru<br />Hodo utsukushī my muse<br />I'm so addicted to you, can't control<br /><br />Dakiyoseru sono kaori<br />Hiasobi janai kono ai moeagari<br />I'm runnin' and runnin' and<br />Kimi no tamenara<br />Subete kake ride or die<br /><br />Unmei ni hikareaudarou yeah<br />Sekaijū dokoni ita to shite mo<br />I can make you happy<br />Boku no subete sasageru girl<br />Ima kokoro o knock<br />I just wanna be your boy<br /><br />I'll be your boy<br />Aite yo sono door<br />Be my be my be my girl<br />I'll be your boy<br />Be my be my be my<br />I just wanna be your boy<br /><br />Boku dake no joō (kuīn) sa<br />Kuramu hodo so bright<br />I'mma ride for you<br />I'mma ride or die for you girl<br />Baby I'll be yours<br />Baby I'll be yours<br />But you're so far away<br />Furetai sono kokoro<br />I'm gonna be your boy<br /><br />I'll be your boy<br />Be my be my be my girl<br />Sarakedashite yo<br />Be my be my be my<br />I just wanna be your boy<br /><br />Sa~a te o tori ima tobidasou run<br /><br />Shh, treasure<br /><br />Oh oh oh oh oh oh oh oh<br />Na na na na na now<br />Oh oh oh oh oh oh<br />Ima kokoro o knock<br />Oh oh oh oh oh oh oh oh<br />Na na na na na now<br />Oh oh oh oh oh oh<br />I'm gonna be your boy</p>"
+  },
+  {
+    "id": 9984,
+    "name_category": "TREASURE",
+    "title": "I LOVE YOU (Japanese Version)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1bRAxEMbD5a0wsnDGFGwmM1WvZzk6Q15I",
+    "duration": 175,
+    "lyrics": "<p>Kimi o oikake<br />Meiro no naka e<br />Mayoikonda nda<br />Saikō no fantasy<br />Hamaru mystery<br />Hinto o taguru yo<br /><br />Sasainakoto sae ki ni natte<br />Shigusa mo doko ka nite shimau yeah<br />Kimi to iu kaori ni mise rare<br />Kokoro wa toriko sa<br /><br />Kimigainai to sekai nante<br />Imiganai taerarenai yeah<br />Tokime ku no wa kimi dake<br />Sono subete o aishi teru<br /><br />Ta saranhe<br />Noru saranhe<br />Noru saranhe<br />Noru saranhe<br /><br />Chakka shita no sa koi no flame<br />Nukedasenai kimi no frame<br />100-pāsento (wanhanepā) haneagaru kanjō ga<br />Kobore dasu mune ni come on in<br /><br />Come on in come on in koko ni<br />Only look at me look at me taiyō no yō<br />Ubawareta boku no kokoro<br />Se o mukezu ni give me your love<br /><br />Baka mitaku ayatsura re teru ore wa beast<br />Tsuki o miage utau yo<br />Todoke where you at? my boo<br /><br />Kimigainai to sekai nante<br />Imiganai taerarenai yeah<br />Tokime ku no wa kimi dake<br />Sono subete o aishi teru<br /><br />Ta saranhe<br />Noru saranhe<br />Noru saranhe<br />Noru saranhe<br /><br />Oh my god<br />Hibi up and down<br />Kanjō ga karada o oikoshita<br />Maiban boku kara risei ubaitoru your love<br />Kuruwasu no sa<br />Oh oh oh<br /><br />Kimigainai to sekai nante<br />Imiganai taerarenai yeah<br />Tokime ku no wa kimi dake<br />Sono subete o aishi teru<br /><br />We goin' hard moeagatte<br />La la la la la<br />We make it pop furikitte<br />La la la la la<br />Put your hands up in the air say<br />La la la la la<br />Let's make love hey<br />Let's make love hey<br /><br />Ta saranhe<br />Noru saranhe<br />Noru saranhe<br />Noru saranhe</p>"
+  },
+  {
+    "id": 9983,
+    "name_category": "TREASURE",
+    "title": "MMM (Japanese Version)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=124DeyKE78Uoh-PZO4fRSCW9vJ_PX54MU",
+    "duration": 175,
+    "lyrics": "<p>Mmm<br />Mmm<br />Mmm<br />Let me treasure you, treasure you, treasure you<br /><br />Yarareta (Yah, yah)<br />Kigatsukeba kuchi ga hiraita mamasa<br />Mabushisugiru nani mo kamo ga (kamo ga)<br />Kun no koto kangaeteru maiban (maiban)<br />Tengoku ni tsuichimatta ka no yōda (Ayy, ayy)<br />Subete kanpeki kyō wa masani d-day...<br />Ni nin dake no himegoto o my babe...<br />Mayō hima wa nai nukedasōyo tsuitekoi (Follow me)<br />Nante icchattaga hontōha daibu yaba i<br />Furuemakuridayo medūsa<br /><br />Motto taisetsuna mon nantenai<br />(Woah, ayy, ayy)<br />Sai yūsen de kaketsukeru mayowanai<br />(Runnin', runnin', runnin')<br /><br />You are my love<br />Nani mo osoreru hitsuyō wa naisa<br />Utagawanaide you know what I'm sayin'<br />Kono mama tada susumō<br />Mokutome awasete<br /><br />Shinzō ga bakuhatsu sunzen mmm, yeah<br />Īkagen yaba i mmm, yeah<br />Ikarеchimatteru mmm<br />(Let me trеasure you, treasure you)<br />Shinzō ga bakuhatsu sunzen mmm, yeah<br />Kikenna kibun mmm, yeah<br />Hijō jitai mmm<br />(Let me treasure you, treasure you)<br />Shinzō ga bakuhatsu sunzen<br /><br />Mōsukoshi dake kimi o want some more<br />Yeah, mō nani demo shimasu sore muri toka iu kina<br />Ikiru imi kimi ga inakya imi nai<br />Meisaku no kaiga firutā nante hitsuyō nashi<br />Oku o koeru kachi tte iu ka kanteifuka<br /><br />Motto taisetsuna mon nantenai<br />(Woah, ayy, ayy)<br />Sai yūsen de kaketsukeru mayowanai<br />(Runnin', runnin', runnin')<br /><br />You are my love<br />Nani mo osoreru hitsuyō wa naisa<br />Utagawanaide you know what I'm sayin'<br />Kono mama tada susumō<br />Mokutome awasete<br /><br />Shinzō ga bakuhatsu sunzen mmm, yeah<br />Īkagen yaba i mmm, yeah<br />Ikarechimatteru mmm<br />(Let me treasure you, treasure you)<br />Shinzō ga bakuhatsu sunzen mmm, yeah<br />Kikenna kibun mmm, yeah<br />Hijō jitai mmm<br />(Let me treasure you, treasure you)<br /><br />Iyana tameiki mo isshun de fuki tobasu yo (shun de fuki tobasu yo)<br />Sono hohoemi ten ni mo noboru kokochi (ten ni mo noboru kokochi)<br />(Īkagen yaba i)<br />Motto takai toko kumonōe de odorō (kumonōe de odorō)<br />Kono mama zutto yume kara sameta kunai (yume kara sameta kunai)<br /><br />Dare ni mo me mo kurenai sa<br />Hoka no ko ni kyōmi nante nai sa<br />Massugu hashiru dake nanda<br />Takanaru kono mune wa<br />Pump, pump, pump, pump, pump<br />Pump, pump, pump, pump, pump, fire<br />Hoka nani mo me ni hairanainda<br />Meramera moetsuzuketai<br />Takanaru kono mune wa<br />Pump, pump, pump, pump, pump<br />Pump, pump, pump, pump, pump, fire</p>"
+  },
+  {
+    "id": 9982,
+    "name_category": "TREASURE",
+    "title": "MY TREASURE (Japanese Version)",
+    "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=173SA-D9OtiQZqgpQtHr_YNaqKE69-LZF",
+    "duration": 175,
+    "lyrics": "<p>Gray na sora ni<br />Nemuru taiyō o<br />Kaze ga sotto<br />Sugiru koro kitto<br />Yume kara same<br />Akeru brand new day<br />It's alright, let's do it now!<br /><br />Datte kon'nani<br />Kurushikute ikimodekinai<br />I wanna go back to the good times<br />Ha~a blue na hi wa<br />Toriaezu ano uta demo kakete<br />Odoritai kimi to<br /><br />Kono ame wa<br />Sora no hate ni akarui taiyō (Hikari) o<br />Chotto dake kakushi teru no sa<br />Fuyu ga owareba<br />Yagate hanahirakukara<br />Todoketai<br /><br />It's gonna be alright<br />C'mon<br /><br />Don't worry<br />Mōichido egao-tō shite yo tomose!<br />Hontō no kimi o<br />Kirameku unmei wa sono-te ni<br />Kao o agete<br />You're the only one TREASURE<br /><br />Koron datte nando datte<br />Namida fuite ikou<br />Hikarihana tte ashita ga matteru<br />You're the only one TREASURE<br /><br />It's all good day<br /><br />Susanda sekai ni ippen<br />Subete ga nega ni change<br />Kawaita kokoro ga sagasu oasis<br />Sora e mukete pray<br /><br />We can believe itsumodōri<br />Kimi wa kimirashiku iteyo<br />Torimodosou ano egao to yume o<br />We're gonna be ok<br /><br />Pitari to ame ga agatte<br />Niji no hashi do tte<br />Soba ni itai anytime te o toreba<br />Namida sae kagayaki dasu<br /><br />Daijōbudakara<br />Omoikkiri tanoshimu sugata<br />Misete hoshī<br /><br />It's gonna be alright<br />C'mon<br /><br />Don't worry<br />Mōichido egao-tō shite yo tomose!<br />Hontō no kimi o<br />Kirameku unmei wa sono-te ni<br />Kao o agete<br />You're the only one TREASURE<br /><br />Nagaiyo ga ake<br />Taiyō (Hikari) ga bokura<br />Terashi daseba<br />Shiawase e no count down<br />Itsuka no ai wa<br />Mata mebaerukara<br /><br />Never give up<br />My TREASURE<br /><br />All we need is love<br />Don't worry<br />Mōichido egao-tō shite yo<br />Hontō no kimi o<br />Shinji nuite just for me<br />Mirai wa sono-te ni yeah yeah<br />You're the only one<br />You're my TREASURE<br /><br />Koron datte nando datte<br />Namida fuite ikou<br />Hikarihana tte ashita ga matteru<br />You're the only one TREASURE<br /><br />Tachiagatte nando datte<br />Waraitobasou<br />Hikarihana tte kimi o matteru<br />You're the only one TREASURE</p>"
+  },
+  {
+    "id": 9981,
+    "name_category": "BLACKPINK",
+    "title": "WHISTLE (휘파람)",
+    "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1pKmDEcin8FM3FI64q10ajCaFPFDuOu0W",
+    "duration": 175,
+    "lyrics": "<p>Make' em whistle like<br />A missile bomb, bomb<br />Every time I show up, blow up uh<br />Make' em whistle like<br />A missile bomb, bomb<br />Every time I show up, blow up uh<br /><br />Neon neomu areumdawo<br />Neol ijeul suga eobseo<br />Geu nunbichi ajik nareul<br />Ireohge seollege hae Boom boom<br /><br />24, 365<br />Ojik neowa gachi hagopa<br />Najedo i bamedo<br />Ireohge neoreul wonhae Ooh ooh<br /><br />Modeun namjadeuli nal maeil Check out<br />Daebubuni nal gajil su itda chakgak<br />Jeoldae manheun geol wonchi<br />Anha mameul wonhae nan<br />Neon simjangeul doryeonae boyeobwa<br />Aju ssikssikhage ttaeron Chic chic hage<br />So hot so hot naega<br />Eojjeol jul moreuge hae<br />Najimaki bulleojwo<br />Nae gwitgae doneun hwiparamcheoreom<br /><br />Idaero jinachiji mayo<br />Neodo nacheoreom nal<br />Ijeul suga eobtdamyeon Whoa<br />Neol hyanghan i maeumeun Fire<br />Nae simjangi ppareuge ttwijanha<br />Jeomjeom gakkai deullijanha<br /><br />Hwiparam<br />Uh hwi param param param<br />(Can you hear that)<br />Hwi parapara para bam<br />Hwiparam<br />Uh hwi param param param<br />(Can you hear that)<br />Hwi parapara para bam<br /><br />Hold up<br />Amu mal haji ma<br />Just whistle to my heart<br />Geu soriga jigeum nareul<br />Ireohge seollege hae Boom boom<br /><br />Saenggakeun jiruhae<br />Neukkimi Shh<br />Every day all day<br />Nae gyeoteman isseojwo Zoom zoom<br /><br />Uh eonjena nan Stylin'<br />Dodohajiman ne apeseon Darlin'<br />Tteugeowojijanha Like a desert island<br />Neo alagalsurok ullyeodaeneun maeumsok<br />Geuman naeppae neomeowara<br />Naege Boy ijen Checkmate<br />Geimeun naega Win (Uh-huh)<br />Nan neol taekhae anajwo deo<br />Sege nuga neol garo<br />Chae gagi jeone naega (Uh)<br /><br />Idaero jinachiji mayo<br />Neodo nacheoreom nal<br />Ijeul suga eobtdamyeon Whoa<br />Neol hyanghan i maeumeun Fire<br />Nae simjangi ppareuge ttwijanha<br />Jeomjeom gakkai deullijanha<br /><br />Hwiparam<br />Uh hwi param param param<br />(Can you hear that)<br />Hwi parapara para bam<br />Hwiparam<br />Uh hwi param param param<br />(Can you hear that)<br />Hwi parapara para bam<br />This beat got me feelin' like<br /><br />Baramcheoreom seuchyeoganeun<br />Heunhan inyeoni anigil<br />Manheun maleun pilyo eobseo<br />Jigeum neoui gyeote<br />Nareul deryeoga jwo Ooh<br /><br />Make' em whistle like<br />A missile bomb, bomb<br />Every time I show up, blow up uh<br />Make' em whistle like<br />A missile bomb, bomb<br />Every time I show up, blow up uh</p>"
+  },
+  {
+    "id": 9980,
+    "name_category": "BLACKPINK",
+    "title": "BOOMBAYAH (붐바야)",
+    "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1iVbdYTuXJf-cl2WCj5jaAhvlByuze71t",
+    "duration": 175,
+    "lyrics": "<p>BLACKPINK in your area<br />BLACKPINK in your area<br /><br />Been a bad girl, I know I am<br />And I'm so hot, I need a fan<br />I don't want a boy, I need a man<br /><br />Click-clack<br />Badda bing badda boom<br />Muneul bakchamyeon modu nal barabom<br />Gudi aesseo noryeok an haedo<br />Modeun namjadeuleun kopiga pangpangpang<br />Pangpang parapara pangpangpang<br />Jigeum nal wihan chukbaereul jjanjjanjjan<br />Hands up nae sonen<br />Bottle full o' henny<br />Nega malloman deuddeon gyaega naya Jennie<br /><br />Chumchuneun bulbicheun nal gamssago done<br />Black to the pink<br />Eodiseodeun teukbyeolhae Oh yes<br />Chyeoda bodeun maldeun I wanna dance<br />Like ttaradaradanttan<br />Ttaradaradanttan ttudurubbau<br /><br />Joha i bunwigiga joha<br />Joha nan jigeum nega joha<br />Jeongmal banhaesseo oneul bam<br />Neowa chumchugo sipeo<br /><br />BOOMBAYAH<br />YAH YAH YAH BOOMBAYAH<br />YAH YAH YAH BOOMBAYAH<br />YAH YAH YAH YAH<br />BOOM BOOM BA BOOM<br />BOOM BA oppa<br />YAH YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH oppa<br />YAH YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH YAH<br />YAH BOOM BOOM BA<br />BOOMBAYAH<br /><br />BLACKPINK in your area<br /><br />Ije dallyeoyaji mwol eotteokhae<br />Nan cheol eobseo geob eobseo Man<br />Middle finger up, F U pay me<br />90s baby, I pump up the jam<br />Dallyeobwa dallyeobwa oppaya LAMBO<br />Oneuleun neowa na jeolmeumeul GAMBLE<br />Gamhi nal makjima hoksina nuga nal makado<br />I'm gonna go brrrr RAMBO<br /><br />Ne soni nae heorireul gamssago done<br />Front to my back<br />Nae mommaeneun teukbyeolhae Oh yes<br />Ne nunbicheun I know you wanna touch<br />Like touch touch touch<br />Touch ttudurubbau<br /><br />Joha i bunwigiga joha<br />Joha nan jigeum nega joha<br />Jeongmal meosisseo oneul bam<br />Neowa chumchugo sipeo<br /><br />BOOMBAYAH<br />YAH YAH YAH BOOMBAYAH<br />YAH YAH YAH BOOMBAYAH<br />YAH YAH YAH YAH<br />BOOM BOOM BA<br />BOOM BOOM BA oppa<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH oppa<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH<br />YAH YAH BOOM BOOM BA<br />BOOMBAYAH<br /><br />Oneuleun maen jeongsin ttawin beorigo<br />Haneuleul neomeoseo olla gal geoya<br />Kkeuteul moreuge ppalli dalligo sipeo<br />Let's go, let's go<br /><br />Oneuleun maen jeongsin ttawin beorigo<br />Haneuleul neomeoseo olla gal geoya<br />Kkeuteul moreuge ppalli dalligo sipeo<br />Let's go, let's go</p>"
+  }
+]
+}
