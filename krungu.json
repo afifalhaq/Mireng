@@ -182,6 +182,24 @@
   
 "Data": [
   {
+    "id": 1,
+    "name_category": "Dreamcatcher",
+    "title": "Chase Me",
+    "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1oMLIUyuB0ryuQ1D0YT25-VHn4FggSdz0",
+    "duration": 175,
+    "lyrics": "<p>Jakku naman bomyeon an doendae<br />Jjarithan geol wonhal ppuninde<br />Teong bin saramdeul kkumsogeun ttabunajana<br /><br />(Chase me)<br /><br />Eojen gandanage thriller<br />Oneureun mwol haebolkka<br />Balchikhan jangnaneul sijakhal geoya<br /><br />Eodun bam mollae dagagaseo<br />Kkumsoge ttwieodeureo<br />Nan pokjugi mak teojideut<br />Kkamjjak nollage baby<br /><br />Joyonghan sesangi jantteuk soranhaejil geol<br />Mageul su itni mageul su itni<br />Bang<br /><br />Chase me hanbeon nal jababwa<br />Aseuraseul georieseo (dangerous)<br />Beolsseo naneun geogi eopneun geol<br />(Ibeonen tto eodil galkka)<br />Chase me geurae nal chajabwa<br />Amudo meomchul su eopseo<br />Nal deo jabeul su eopge<br />Dareun kkume mollae sumeodeul geoya<br /><br />Chase me chase me<br /><br />Mwoga nappeun geoni dodaeche<br />Bonneungeul nan ttareul ppuninde<br />Ppalgan sagwareul han ip ttak beeo mulgoseo<br /><br />Uh uh chakhan airan ge mwonde (mwonde)<br />Teure nareul majchuryeo hae<br />Geujeo gyuchikjeogin simjangbakdong wie<br />Ilgop gaji jageun norireul seonmulhae maeil<br /><br />Gieogeul modu kkeonae deureo<br />Kkumsoge gadeuk deonjyeo<br />Pokpungi hwimorachideut<br />Eojireopyeo neol baby<br /><br />Pogeunhan begaega jogeum chukchukhaejil geol<br />Mageul su itni mageul su itni<br />Bang<br /><br />Chase me hanbeon nal jababwa<br />Aseuraseul georieseo (dangerous)<br />Beolsseo naneun geogi eopneun geol<br />(Ibeonen tto eodil galkka)<br />Chase me geurae nal chajabwa<br />Amudo meomchul su eopseo<br />Nal deo jabeul su eopge<br />Dareun kkume mollae sumeodeul geoya<br /><br />Neomuna bappeun geol ajik gal dega maneun na (chase me)<br />Hogisim gadeukhan sangsangeul da pyeolchyeobol geoya<br /><br />Nareul jitguttago haedo tto nappeudago haedo<br />Jal moreugesseo nan ireon ge baro nain geol<br />Oh oh oh oh oh<br />Nal dwijjonneun ne moseub gakkawojyeo oneunde<br />Geureoke swibge japil naega anya<br /><br />Chase me gyesok nal jjochabwa<br />Teok kkeutkkaji sumi chage (dangerous)<br />Nae trickeun maeil saerowo<br />(Naeireun tto eodil galkka)<br />Chase me geurae nal chajabwa<br />Amudo meomchul su eopseo<br />Nal deo jabeul su eopge<br />Dareun kkume mollae sumeodeul geoya<br /><br />Chase me chase me<br />Chase me chase me</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "Dreamcatcher",
+    "title": "Dear",
+    "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=14rJeE1ATqHN5Yg2tC6eueaM-tezCMUlj",
+    "duration": 175,
+    "lyrics": "<p>Cheoeum nege saranghaera malhal ttae<br />Geu mari naegen eoryeopgeman neukkyeojyeosseonneunde<br /><br />Jigeum nege saranghaera malhal ttae<br />Nae mameul da damanael suga eopseo<br />Jakge neukkyeojine<br /><br />Jigeum uri saimankeum<br />Teukbyeolhan geon eopseulgeol<br />Seollemeul neomeun mueonga<br />Uril binnage hae<br /><br />Neol saenggakamyeon eoneusae<br />Mami ttatteuthaejyeo<br />Ireon ge haengbogilkka alge hae juneun neo<br /><br />Maju anjaseo neol bogo isseumyeon<br />Neoui nunbiche eum nan noganaeryeo<br />Sasohan geot hanahana jeonbu<br />Neomuna sojunghae<br />Ireon nae mam neon alkka<br /><br />Jigeum neoui misomankeum teukbyeolhan geon eopseo<br />Sarangseureon ne harureul jikyeo jugo sipeo<br />Neol saenggakaneun nae mami maeil keojilsurok<br />Ireon ge sarangilkka alge hae juneun neo<br /><br />Maju anjaseo neol bogo isseumyeon<br />Neoui nunbiche eum nan noganaeryeo<br />Sasohan geot hanahana jeonbu<br />Neomuna sojunghae<br />Ireon nae mam neon alkka<br /><br />Eonjenga uriga tteoreojyeo isseodo<br />Akkineun mam nae mam arajugil<br /><br />Maju anjaseo neol bogo isseumyeon<br />Neoui nunbiche eum nan noganaeryeo<br />Sasohan geot hanahana jeonbu<br />Neomuna sojunghae<br />Um</p>"
+  },
+  {
     "id": 10000,
     "name_category": "TREASURE",
     "title": "MY TREASURE",
@@ -369,6 +387,69 @@
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1iVbdYTuXJf-cl2WCj5jaAhvlByuze71t",
     "duration": 175,
     "lyrics": "<p>BLACKPINK in your area<br />BLACKPINK in your area<br /><br />Been a bad girl, I know I am<br />And I'm so hot, I need a fan<br />I don't want a boy, I need a man<br /><br />Click-clack<br />Badda bing badda boom<br />Muneul bakchamyeon modu nal barabom<br />Gudi aesseo noryeok an haedo<br />Modeun namjadeuleun kopiga pangpangpang<br />Pangpang parapara pangpangpang<br />Jigeum nal wihan chukbaereul jjanjjanjjan<br />Hands up nae sonen<br />Bottle full o' henny<br />Nega malloman deuddeon gyaega naya Jennie<br /><br />Chumchuneun bulbicheun nal gamssago done<br />Black to the pink<br />Eodiseodeun teukbyeolhae Oh yes<br />Chyeoda bodeun maldeun I wanna dance<br />Like ttaradaradanttan<br />Ttaradaradanttan ttudurubbau<br /><br />Joha i bunwigiga joha<br />Joha nan jigeum nega joha<br />Jeongmal banhaesseo oneul bam<br />Neowa chumchugo sipeo<br /><br />BOOMBAYAH<br />YAH YAH YAH BOOMBAYAH<br />YAH YAH YAH BOOMBAYAH<br />YAH YAH YAH YAH<br />BOOM BOOM BA BOOM<br />BOOM BA oppa<br />YAH YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH oppa<br />YAH YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH YAH<br />YAH BOOM BOOM BA<br />BOOMBAYAH<br /><br />BLACKPINK in your area<br /><br />Ije dallyeoyaji mwol eotteokhae<br />Nan cheol eobseo geob eobseo Man<br />Middle finger up, F U pay me<br />90s baby, I pump up the jam<br />Dallyeobwa dallyeobwa oppaya LAMBO<br />Oneuleun neowa na jeolmeumeul GAMBLE<br />Gamhi nal makjima hoksina nuga nal makado<br />I'm gonna go brrrr RAMBO<br /><br />Ne soni nae heorireul gamssago done<br />Front to my back<br />Nae mommaeneun teukbyeolhae Oh yes<br />Ne nunbicheun I know you wanna touch<br />Like touch touch touch<br />Touch ttudurubbau<br /><br />Joha i bunwigiga joha<br />Joha nan jigeum nega joha<br />Jeongmal meosisseo oneul bam<br />Neowa chumchugo sipeo<br /><br />BOOMBAYAH<br />YAH YAH YAH BOOMBAYAH<br />YAH YAH YAH BOOMBAYAH<br />YAH YAH YAH YAH<br />BOOM BOOM BA<br />BOOM BOOM BA oppa<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH oppa<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH<br />YAH YAH YAH YAH YAH<br />YAH YAH BOOM BOOM BA<br />BOOMBAYAH<br /><br />Oneuleun maen jeongsin ttawin beorigo<br />Haneuleul neomeoseo olla gal geoya<br />Kkeuteul moreuge ppalli dalligo sipeo<br />Let's go, let's go<br /><br />Oneuleun maen jeongsin ttawin beorigo<br />Haneuleul neomeoseo olla gal geoya<br />Kkeuteul moreuge ppalli dalligo sipeo<br />Let's go, let's go</p>"
+  },
+  {
+    "id": 9979,
+    "name_category": "BLACKPINK",
+    "title": "Playing With Fire",
+    "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1HTLCFwKv9TjJOTfFmt0_b17iO42QVSol",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 9978,
+    "name_category": "BLACKPINK",
+    "title": "Stay",
+    "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1O7pdaLpiwfJJ_hGcF4vsw4-gEMPqDFkE",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 9977,
+    "name_category": "BLACKPINK",
+    "title": "Whistle (Acoustic Ver.)",
+    "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1rwQFCepID0HDPiaKC7R2zjmrsotKjMtw",
+    "duration": 175,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Dreamcatcher",
+    "title": "4 Memory",
+    "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1cEUH6Bnz1Ew1uuj_k6SGMk4dzeJMLrl1",
+    "duration": 175,
+    "lyrics": "<p>Hamkke bonaen yeoreumi gago<br />Bom gaeul gyeoul sigani heulleo<br />Japil deut mal deut han gyejeol<br />Nun tteo boni da hwansangppuningeol<br /><br />Nopeun baram tago nara Fly<br />Oh I'm not fine<br />Modeun himeul dahae neoege gago isseo<br />(Dallyeogago isseo)<br /><br />Jeogi gureum neomeo boineun<br />Keodaran mujigaereul neomeo<br />There's something waiting there that<br />I want I want<br /><br />Ttatteuthaetdeon bomi gago<br />Sonagi gateun hanyeoreum bamui gieok<br />Gaeuri omyeon modakbul yeopui uri<br />Eoreobuteun ne son japdeon gyeoulkkaji<br />Modu gieokae<br /><br />Modu gieokae<br /><br />I want with you<br />I want with you now<br /><br />Meoritsogeul gadeuk chaewo neoran<br />Gipeun badatsogeul hemaesseo nan<br />Padochigi jeon morae wiui geurimcheoreom<br />Nun gameumyeon da sarajil geonman gata<br /><br />Jigeumkkaji akkyeowatdeon mareul<br />Modu jeonhago sipeo<br />Neol daleun i gyejeori<br />Gagi jeone<br /><br />Ttatteuthaetdeon bomi gago<br />Sonagi gateun hanyeoreum bamui gieok<br />Gaeuri omyeon modakbul yeopui uri<br />Eoreobuteun ne son japdeon gyeoulkkaji<br />Modu gieokae<br /><br />Modu gieokae<br /><br />I want with you<br />I want with you now<br /><br />Hamkkehago sipeo modeun gyejeorui neowa<br />Nunbusin gieokdeullo gadeuk chaeudeon<br />Gakkeum duryeopda haedo<br />Sonjaba jul nega itgo naega itdeon<br />Modeun sunganeul<br />Itji ma<br /><br />Ttatteuthaetdeon bomi gago<br />Sonagi gateun hanyeoreum bamui gieok<br />Gaeuri omyeon modakbul yeopui uri<br />Eoreobuteun ne son japdeon gyeoulkkaji<br />Modu gieokae</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "Dreamcatcher",
+    "title": "BOCA",
+    "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1x72ubL78JAb4kP2mqSdnckybHfvR1kBA",
+    "duration": 175,
+    "lyrics": "<p>Modeun tageseun neol hyanghae isseo<br />Nal eopsi beineun sangcheo<br />Mal an haedo al su isseo<br />(Hold on Hold on)<br /><br />Eh oh amureon pyojeongdo eopsi<br />Neon imi iksukadan deusi<br />(I'm knockin' door, now I'm knockin' door)<br />Beoseonaji mothae But I know<br /><br />Hold up, I'm a geek, the big paradox<br />Swipge saenggakamyeon neol jikineun Killer<br />Jiok kkeuteseon da hanagachi bireo<br />Ibeul georeo jamga Freeze up<br /><br />Iyu eomneun siseon<br />Kkoril muneun Question<br />(Woo wah ah ah ah ah)<br />Joeuisigeun imi<br />Geudeurege eopseo<br /><br />Mageul su eopsi<br />Samuchineun mam<br />Chamji mothae deo<br />Na neoreul wihaeseo<br /><br />Meokgureume ssain<br />Gipeojineun bam<br />Naeryeochyeora Thunder<br />Drop thunder gutge<br />Georeo jamgeulge BOCA<br /><br />Where is the love<br />Gasi gateun geu mallo<br />Neol apeuge handamyeon<br />Yeolji mothage BOCA<br /><br />Yeah nun gama sum makyeo neon<br />Uh domangchyeo meonbalchi neon<br />Uh dwitgeoreumman chyeotdamyeon<br />Geogiseo byeonhaji byeonhaji ana<br />Ppeonhaji ppeonhaji No<br /><br />Uh get the key<br />I'll set you free<br />Neo ije geumandwo sumbakkokjil<br />Bajjak ttarawa<br />More deo Come on now<br />Lock the door<br />Lock the door<br /><br />Mageul su eopsi<br />Samuchineun mam<br />Chamji mothae deo<br />Na neoreul wihaeseo<br /><br />Bureooneun geon<br />Geochin baramgwa<br />Naeryeochyeora Thunder<br />Drop thunder gutge<br />Georeo jamgeulge BOCA<br /><br />Where is the love<br />Gasi gateun geu mallo<br />Neol apeuge handamyeon<br />Yeolji mothage<br /><br />Sojunghan sigandeureul wae<br />Jeungoro chaeuneunga<br />Woo woo<br />Too many angels dying now<br />I'm gonna change your mind<br />Dasi sum swil su itge<br />No wah<br /><br />Where is the love<br />Gasi gateun geu mallo<br />Neol apeuge handamyeon<br />Yeolji mothage BOCA</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "Dreamcatcher",
+    "title": "Break The Wall",
+    "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1Wt7YnkVSmgu8lO7CWcSuD3HPl8smX9i8",
+    "duration": 175,
+    "lyrics": "<p>Muneul yeoreo jwo<br />Nugudo bulhaenghagil wonhaji ana<br /><br />Moksoril nopyeo<br />Moduga hana doeeo sesangeul kkaewo<br /><br />Himkkeot ireona<br /><br />Come on Break the wall<br />Jigeumkkaji jikyeoon<br />Modeun himeul dahae matseo<br />Siryeoneul mullichyeo<br /><br />Come on Save your world<br />Neoui sesang geu wie<br />Gipi baljagugeul namgyeo<br />Deo nopeun goseul hyanghae sorichyeo<br /><br />Ssayeoganeun munjedeuri mandeureonaen Matter<br />Jakku nareul balgo ollaseoryeo haneun Haters<br /><br />I sunganjochado muneojyeoman ga<br />Eodumi gajyeoga beorin modeun bit<br /><br />Dasi ireona<br /><br />Come on Break the wall<br />Jigeumkkaji jikyeoon<br />Modeun himeul dahae matseo<br />Siryeoneul mullichyeo<br /><br />Come on Save your world<br />Neoui sesang geu wie<br />Gipi baljagugeul namgyeo<br />Deo nopeun goseul hyanghae sorichyeo<br /><br />Don't back away from the wall<br />We together break the wall<br />Deo nopi wiro Louder<br />Moduege allyeo<br />We can change hamkkemyeon<br />Ja byeogeul neomeo oechyeo<br /><br />Mangseorin balgeoreumeul dasi<br />Sijakae meomchwo seoji ma<br /><br />Don't be afraid<br />Don't lose your faith<br />Run no more<br /><br />Naui georeume damgyeo inneun<br />Sumaneun jinsimi jeonhaejigil<br /><br />Come on Break the wall<br />Jigeumkkaji jikyeoon<br />Modeun himeul dahae matseo<br />Siryeoneul mullichyeo<br /><br />Come on Save your world<br />Neoui sesang geu wie<br />Gipi baljagugeul namgyeo<br />Deo nopeun goseul hyanghae sorichyeo<br /><br />Wah ah<br />Wah woo wah<br />Wah ah</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "Dreamcatcher",
+    "title": "Can't Get You Out Of My Mind",
+    "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=15O73-FlCgsj0oItRQqSZ6NtfLQVG0aEd",
+    "duration": 175,
+    "lyrics": "<p>Reaching out from my sorrows<br />Far away from tomorrow<br /><br />How many seasons have we been together<br />How many reasons have we left behind<br />Now I don't know what to do alone with all this time<br /><br />It's up to you to realize<br />I'm waiting for you right behind<br />I need you now Just tell me how<br /><br />I can't get you out of my mind<br />Can't get you out of my mind<br />Just can't get you out of my mind<br /><br />Can't get you out of my mind<br /><br />Ooh<br />I can't get you out of my mind<br />It's getting too stronger<br />My feelings for you<br /><br />I can't get you out of my mind<br />I'll try to be patient<br />Don't want you to rush<br /><br />Just can't get you out of my mind<br /><br />You say we're not together<br />But why do you hesitate Oh why<br /><br />How many seasons did we stay together<br />So many reasons that we could've started<br />Still I don't know what to do alone with all this time<br /><br />It's up to you to realize<br />I'm waiting for you right behind<br />I need you now Just tell me how<br /><br />I can't get you out of my mind<br />Can't get you out of my mind<br />Just can't get you out of my mind<br /><br />Can't get you out of my mind<br /><br />Ooh<br />I can't get you out of my mind<br />It's getting too stronger<br />My feelings for you<br /><br />I can't get you out of my mind<br />I'll try to be patient<br />Don't want you to rush<br /><br />Just can't get you out of my mind</p>"
   }
 ]
 }
