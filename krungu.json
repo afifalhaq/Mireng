@@ -7,7 +7,7 @@
 "admob_interid": "ca-app-pub-3940256099942544/1033173712",
 "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
 "admob_openid": "ca-app-pub-3940256099942544/1033173712",
-"interval_intertitial": "3",
+"interval_intertitial": "5",
 "startappid": "201669628",
 "fan_inter": "YOUR_PLACEMENT_ID",
 "fan_banner": "YOUR_PLACEMENT_ID",
@@ -50,7 +50,7 @@
   },
   {
     "id": 8,
-    "name_category": "BIG BANG",
+    "name_category": "BIGBANG",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg"
   },
   {
@@ -65,7 +65,7 @@
   },
   {
     "id": 11,
-    "name_category": "Cravity",
+    "name_category": "CRAVITY",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg"
   },
   {
@@ -76,7 +76,7 @@
   {
     "id": 13,
     "name_category": "ENHYPEN",
-    "image": "https://image.kpopmap.com/2020/12/rookie-enhypen.jpg"
+    "image": "https://www.korebu.com/wp-content/uploads/2020/10/enhypen-3-1-850x638.jpg"
   },
   {
     "id": 13,
@@ -2028,7 +2028,7 @@
   },
   {
     "id": 206,
-    "name_category": "B1A5",
+    "name_category": "B1A4",
     "title": "Bling Girl",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1-1nORv1FNuKnIS0_xQKlr-gesc9NFHOO",
@@ -2037,7 +2037,7 @@
   },
   {
     "id": 207,
-    "name_category": "B1A6",
+    "name_category": "B1A4",
     "title": "Chu Chu Chu (쮸쮸쮸)",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1KswkDtQHDSijTQEJiUrqLfAyVK5PXxHj",
@@ -2046,7 +2046,7 @@
   },
   {
     "id": 208,
-    "name_category": "B1A7",
+    "name_category": "B1A4",
     "title": "Fooool",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=17Z-dlffNZfGY2tRw_nZP-ocageDfIaim",
@@ -2055,7 +2055,7 @@
   },
   {
     "id": 209,
-    "name_category": "B1A8",
+    "name_category": "B1A4",
     "title": "My Love",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1r6VHZlWoJiy2ptSbfPXJDx7VrdVeh0rd",
@@ -2064,7 +2064,7 @@
   },
   {
     "id": 210,
-    "name_category": "B1A9",
+    "name_category": "B1A4",
     "title": "O.K.",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1HmDHtnZewAemBXcIn66hWQ9tyRQam3VF",
@@ -2073,7 +2073,7 @@
   },
   {
     "id": 211,
-    "name_category": "B1A10",
+    "name_category": "B1A4",
     "title": "Only One",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1xH4fsZwnv0DD6MncBPYyeEuWFryaIe5m",
@@ -2082,7 +2082,7 @@
   },
   {
     "id": 212,
-    "name_category": "B1A11",
+    "name_category": "B1A4",
     "title": "Only Learned Bad Things (못된 것만 배워서)",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=115yYQpEEA9fMSp84NImLlkT9fB-8IG1",
@@ -2091,7 +2091,7 @@
   },
   {
     "id": 213,
-    "name_category": "B1A12",
+    "name_category": "B1A4",
     "title": "Remember",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1UbcS5mAhTha5GaA9K8uHJ6x2fiDulp3p",
@@ -2100,7 +2100,7 @@
   },
   {
     "id": 214,
-    "name_category": "B1A13",
+    "name_category": "B1A4",
     "title": "Wonderful Tonight",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1XF1x5Ztfwp6dSBk-hJYY8nFMP49hS6jz",
@@ -2277,6 +2277,96 @@
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1gorN0QN2t4CBdi6BrPr049HK4ma-oDRE",
     "duration": 193,
     "lyrics": "<p>Yeogin eodiilkka<br />Nan pyoryu jungin mia<br />Geomeun bada wien<br />Neowa na dulppuniya<br /><br />Geodaehan padoga uril morachigo<br />Bultaneun taeyang naerijjoego isseo<br />Buseojin paradaiseu<br />(Kkumui paradaiseu)<br /><br />Bichi eomneun eodum sogeseon deouk nareul mideoyaman hae<br />Jeonjaengteowa gateun yeogiseon ojik naege uijihaeya hae<br /><br />Uril gallanochi mothage<br />Jangaemul ttawin neomeoseomyeon dwae<br />Uril tteeonochi mothage<br />Ttagaun siseon musihamyeon dwae<br /><br />Oh bebe bebe<br />Trust my love, trust my love, trust my love<br />I just want you<br />Trust my love, trust my love, trust my love<br /><br />Kkamake hyeongchega eomneun dok gateun mari<br />Neoui balmogeul butjamne nae soneul jaba ppalli<br />Jobajin siya hwanhi balkyeojuneun Head light<br />Jikyeojulge All night 24/7 kyeojin Streetlight<br /><br />Yeokgyeonggwa gonanui yeonsok gwaenchana<br />Naneun jjuk gyesok neoui yeope seoisseo<br />Naneun neoui gujoseon<br />Neol wihan huisaengeun gippeumingeol<br /><br />Chilheuk gateun eodum sogeseo neoui duryeoumeun keojine<br />Mameul gutge meogeoya hae ijen nareul mideoya hae<br /><br />Uril gallanochi mothage<br />Jangaemul ttawin neomeoseomyeon dwae<br />Uril tteeonochi mothage<br />Ttagaun siseon musihamyeon dwae<br /><br />Oh bebe bebe<br />Trust my love, trust my love, trust my love<br />I just want you<br />Trust my love, trust my love, trust my love<br /><br />Oh<br />Trust my love, trust my love, trust my love<br />Trust my love, trust my love, trust my love<br /><br />Eodideun sanggwaneopseo<br />Dallineun geon iksukae<br />Ije jinsiri deo seonmyeonghaejyeowa<br />Nae gyeote dagawa<br />Neoreul dasin gajyeogaji mothage pagodeureo<br /><br />Uril gallanochi mothage<br />Jangaemul ttawin neomeoseomyeon dwae<br />Uril tteeonochi mothage<br />Ttagaun siseon musihamyeon dwae<br /><br />Oh bebe bebe<br />Trust my love, trust my love, trust my love<br />I just want you<br />Trust my love, trust my love, trust my love<br /><br />Oh<br />Trust my love, trust my love, trust my love<br />Trust my love, trust my love, trust my love</p>"
-  }  
+  },
+  {
+    "id": 234,
+    "name_category": "BIGBANG",
+    "title": "Bad Boy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1OuzNC4FZ-Sogy3HnOuM0We-0diDn8ioD",
+    "duration": 233,
+    "lyrics": "<p>그날 밤은 내가 너무 심했어<br />니가 진짜로 떠나갈 줄은 몰랐어<br />내가 미안해 이 말 한마디<br />어려워서 우린 끝까지 가 내<br />성격이 더러워서<br />말도 안 되는 일로 다투기를<br />하루에도 수십 번<br />넌 울면서 뛰쳐나가<br />난 주위를 두리번<br />다시 돌아오겠지 내일이면 분명<br />먼저 연락이 오겠지 아침이면<br /><br />Baby 난 못해 너무나 못 돼서<br />더 잘해주고 싶은데 잘 안돼<br />Everyday &amp; night I&rsquo;m so mean<br />cuz I&rsquo;m so real so I&rsquo;m sorry<br />but I can&rsquo;t change<br /><br />니가 사랑하는 나는<br />Sorry I&rsquo;m a bad boy<br />그래 차라리 떠나 잘 가요<br />you&rsquo;re a good girl<br />시간이 갈수록 날 알면은 알수록<br />실망만 남았겠지만<br /><br />Baby don&rsquo;t leave me<br />I know you still love me<br />왜 그래 솔직히 나 말해<br />니가 필요해<br />my lay lay lay lay lady<br />my lay lay lay lay lady<br /><br />보통남자와 달라 너무 힘들다고<br />넌 아직도 소녀같이 너무 여려<br />매일같이 웃어주는<br />네 곁엔 내가 너무 어려<br />바쁘다는 핑계로 약속을 미뤄버려<br />미안한 나 속상한 마음에<br />고개를 돌려버려<br />내 꿈속의 신부 이제 그냥 친구<br />헤어짐이 아쉬운 우리들의 침묵<br /><br />Baby 난 못해 너무나 못 돼서<br />더 잘해주고 싶은데 그게 안돼<br />Everyday &amp; night I&rsquo;m so mean<br />cuz I&rsquo;m so real so I&rsquo;m sorry<br />but I can&rsquo;t change<br /><br />니가 사랑하는 나는<br />Sorry I &lsquo;m a bad boy<br />그래 차라리 떠나 잘 가요<br />you&rsquo;re a good girl<br />시간이 갈수록 날 알면은 알수록<br />실망만 남았겠지만<br /><br />Baby don&rsquo;t leave me<br />I know you still love me<br />왜 그래 솔직히 나 말해<br />니가 필요해<br />my lay lay lay lay lady<br />my lay lay lay lay lady<br /><br />아무 말 하지마<br />괜히 강한 척 했지만 속은 달라<br />날 버리지마<br />내게는 너만큼 날 이해해줄 사람<br />은 없단 걸 넌 알고 있잖아요<br />baby Oh 그대 come back to me ye ye ye<br /><br />니가 사랑하는 나는<br />Sorry I&rsquo;m a bad boy<br />그래 차라리 떠나 잘가요<br />you&rsquo;re a good girl<br />시간이 갈수록 날 알면은 알수록<br />실망만 남았겠지만<br /><br />Baby don&rsquo;t leave me<br />I know you still love me<br />왜 그래 솔직히 나 말해<br />니가 필요해<br />my lay lay lay lay lady<br />my lay lay lay lay lady<br /><br />니가 사랑하는 나는<br />Sorry I&rsquo;m a bad boy<br />Sorry I&rsquo;m a bad boy<br />Sorry I&rsquo;m a bad boy<br /><br />그래 차라리 떠나 잘 가요<br />you&rsquo;re a good girl<br />you&rsquo;re a good girl<br />you&rsquo;re a good girl<br /><br />니가 사랑하는 나는<br />Sorry I&rsquo;m a bad boy<br />Sorry I&rsquo;m a bad boy<br />Sorry I&rsquo;m a bad boy<br /><br />그래 차라리 떠나 잘 가요<br />you&rsquo;re a good girl<br />you&rsquo;re a good girl<br />you&rsquo;re a good girl</p>"
+  },
+  {
+    "id": 235,
+    "name_category": "BIGBANG",
+    "title": "Haru Haru (하루 하루)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1_qwfXJ5J9Q0HhRBbnjbZXXFqSEyd_Nmv",
+    "duration": 253,
+    "lyrics": "<p>Tteonaga<br /><br />Yeah<br />Finally I realize<br />That I'm nothing without you<br />I was so wrong, forgive me<br /><br />Ah, ah, ah, ah<br />Ah ah ah ahh, ah, ah, ah, ah, ah<br /><br />Padocheoreom buswojin nae mam<br />Baramcheoreom heundeullineun nae mam<br />Yeongicheoreom sarajin nae sarang<br />Munsincheoreom jiwojijiga anha<br />Hansumman ttangi kkeojira swijyo<br />Nae gaseumsogen meonjiman ssahijyo<br />Say goodbye, yeah<br /><br />Nega eobsin dan harudo mot salgeotman gatatdeon na<br />Saenggakgwaneun dareugedo geureokjeoreok honja jal sara<br />Bogosipdago bulleobwado neon amu daedabeobtjanha<br />Heotdoen gidae georeobwado ijen soyongeobtjanha<br /><br />Ne yeope inneun geu sarami mwonji hoksi neol ullijin annneunji<br />Geudae naega boigin haneunji beolsseo ssak da ijeonneunji<br />Geokjeongdwae dagagagijocha mareul geol su jocha eobseo aetaeugo<br />Na hollo gin bameul jisaeujyo subaekbeon jiwonaejyo<br /><br />Dorabojimalgo tteonagara<br />Tto nareul chatjimalgo saragara<br />Neoreul saranghaetgie huhoeeopgie<br />Johatdeon gieongman gajyeogara<br />Geureokjeoreok chamabolmanhae<br />Geureokjeoreok gyeondyeonaelmanhae<br />Neon geureolsurok haengbokhaeyadwae<br />Haru haru<br />Mudyeojyeogane<br /><br />Oh, girl...<br />I cry, cry<br />You're my all<br />Say goodbye<br /><br />Gireul geotda neowa na uri majuchindahaedo<br />Mot boncheok hagoseo geudaero gadeongil gajwo<br /><br />Jakkuman yet saenggagi tteooreumyeon amado<br />Nado mollae geudael chajagaljido molla<br /><br />Neon neul geu saramgwa haengbokhage neon neul naega dareun mam an meokge<br />Neon neul jageun miryeondo an namgekkeum jal jinaejwo na borandeusi<br /><br />Neon neul jeo haneulgachi hayake tteun gureumgwado gachi saeparake<br />Neon neul geureoke useojwo amu il eopdeusi<br /><br />Dorabojimalgo tteonagara<br />Tto nareul chatjimalgo saragara<br />Neoreul saranghaetgie huhoeeopgie<br />Johatdeon gieongman gajyeogara<br />Geureokjeoreok chamabolmanhae<br />Geureokjeoreok gyeondyeonaelmanhae<br />Neon geureolsurok haengbokhaeyadwae<br />Haru haru<br />Mudyeojyeogane<br /><br />Nareul tteonaseo mam pyeonhaejigil (nareul itgoseo saragajwo)<br />Geu nunmureun da mareulteni, yeah (haruharu jinamyeon)<br /><br />Charari mannaji anhatdeoramyeon deol apeultende, hmm<br />Yeongwonhi hamkkehajadeon geu yaksok ijen<br />Chueoge mudeodugil barae baby neol wihae gidohae<br /><br />Dorabojimalgo tteonagara<br />Tto nareul chatjimalgo saragara<br />Neoreul saranghaetgie huhoeeopgie<br />Johatdeon gieongman gajyeogara<br />Geureokjeoreok chamabolmanhae<br />Geureokjeoreok gyeondyeonaelmanhae<br />Neon geureolsurok haengbokhaeyadwae<br />Haru haru<br />Mudyeojyeogane<br /><br />Oh, girl<br />I cry, cry<br />You're my all<br />Say goodbye, bye<br />Oh, my love<br />Don't lie, lie<br />You're my heart<br />Say goodbye</p>"
+  },
+  {
+    "id": 236,
+    "name_category": "BIGBANG",
+    "title": "Monster",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1A9g_EokTqFStqfccmoO7QJPDme_k3U85",
+    "duration": 227,
+    "lyrics": "<p><em>[T.O.P]</em><br />It&rsquo;s been a while since we&rsquo;ve met<br />Your face looks good<br />You got prettier, you were always beautiful in my eyes<br /><br /><em>[G-Dragon]</em><br />But today you look a bit different<br />You look especially a bit cold<br />Your eyes that look at me are filled with pity<br />In front of you, I seem smaller<br /><br /><em>[T.O.P]</em><br />I tried to be fine, trying to change the subject<br />Though I had so much I wanted to ask you<br /><br /><em>[G-Dragon]</em><br />You cut me off right away<br />Your long hair flowing<br /><br /><em>[T.O.P]</em><br />As it hit my cheek and passed away<br />You turn away and left right away<br /><br /><em>[G-Dragon]</em><br />If I try to catch you here, would that be too ridiculous?<br /><br /><em>[Taeyang]</em><br />Nothing comes to my mind<br />As you tremble, you take a step, two steps back<br />You say that I scare you now<br />You&rsquo;re like a moon that makes me go crazy<br /><br /><em>[Daesung]</em><br />I love you baby I&rsquo;m not a monster<br />You know how I was in the past<br />When time passes, it&rsquo;ll all disappear<br />Then you will know baby<br /><br /><em>[Taeyang]</em><br />I need you baby I&rsquo;m not a monster<br />You know me so don&rsquo;t leave like this<br />If even you throw me away, I will die<br />I&rsquo;m not a monster<br /><br /><em>[Seungri]</em><br />No matter what happens, let&rsquo;s be forever<br />When we&rsquo;re sad, when we&rsquo;re happy, let&rsquo;s go till the end<br />You don&rsquo;t say that tomorrow<br />Let&rsquo;s love like today is the last<br /><br /><em>[G-Dragon]</em><br />A life without you is like an imprisonment for life<br />An extinction from the world to the point where I&rsquo;d go crazy<br />Your existence is a chronic disease, a repetition of pain<br />You&rsquo;re a lingering attachment in my heart<br /><br /><em>[T.O.P]</em><br />The people of the world have turned their backs against me<br />The corners of their eyes are all twisted up<br />The greatest pain to me,<br />Is the fact that you became the same as them<br /><br /><em>[Daesung]</em><br />I love you baby I&rsquo;m not a monster<br />You know how I was in the past<br />When time passes, it&rsquo;ll all disappear<br />Then you will know baby<br /><br /><em>[Taeyang]</em><br />I need you baby I&rsquo;m not a monster<br />You know me so don&rsquo;t leave like this<br />If even you throw me away, I will die<br />I&rsquo;m not a monster<br /><br /><em>[Seungri]</em><br />Don&rsquo;t go, don&rsquo;t go, don&rsquo;t go, don&rsquo;t leave me<br />Don&rsquo;t do it, don&rsquo;t do it, don&rsquo;t do it, it&rsquo;s not like you<br /><em>[Daesung]</em>&nbsp;Getting farther away, love is breaking apart<br /><br /><em>[Seungri]</em><br />Don&rsquo;t find me, don&rsquo;t find me, don&rsquo;t find me, don&rsquo;t look for me<br />The last, last, last image<br /><em>[Taeyang]</em>&nbsp;of me in front of you, Remember that, Don&rsquo;t forget me<br /><br /><em>[Daesung]</em><br />I love you baby I&rsquo;m not a monster<br />You know how I was in the past<br />When time passes, it&rsquo;ll all disappear<br />Then you will know baby<br /><br /><em>[Taeyang]</em><br />I need you baby I&rsquo;m not a monster<br />You know me so don&rsquo;t leave like this<br />If even you throw me away, I will die<br />I&rsquo;m not a monster<br /><br /><em>[G-Dragon]</em><br />I think I&rsquo;m sick I think I&rsquo;m sick<br />I think I&rsquo;m sick I think I&rsquo;m sick</p>"
+  },
+  {
+    "id": 237,
+    "name_category": "BIGBANG",
+    "title": "Always",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1JKv1Uaj8ZcXGtbiUHKD0rvlinnBz2jJd",
+    "duration": 238,
+    "lyrics": "<p><em>[Taeyang:]</em><br />Keu cheotnal neowa na<br />Nuneul ddel suga eopseotji<br />(Sesangi meomchun geot gati<br />Sarange seodun geot gati)<br />Eosaekhan pyojeongjocha modeunge<br />Mame deun neo-e gyeote<br />(Chinguga dwijugil barae<br />Yeonini dwijugil barae)<br /><br />Naega hokshirado<br />Ne son noheulgga bwa duryeoweo ma<br />Neoreul baraboneun jigeum<br />I sungando sojunghae nan<br />THAT'S WHY YOU GOTTA KNOW GIRL<br /><br /><em>[All:]</em><br />Keudael hyanghan nae maeumeun parae<br />Haneulcheoreom neol angopa<br />Geomeun bibaram bureodo<br />Ijeneun geokjeongma oh~~~<br />Keudaen eonjena nae maeum ane<br />Na-eui modeungeol da jugopa<br />Niga himdeulgo jichilddae<br />Ggok anajulgge ah ah ah ah ah<br /><br /><em>[Seungri:]</em><br />Gaggeumeun uriga<br />Datuneun naldo itgetji<br />(Nuguna da keureohdeushi<br />Apeumeul jugo badgetji)<br />Haengbokhan keu misoga<br />Nunmul-e yeollukjyeo sarajilddae<br />(Neomuna manheun ildeuri<br />Urireul garo makketji)<br /><br /><em>[Daesung:]</em><br />Naega himdeuldago malhandaedo<br />Keudaen duryeoweo ma<br />Neo-eui gyeochiramyeon<br />Keu mueotdo gyeondilmanhae nan<br />THAT'S WHY YOU GOTTA KNOW ALWAYS GIRL YEAH~<br /><br /><em>[All:]</em><br />Keudael hyanghan nae maeumeun parae<br />Naege wajweoseo gomaweo<br />Geomeun bibaram bureodo<br />Ijeneun geokjeongma oh~~~<br />Keudaen eonjena nae maeum ane<br />Na-eui modeungeol da jugopa<br />Niga himdeulgo jichilddae<br />Ggok anajulgge ah ah ah ah ah<br /><br /><em>[T.O.P:]</em><br />BABY I SWEAR Haneularae<br />Uri dulbakke baneulgwa shilgatae<br />Milgo danggigo aungdaunghae<br />Midgo aggigo sarang gaunde<br />Nunmureul dagga julgge bitnaneun<br />Ne nun-e hayan misoman gadeukhage<br />GO BACK (CUZ YOU WANT MY LOVE) WAY BACK (MY ONE AND ONLY LOVE)<br /><br /><em>[G-Dragon:]</em><br />YO mannam he-eojim ibyeol<br />Gongshik neowa heyeojil shigan olji<br />Nugudo molla hajiman nan dalla<br />Yeoneuddaewa gata neon namanddarawa<br />Mweonmari keuri piryohanji<br />Dul-eui sarangimyeon chungbunhaji<br />Jeo pureun bada ddeugeoun<br />Haessalgwa naepume gidaen neo<br />THAT'S SWEET<br /><br /><em>[All:]</em><br />Keudael hyanghan nae maeumeun parae<br />Haneulcheoreom neol angopa<br />Geomeun bibaram bureodo<br />Ijeneun geokjeongma oh~~~<br />Keudaen eonjena nae maeum ane<br />Na-eui modeungeol da jugopa<br />Niga himdeulgo jichilddae<br />Ggok anajulgge ah ah ah ah ah</p>"
+  },
+  {
+    "id": 238,
+    "name_category": "BIGBANG",
+    "title": "Blue (Japanese Version)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1gKC1nNvctmgcMMAMw4QupxUlEqbT0wRn",
+    "duration": 242,
+    "lyrics": "<p><em>[G-Dragon]</em><br />Gyeouri gago bomi chajaojyo urin sideulgo<br />Keurium soge mami meongdeureotjyo<br /><br />(<em>[G-Dragon]</em>&nbsp;I'm singing my blues)<br /><em>[Seungri]</em>&nbsp;Paran nunmure paran seulpeume gildeulyeojyeo<br />(<em>[G-Dragon]</em>&nbsp;I'm singing my blues)<br /><em>[Seungri]</em>&nbsp;Tteungureume nallyeobonaen sarang oh oh<br /><br /><em>[GD]</em><br />Gateun haneul dareun got neowana wiheomhanikka<br />Noegeso tteonajuneun geoya<br />Nimiran geulja-e jeomhana bigeophajiman<br />Naega motna sumneun geoya<br />Janinhan ibyeoreun sarange mallo<br />Geu eotteon maldo wiro dwel suneun eopdago<br />Ama nae insaengui majimak mellow<br />Magi naeryeo oneyo ije<br /><br /><em>[Daesung]</em><br />Taeonaseo neol mannago jugeul mankeum saranghago<br />Parahke muldeureo sirin nae maeum<br />Nuneul gamado neol neukkil su eopjanha<br /><br /><em>[Taeyang]</em><br />Gyeouri gago bomi chajaojyo urin sideulgo<br />Keurium soge mami meongdeureotjyo<br /><br />(<em>[G-Dragon]</em>&nbsp;I'm singing my blues)<br /><em>[Seungri]</em>&nbsp;Paran nunmure paran seulpeume gildeulyeojyeo<br />(<em>[G-Dragon]</em>&nbsp;I'm singing my blues)<br /><em>[Seungri]</em>&nbsp;Tteungureume nallyeobonaen sarang oh oh<br /><br /><em>[TOP]</em><br />Simjangi meojeun geotmangata jeonjaengi kkeutnago geu gose eoreo buteun neowana<br />Nae meorisok saegyeojin Trauma I nunmul mareumyeon chokchokhi gieokhari nae sarang<br />Gweropjido weropjido anha haengbokeun da honjatmal geu isange bokjaphan gon mot chama<br />Daesureupji amureohjido anha byeolsu eoptneun banghwang saramdeureun watda ganda<br /><br /><em>[Taeyang]</em><br />Taeonaseo neol mannago jugeul mankeum saranghago<br />Parahke muldeuro sirin nae maeum<br />Neoneun tteonado nan geudaero itjanha<br /><br /><em>[Daesung]</em><br />Gyeouri gago bomi chajaojyo urin sideulgo<br />Keurium soge mami meongdeureotjyo<br /><br /><em>[Taeyang]</em><br />Oneuldo paran jeo dalbit araeye na hollo jami deulgetjyo<br />Kkumsogeseodo nan geudaereul chaja hemaeimyo<br />I noraereul bulleoyo<br /><br />(<em>[G-Dragon]</em>&nbsp;I'm singing my blues)<br /><em>[Seungri]</em>&nbsp;Paran nunmure paran seulpeume gildeulyeojyeo<br />(<em>[G-Dragon]</em>&nbsp;I'm singing my blues)<br /><em>[Seungri]</em>&nbsp;Tteungureume nallyeobonaen sarang<br />(<em>[G-Dragon]</em>&nbsp;I'm singing my blues)<br /><em>[Seungri]</em>&nbsp;Paran nunmure paran seulpeume gildeulyeojyeo<br />(<em>[G-Dragon]</em>&nbsp;I'm singing my blues)<br /><em>[Seungri]</em>&nbsp;Tteungureume nallyeobonaen sarang oh oh</p>"
+  },
+  {
+    "id": 239,
+    "name_category": "BIGBANG",
+    "title": "Fantastic Baby",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1TnB20fNskob1KnfMyqkuJppFjJB1ftVI",
+    "duration": 239,
+    "lyrics": "<p>Yeogi buteora modu moyeora<br />We gon party like<br />Lilililalala<br />Mameul yeoreora meoril biwora<br />Bureul jipyeora lilililalala.<br /><br />Jeongdabeun mutji malgo geudaero badadeullyeo<br />Neukkimdaero ga alright<br />Haneureul majuhago du soneul da wiro<br />Jeo wiro nalttwigo shipeo oh<br /><br />Nanananana nanananana<br />Wow fantastic baby<br />Dance I wanna dan dan dan dan<br />Dance fantastic baby<br />Dance I wanna dan dan dan dan<br />Dance wow fantastic baby<br /><br />I nanjangpane hey<br />Kkeutpan wang charye hey<br />Ttangeul heundeulgo<br />3buneuron bulchungbunhan<br />Race wait<br />Bunwigineun gwayeol<br />Huh catch me on fire huh<br />Jinjjaga natanatda nananana<br /><br />Hanabuteo yeolkkaji modeun ge da han suwi<br />Morae beolpan wireul michin deushi<br />Ttwieobwado geotteunhan uri<br />Haneureun chungbunhi neomuna pureunikka<br />Amugeotdo mutji mallan mariya<br />Neukkiran mariya naega nugunji<br /><br />Ne shimjangsorie matge ttwigi shijakhae<br />Magi kkeutnal ttaekkaji ye<br />I can't baby don't stop this<br />Oneureun tarakhae (michyeo barakhae)<br />Ganeungeoya<br /><br />Wow fantastic baby<br />Dance I wanna dan dan dan dan<br />Dance fantastic baby<br />Dance I wanna dan dan dan dan<br />Dance wow fantastic baby<br /><br />Boom shakalaka<br />Boom shakalaka<br />Boom shakalaka<br />Dan dan dan dan<br />Dance<br />Boom shakalaka<br />Boom shakalaka<br />Boom shakalaka<br />Dan dan dan dan<br /><br />Nal ttara jababol temyeon wabwa<br />Nan yeongwonhan ttanttara<br />Oneul bam geumgiran naegen eobseo<br />Mama just let me be your lover<br />I hollan sogeul neomeo nanananana<br /><br />Meorikkeutbuteo balkkeutkkaji bijyueoreun<br />Syokeu nae gamgageun somunnan kkun<br />Apseoganeun chok<br />Namdeulbodaneun ppareun georeum<br />Chawoni dareun jeormeum<br />Eoreumeoreumeoreum hold up<br />Nanananana<br /><br />Ne shimjangsorie matge ttwigi shijakhae<br />Magi kkeutnal ttaekkaji ye<br />I can't baby don't stop this<br />Oneureun tarakhae (michyeo barakhae)<br />Ganeungeoya<br /><br />Wow fantastic baby<br />Dance I wanna dan dan dan dan<br />Dance fantastic baby<br />Dance I wanna dan dan dan dan<br />Dance wow fantastic baby<br /><br />Boom shakalaka<br />Boom shakalaka<br />Boom shakalaka<br />Dan dan dan dan<br />Dance<br />Boom shakalaka<br />Boom shakalaka<br />Boom shakalaka<br />Dan dan dan dan<br /><br />Da gachi nolja ye ye ye<br />Da gachi ttwija ye ye ye<br />Da gachi dolja ye ye ye<br />Da gachi gaja<br />Wow fantastic baby</p>"
+  },
+  {
+    "id": 240,
+    "name_category": "BIGBANG",
+    "title": "Let's Not Fall In Love (우리 사랑하지 말아요)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1e22eFMRvUj_BL2nTZxsl-mk0aUamsb2D",
+    "duration": 235,
+    "lyrics": "<p>Uri saranghaji marayo ajigeun jal moreujanhayo<br />Sasil jogeumeun duryeoun geoya<br />Geudae mianhaeyo<br />Uri yaksokhaji marayo naeireun tto moreujanhayo<br />Hajiman i mal maneun jinsimiya<br />Geudae johahaeyo<br /><br />Amugeotdo mutji marayo<br />Daedaphal su eobseoyo<br />Jigeum ireoke duri haengbokhande wae<br /><br />Nal gajiryeo haji marayo<br />Geujeo idaero jogeumman isseoyo<br />Galsurok deo maeum apajige wae<br /><br />Jajeun mannam dwien ibyeol<br />Gyesok banbokdoeneun siryeon<br />Deoneun uimireul chajeul su eobseo<br />Eoriseogeun miryeon<br />Sarangui tareul sseun mistake<br />Neukkineun gamjeongeun da biseuthae<br />Hajiman i sunganmankeumeun I want you to stay<br /><br />Uri saranghaji marayo ajigeun jal moreujanhayo<br />Sasil jogeumeun duryeoun geoya<br />Geudae mianhaeyo<br />Uri yaksokhaji marayo naeireun tto moreujanhayo<br />Hajiman i mal maneun jinsimiya<br />Geudae johahaeyo<br /><br />Nareul bomyeo utji marayo<br />Jeongdeulmyeon seulpeojyeoyo<br />Yeppeun geu misoga nunmuri doelkka bwa<br /><br />Sarangiran du geulja soge<br />Uril gaduryeogo haji marayo<br />Chaeuji mothal yoksiminikka<br /><br />Cheoeumen seollemeul ango<br />Baneun gomineul ango<br />Kkeuten seoro uirironama jinae sihaengchago<br />Nan haruharuga buranhae<br />Ne geu sunsuhami budamdwae<br />Hajiman oneul bammankeumeun<br />I want you to stay<br /><br />Naege neomu manheun geol barajima<br />Nado geudael ilko sipjin anha<br />Gipeojigi jeone sangcheo ipgi jeone<br />Nal mitji marayo<br /><br />Neon hangsang geurae<br />Igijeogin saekki<br /><br />Uri saranghaji marayo ajigeun jal moreujanhayo<br />Sasil jogeumeun duryeoun geoya<br />Geudae mianhaeyo<br />Uri yaksokhaji marayo naeireun tto moreujanhayo<br />Hajiman i mal maneun jinsimiya<br />Geudae johahaeyo</p>"
+  },
+  {
+    "id": 241,
+    "name_category": "BIGBANG",
+    "title": "Lies (거짓말)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1m91YM4zjnPUHVUt1McMyf6H_ZA5cL_ku",
+    "duration": 218,
+    "lyrics": "<p>Yeah<br />Love is pain<br />Dedicated to all my brokenhearted people<br />One's old a flame<br />Just scream my name<br />And I'm so sick of love songs<br />Yeah I hate dem love songs<br />Memento of ours<br /><br />거짓말<br /><br />늦은 밤 비가 내려와 널 데려와<br />젖은 기억 끝에 뒤척여 나<br />너 없이 잘 살 수 있다고<br />다짐 해봐도 어쩔 수 없다고<br />못하는 술도 마시고<br />속타는 맘 밤새 채워봐도<br />싫어 너 없는 하루는 길어 빌어<br />제발 잊게 해달라고 (거짓말이야)<br /><br />너 없는 내겐 웃음이 보이지 않아<br />눈물조차 고이지 않아<br />더는 살고 싶지 않아<br /><br />엿같애 열받게<br />니 생각에 돌아버릴것 같애<br />보고 싶은데 볼 수가 없데<br />모두 끝났데 I'll be right there<br /><br />I'm so sorry but I love you 다 거짓말<br />이야 몰랐어 이제야 알았어 네가 필요해<br />I'm so sorry but I love you 날카로운 말<br />홧김에 나도 모르게 널 떠나보냈지만<br />I'm so sorry but I love you 다 거짓말<br />I'm so sorry (I'm sorry) but I love you (I love you more, more)<br />I'm so sorry but I love you 나를 떠나<br />천천히 잊어줄래 내가 아파할 수 있게<br /><br />그댈 위해서 불러왔던 내 모든 걸 다 바친 노래<br />(사람들은 모르겠죠)<br />난 혼자 그 아무도 아무도 몰래<br />(그래 내가 했던 말은 거짓말)<br /><br />홀로 남겨진 외톨이<br />그 속에 헤메는 내 꼴이<br />주머니 속에 꼬깃꼬깃<br />접어둔 이별을 향한 쪽지<br />(넌 어딧나요 널 부르는 습관도)<br />난 달라질래. 이젠 다 웃어넘길게<br /><br />I'm so sorry but I love you 다 거짓말<br />이야 몰랐어 이제야 알았어 네가 필요해<br />I'm so sorry but I love you 날카로운 말<br />홧김에 나도 모르게 널 떠나보냈지만<br />I'm so sorry but I love you 다 거짓말<br />I'm so sorry (I'm sorry) but I love you (I love you more, more)<br />I'm so sorry but I love you 나를 떠나<br />천천히 잊어줄래 내가 아파할 수 있게<br /><br />모든게 꿈이길<br />이것밖에 안되는 나라서<br /><br />Drop that beat<br /><br />아직도 너를 못 잊어<br />아니 평생을 가도 죽어서까지도<br />내가 준 상처 아물었는지<br />미안해 아무것도 해준게 없는 나라서<br /><br />I'm so sorry but I love you 다 거짓말<br />이야 몰랐어 이제야 알았어 네가 필요해<br />I'm so sorry but I love you 날카로운 말<br />홧김에 나도 모르게 널 떠나보냈지만<br />I'm so sorry but I love you 다 거짓말<br />I'm so sorry (I'm sorry) but I love you (I love you more, more)<br />I'm so sorry but I love you 나를 떠나<br />천천히 잊어줄래 내가 아파할 수 있게</p>"
+  },
+  {
+    "id": 242,
+    "name_category": "BIGBANG",
+    "title": "Tonight (Japanese Version)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1tUgGx8HEztcQ4kGAWZBPlICFyx_tCZJN",
+    "duration": 223,
+    "lyrics": "<p>Big bang big bang we're back again one more time say<br />No way no way neomu swipge tto nami dwae<br />Big bang big bang don't stop let's play<br />Ok ok go go go<br /><br /><em>[G-Dragon]</em><br />Na michil geot gatae ama jichin geot gatae (wae)<br />Anya jillin geot gatae beolsseo ttabunhae sisihae<br />Han yeojaroneun manjok mot haneun bad boy but I'm nice<br />An neomeogagoneun mot baegilgeol let me blow ya mind<br /><br /><em>[T.O.P.]</em><br />Eonjebuteoyeonneunji gamheungi eobseojin uri<br />Ijen machi jin ppajin gim ppajin kollagatji<br />Mugamgakhaejin cheot neukkim seororeul hyanghan gyeotnunjil<br />Geukkat sarange nan mongmaeji anha don't wanna try no more<br /><br /><em>[TaeYang]</em><br />Neoreul chajaseo oeo nal bichwojuneun jeo dalbicharaero<br />Geudael chajaseo oeooo kkeuchi eodinji moreugetjiman hey<br />Tonight tonight tonight tonight<br />Ajik nan sarangeul molla tto hollo gayeoun I bam<br /><br /><em>[SeungRi]</em><br />Sangcheo nal ibyeori museowo (so what so what)<br />Neol cheoeum mannan sungani geuriwo (no more no more)<br />Geujeo apeume seotun geol nan pihago sipeun geol<br />But you know that I love you girl girl girl<br /><br /><em>[DaeSung]</em><br />Jiljilkkeuneun seonggyeok say no chagaun ipsullo neol eoreo butge haneun nanana<br /><br /><em>[G-Dragon]</em><br />Take ma soul take ma heart back saeroun seolleim get that<br />Sarangeun naegeneun eoulliji anha don't think too much it's simple<br /><br /><em>[TaeYang]</em><br />Neoreul chajaseo oeo nal bichwojuneun jeo dalbicharaero<br />Geudael chajaseo oeooo kkeuchi eodinjineun moreugetjiman hey<br />Tonight tonight tonight tonight<br />Ajik nan sarangeul molla tto hollo gayeoun I bam<br /><br /><em>[TaeYang &amp; DaeSung]</em><br />Annyeongiran marui seulpeun uimi eoduun geurimjaneun garyeojigo<br />Nae maeum sok ijeobeorin neoreul hyanghan naui gieok<br />Neoreul chajaseo oeo nal bichwojuneun jeo dalbicharaero (jeo dalbicharaero)<br />Geudael chajaseo oeooo (o geudae o baby) kkeuchi eodinji moreugetjiman hey (eodinji molla)<br />Tonight tonight tonight tonight<br />Ajik nan sarangeul molla (sarangeul molla nan) tto hollo gayeoun I bam<br /><br />Neoreul chajaseo oeo (tonight) nal bichwojuneun jeo dalbicharaero (such a beautiful night)<br />Geudael chajaseo oeooo kkeuchi eodinji moreugetjiman (goodnight)</p>"
+  },
+  {
+    "id": 243,
+    "name_category": "BIGBANG",
+    "title": "Bang Bang Bang (뱅뱅뱅)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1KuTKWsPh7LggmSiaLezSin4WJ3ym2s8B",
+    "duration": 229,
+    "lyrics": "<p>Nan kkaeeona kkaman bamgwa hamkke<br />Da deureowa damen nugu charye<br />Han chi apdo bol su eopsneun makjang gerilla<br />Gyeongbaehara mokcheongi teojige<br /><br />Jjijilhan bunwigireul jeonhwanhae<br />Gwanggireul gamchuji moshage hae<br />Namjadeurui pumwi yeojadeurui gasik<br />Iyu moreul jasingami bolmanhae<br />Nan boran deusi neomunado ppeonppeonhi<br />Ni momsoge pagodeuneun alleoji<br />Isanghan jeongsinui sulleongineun cheonji<br />Oneul yeogi mubeopji<br /><br />Nan bureul jilleo<br />Simjangeul taewo<br />Neol michige hago sipeo<br />B.I.G yea we BANG like this modu da gati<br /><br />Chong majeun geoscheoreom<br /><br />BANG! BANG! BANG!<br />BANG! BANG! BANG!<br />Ppangya ppangya ppangya<br />BANG! BANG! BANG!<br />BANG! BANG! BANG!<br />Ppangya ppangya ppangya<br /><br />Da kkomjjak mara da kkomjjak ma<br />Da kkomjjak mara da kkomjjak ma<br />Oneul bam kkeutjang boja da kkeutjang bwa<br />Oneul bam kkeutjang boja<br />Ppangya ppangya ppangya<br /><br />Neol deryeoga jigeum i sungane<br />Saeppalgan jeo haneuri chumchul ttae<br />Dolgo dora neowa na igoseun valhalla<br />Chanyanghara deo ullyeo peojige<br /><br />We go hard bulchimbeon bamsae dallyeo chukjibeop<br />I noraeneun kkokjijeom sinina bulleora sinjeom<br />Keun bimyeongsorineun maseongui mellodi geomeun dokgiui yeongyeol gori<br />SaBANG palBANG oBANG gaseo puneun goppi whoo<br /><br />Nan bureul jilleo<br />Ne simjangeul taewo<br />Neol michige hago sipeo<br />B.I.G yea we BANG like this modu da gati<br /><br />Chong majeun geoscheoreom<br /><br />BANG! BANG! BANG!<br />BANG! BANG! BANG!<br />Ppangya ppangya ppangya<br />BANG! BANG! BANG!<br />BANG! BANG! BANG!<br />Ppangya ppangya ppangya<br /><br />Da kkomjjak mara da kkomjjak ma<br />Da kkomjjak mara da kkomjjak ma<br />Oneul bam kkeutjang boja da kkeutjang bwa<br />Oneul bam kkeutjang boja<br />Ppangya ppangya ppangya<br /><br />Ready or not<br />Yea we don't give a what<br />Ready or not<br />Yea we don't give a what<br /><br />Ret't go namjadeureun wiro<br />Yeojadeureun get low<br />Danggyeora BANG BANG BANG<br />Let the bass drum go<br /><br />Namjadeureun wiro<br />Yeojadeureun get low<br />Danggyeora BANG BANG BANG<br />Let the bass drum go</p>"
+  }
 ]
 }
