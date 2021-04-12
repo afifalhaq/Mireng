@@ -1,14 +1,13 @@
-
 {
 "Ads": [
 {
 "select_ads": "FACEBOOK",
 "status_app": "0",
 "link_redirect": "https://",
-"admob_interid": "ca-app-pub-3940256099942544/1033173712",
-"admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
-"admob_openid": "ca-app-pub-3940256099942544/1033173712",
-"interval_intertitial": "5",
+"admob_interid": "ca-app-pub-5011952813953789/1716637705",
+"admob_bannerid": "ca-app-pub-5011952813953789/8527805679",
+"admob_openid": "ca-app-pub-5011952813953789/1716637705",
+"interval_intertitial": "3",
 "startappid": "201669628",
 "fan_inter": "YOUR_PLACEMENT_ID",
 "fan_banner": "YOUR_PLACEMENT_ID",
@@ -20,167 +19,162 @@
 ],
 "Categories": [
   {
-    "": 1,
+    "id": 1,
     "name_category": "2NE1",
     "image": "https://i.pinimg.com/originals/30/7b/4b/307b4b647887880a85b117fd751873b8.jpg"
   },
   {
-    "": 2,
+    "id": 2,
     "name_category": "aespa",
     "image": "https://jateng.poskota.co.id/photo/plugin/article/2021/1610181039_1-org.jpg"
   },
   {
-    "": 3,
+    "id": 3,
     "name_category": "Apink",
     "image": "https://i.pinimg.com/736x/32/43/32/324332c4b052b3cebe655d5052bca994--apink-naeun-apink-kpop.jpg"
   },
   {
-    "": 4,
+    "id": 4,
     "name_category": "Astro",
     "image": "https://i0.wp.com/hallyumusic.com/wp-content/uploads/2020/05/ASTRO-COVER.png?fit=600%2C600&ssl=1"
   },
   {
-    "": 5,
+    "id": 5,
     "name_category": "ATEEZ",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg"
   },
   {
-    "": 6,
+    "id": 7,
     "name_category": "B1A4",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg"
   },
   {
-    "": 7,
+    "id": 8,
     "name_category": "BIGBANG",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg"
   },
   {
-    "": 8,
+    "id": 9,
     "name_category": "BLACKPINK",
     "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg"
   },
   {
-    "": 9,
+    "id": 10,
     "name_category": "BTS",
     "image": "https://assets.nst.com.my/images/articles/07ntBTS_1517969024.jpg"
   },
   {
-    "": 10,
+    "id": 11,
     "name_category": "Cravity",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg"
   },
   {
-    "": 11,
+    "id": 12,
     "name_category": "Dreamcatcher",
     "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg"
   },
   {
-    "": 12,
+    "id": 13,
     "name_category": "ENHYPEN",
     "image": "https://www.korebu.com/wp-content/uploads/2020/10/enhypen-3-1-850x638.jpg"
   },
   {
-    "": 13,
+    "id": 13,
     "name_category": "EXO",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg"
   },
   {
-    "": 14,
+    "id": 14,
     "name_category": "G-idle",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg"
   },
   {
-    "": 15,
-    "name_category": "GFriend",
-    "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg"
-  },
-  {
-    "": 16,
+    "id": 15,
     "name_category": "GOT7",
     "image": "https://pbs.twimg.com/profile_images/957032046836240384/NneCvaHk.jpg"
   },
   {
-    "": 17,
+    "id": 17,
     "name_category": "iKon",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg"
   },
   {
-    "": 18,
+    "id": 18,
     "name_category": "ITZY",
     "image": "https://1409791524.rsc.cdn77.org/data/thumbs/full/547971/650/0/0/0/itzy-wannabe-mv-3-consecutive-100-million-views.jpg"
   },
   {
-    "": 19,
+    "id": 19,
     "name_category": "IU",
     "image": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg"
   },
   {
-    "": 20,
+    "id": 20,
     "name_category": "IZ*ONE",
     "image": "https://i.redd.it/obceohfe3jh21.jpg"
   },
   {
-    "": 21,
+    "id": 21,
     "name_category": "Mamamoo",
     "image": "https://www.hellokpop.com/wp-content/uploads/2016/08/20160824_mamamoo.jpg"
   },
   {
-    "": 22,
+    "id": 22,
     "name_category": "MCND",
     "image": "https://i0.wp.com/kstationtv.com/wp-content/uploads/2019/12/MCND-2.jpg?fit=798%2C798&ssl=1"
   },
   {
-    "": 23,
-    "name_category": "MOMOLAND",
+    "id": 23,
+    "name_category": "Momoland",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1"
   },
   {
-    "": 24,
+    "id": 24,
     "name_category": "MONSTA X",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg"
   },
   {
-    "": 25,
+    "id": 25,
     "name_category": "NCT",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg"
   },
   {
-    "": 26,
+    "id": 26,
     "name_category": "NU'EST",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg"
   },
   {
-    "": 27,
+    "id": 27,
     "name_category": "Red Velvet",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg"
   },
   {
-    "": 28,
+    "id": 28,
     "name_category": "SECRET NUMBER",
     "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg"
   },
   {
-    "": 29,
+    "id": 29,
     "name_category": "Shinee",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg"
   },
   {
-    "": 30,
+    "id": 30,
     "name_category": "Stray Kids",
     "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg"
   },
   {
-    "": 31,
+    "id": 31,
     "name_category": "TREASURE",
     "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg"
   },
   {
-    "": 32,
+    "id": 32,
     "name_category": "Twice",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg"
   },
   {
-    "": 33,
+    "id": 33,
     "name_category": "TXT",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg"
   }
