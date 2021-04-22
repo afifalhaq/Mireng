@@ -7,7 +7,7 @@
         "nativeid": "ca-app-pub-5011952813953789/4316854693",
         "openads":"ca-app-pub-5011952813953789/2826651389",
                 
-        "interval": 10,
+        "interval": 5,
         "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
@@ -31,23 +31,16 @@
   [ 
     {
     "id":1,
-    "judul":"Ludo King",
-    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    "judul":"Krungu - Free Kpop Songs + Lyric Online",
+    "image":"https://play-lh.googleusercontent.com/62l1EQ161iBN8XR8px3eavCALtMKBEeip1oJxWWfflBm17Ob2Fgv_IY9nfJkxiplyQU=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.mireng.senthong"
   },
   {
     "id":2,
-    "judul":"Homescapes",
-    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-  },
-  {
-    "id":3,
-    "judul":"Minecraft",
-    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    "judul":"Hokya - Free Full Bts Song + Lyric Online",
+    "image":"https://play-lh.googleusercontent.com/WAEKArtKc9LLC1HO5__ofQwF9xociCoAa35tpdCLjDv834P0A1taykgrvRdcNUL5Nw=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.btsalbum.kpop.senthong"
   }
-
   ],
   
   "Categories": [
