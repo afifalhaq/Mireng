@@ -46,6 +46,44 @@
   "Categories": [
   {
     "id": 1,
+    "nama_cat": "Blackpink",
+    "gambar": "https://ia801503.us.archive.org/4/items/blackpink_202009/1.jpg"
+  },
+  {
+    "id": 2,
+    "nama_cat": "BTS",
+    "gambar": "https://ia801402.us.archive.org/5/items/bts-1/27.jpg"
+  },
+  {
+    "id": 3,
+    "nama_cat": "EXO",
+    "gambar": "https://ia601507.us.archive.org/0/items/Exo-1/1.png"
+  },
+  {
+    "id": 4,
+    "nama_cat": "GOT7",
+    "gambar": "https://i.pinimg.com/564x/00/ac/b4/00acb462a7b98d450c797c99c28b7de1.jpg"
+  },
+  {
+    "id": 5,
+    "nama_cat": "Red Velvet",
+    "gambar": "https://ia601502.us.archive.org/24/items/redvelvet-1/1.png"
+  },
+  {
+    "id": 6,
+    "nama_cat": "Stray Kids",
+    "gambar": "https://ia601407.us.archive.org/30/items/StrayKids-1/1.png"
+  },
+  {
+    "id": 7,
+    "nama_cat": "Twice",
+    "gambar": "https://ia801506.us.archive.org/10/items/twice-1/1.jpg"
+  }
+],
+ 
+ "Wallpaper":[
+  {
+    "id": 1,
     "id_wall": 1,
     "nama_cat": "BTS",
     "judul": "",
