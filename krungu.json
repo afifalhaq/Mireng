@@ -71,126 +71,136 @@
   },
   {
     "id": 11,
+    "name_category": "DAY6",
+    "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg"
+  },
+  {
+    "id": 12,
     "name_category": "Dreamcatcher",
     "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg"
   },
   {
-    "id": 12,
+    "id": 13,
     "name_category": "ENHYPEN",
     "image": "https://www.korebu.com/wp-content/uploads/2020/10/enhypen-3-1-850x638.jpg"
   },
   {
-    "id": 13,
+    "id": 14,
     "name_category": "EXO",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg"
   },
   {
-    "id": 14,
+    "id": 15,
     "name_category": "G-idle",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg"
   },
   {
-    "id": 15,
+    "id": 16,
     "name_category": "GFriend",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg"
   },
   {
-    "id": 16,
+    "id": 17,
     "name_category": "GOT7",
     "image": "https://pbs.twimg.com/profile_images/957032046836240384/NneCvaHk.jpg"
   },
   {
-    "id": 17,
+    "id": 18,
     "name_category": "iKon",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg"
   },
   {
-    "id": 18,
+    "id": 19,
     "name_category": "ITZY",
     "image": "https://1409791524.rsc.cdn77.org/data/thumbs/full/547971/650/0/0/0/itzy-wannabe-mv-3-consecutive-100-million-views.jpg"
   },
   {
-    "id": 19,
+    "id": 20,
     "name_category": "IU",
     "image": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg"
   },
   {
-    "id": 20,
+    "id": 21,
     "name_category": "IZ*ONE",
     "image": "https://i.redd.it/obceohfe3jh21.jpg"
   },
   {
-    "id": 21,
+    "id": 22,
     "name_category": "Mamamoo",
     "image": "https://www.hellokpop.com/wp-content/uploads/2016/08/20160824_mamamoo.jpg"
   },
   {
-    "id": 22,
+    "id": 23,
     "name_category": "MCND",
     "image": "https://i0.wp.com/kstationtv.com/wp-content/uploads/2019/12/MCND-2.jpg?fit=798%2C798&ssl=1"
   },
   {
-    "id": 23,
+    "id": 24,
     "name_category": "MOMOLAND",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1"
   },
   {
-    "id": 24,
+    "id": 25,
     "name_category": "MONSTA X",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg"
   },
   {
-    "id": 25,
+    "id": 26,
     "name_category": "NCT",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg"
   },
   {
-    "id": 26,
+    "id": 27,
     "name_category": "NU'EST",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg"
   },
   {
-    "id": 27,
+    "id": 28,
+    "name_category": "Oh My Girl",
+    "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg"
+  },
+  {
+    "id": 29,
     "name_category": "Red Velvet",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg"
   },
   {
-    "id": 28,
+    "id": 30,
     "name_category": "SECRET NUMBER",
     "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg"
   },
   {
-    "id": 29,
+    "id": 31,
     "name_category": "SHINee",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg"
   },
   {
-    "id": 30,
+    "id": 32,
     "name_category": "STAYC",
     "image": "https://6.viki.io/image/46e65a881e8b41f88f4ff59ac72af4bc.jpeg"
   },
   {
-    "id": 31,
+    "id": 33,
     "name_category": "Stray Kids",
     "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg"
   },
   {
-    "id": 32,
+    "id": 34,
     "name_category": "TREASURE",
     "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg"
   },
   {
-    "id": 33,
+    "id": 35,
     "name_category": "TWICE",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg"
   },
   {
-    "id": 34,
+    "id": 36,
     "name_category": "TXT",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg"
   },
   {
-    "id": 35,
+    "id": 37,
     "name_category": "Weeekly",
     "image": "https://thumbnails.kpopmap.com/2020/07/weeekly-tag-me-cover-680x384.jpg"
   }
@@ -232,6 +242,60 @@
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1sXwTT7QGJMsj05K3jdLhJQVYMubOtYS3",
     "duration": 195,
     "lyrics": "<p>Hot sauce gipi dip that eh<br />Nal ttara neon twist that eh<br />Hot sauce taoreul ttae ooh<br />Immatdaero golla ma dish<br /><br />Neon mwoga gunggeumhae<br />Naneun neomanui chef<br />Igeon neoreul wihan plate<br />Yeah naega mat boyeo julge<br /><br />Siganeun chungbunhae jigeum uri<br />Nunchido boji ma geujeo taste it<br />Nae bibeobeun saekdareun spicy<br />Saljjangman seuchyeodo jeongsineopji<br /><br />Seoltangi ballin masen<br />Inae jilligi swiwo<br />Tteugeoun naui feelin'<br />Jigeum neukkyeotji neon<br />Neowa nae sai seonmyeonghi boin<br />Keojyeoman ganeun yeolgi<br />Nan ogameul kkaewo ne mameul kkaewo<br />Teojil geonman gateun ma skill<br /><br />Golla ma dish<br />Golla ma dish<br />Golla ma dish<br />Hot sauce gipi dip that eh<br />Nal ttara neon twist that eh<br />Hot sauce taoreul ttae ooh<br />Immatdaero golla ma dish<br /><br />Aye bangsim hajima<br />Uh binteumi eopseul tenikka<br />Yeah neon jageukjeogin nae gamgak<br />Ooh ganeunghagenni gamdang nope<br /><br />Yeah yeah beotil teogi eopjana<br />Nahginjangeul deo pulgoseo neon<br />Bon app&eacute;tit now that's right<br />Juche mot hae jakku ppajyeodeuneun mat<br />Cuz you can't stop<br />Nan kkeutkkaji get ya<br /><br />Chatge doel geol every day<br />(And every night)<br />Jungdokdwae imi neon<br />Ne mameul deo seokkeonwa<br />(Ijen namgimeopsi)<br />Gyesok wonhage dwae<br />Eojireon meori ne du sonbari<br />Ikkeullyeo naege imi<br />Jom deo jageukjeogil mae sungandeuri<br />Gangnyeolhae what we gon' eat<br /><br />Golla ma dish<br />(I'm the one<br />What you want<br />What you want<br />What you want ah ya)<br />Golla ma dish<br />(I'm the one<br />What you want<br />What you want<br />What you want ah ya)<br />Golla ma dish<br />Hot sauce gipi dip that eh<br />Nal ttara neon twist that eh<br />Hot sauce taoreul ttae ooh<br />Immatdaero golla ma dish<br /><br />Neoreul samkyeobeorin feelin'<br />Sarojabeun ireon kkeullim<br />Ttel suga eopjana<br />Jom deo gipi ppajyeodeul ttae<br />Wonhae wonhae wonhaebwa deo babe<br />Eolmadeunji deo barae barae babe<br />Neoui hyeokkeut wiro areungeoril<br />Wanbyeokaejin maseul jeulgyeo<br />You want it babe<br /><br />(I'm the one<br />What you want<br />What you want<br />What you want ah ya)<br />Golla ma dish<br />(I'm the one<br />What you want<br />What you want<br />What you want ah ya)<br />Golla ma dish<br />Hot sauce gipi dip that eh<br />Nal ttara neon twist that eh<br />Hot sauce taoreul ttae ooh<br />Immatdaero golla ma dish</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Oh My Girl",
+    "title": "Dun Dun Dance",
+    "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1gas6vUdUnJ0RBuOq0gC7idkuViZ8Esy7",
+    "duration": 220,
+    "lyrics": "<p>Dun Dun Dance, Dun Dun Dance, Dun Dun Dance<br />Just dance, just dance<br />Dun Dun Dance, Dun Dun Dance, Dun Dun Dance<br />Just dance, just dance<br /><br />Yuseongi bicheoreom ssodajineun haneul<br />Geu arae neowa hamkke chumchugo sipeo<br />Saeksaegui otdeulgwa yeppeun aekseseori Oh baby<br />Heureuneun jeo eumagi nae mameul seollege haji<br /><br />I feel the disco rhythm in my body<br />Dareun amugeotdo saenggakajin ma<br />Yeah baljagugeuro gadeukan mudae wie olla<br />Jayuroun momjit geu sarangseureon neukkim<br />Jeo ttabunhaetdeon haruwa ilsangeseo beoseona Oh, tonight<br /><br />Just you and I jigureul deungjigo tteoolla<br />Mamkkeot Crazy, crazy, crazy gin chumeul chwo<br />Malliji ma jigeum nae gibuneun Feel so high<br />Meolli meolli meolli da nunbusyeo<br /><br />I just wanna Dun Dun Dance<br />Dun Dun Dance, Dun Dun Dance<br />Oh baby, give me baby, give me baby, give me more<br />Nal meomchuji ma Love this song<br /><br />Just wanna Dun Dun Dance<br />Dun Du<p>Chagawotdeon biga gaein<br />Pureun haneul jeo kkeute geollin<br />Yunanhi deo seonmyeonghan mujigae bicheul bwa<br /><br />Meomchwo itdeon sigandeul sai<br />Donggeurake unneun ilgop bit<br />Nae mamsoge kkoja dun<br />Chaekgalpi gata nan<br /><br />Yeogiseo tto eodiro<br />Gaya halji moreudeon<br />Biwodun nae huin yeobaek wiro<br />Neon useumyeo son heundeureo<br /><br />Sum gappatdeon oneurui kkeute<br />Hamkkein seoroe gidae<br />Urin nuneul gamgo<br />Pyeonhi jami deulgo<br />Dasi kkumeul kkugo<br />Sueopsi dasi sijakdoel<br />Jogeumeun natseon naeildo<br />Gwaenchaneul geot gata nunbusil geot gata<br />Neowa nae mameul ieojuneun Rainbow<br /><br />Gamjeonge jeojeoseo<br />Maeumsok du gureum saie kkin<br />Neoui misoreul daleun Rainbowreul tteoollyeo<br />Ilgop gaji saekdeurui<br />Geuttaeui geu moseup geudaero<br />Hangsang geuraetdeut seoro sonjapgo ttwieo<br />Jigeum idaero<br />Jeongsineopsi dallyeowa gire kkeute bichwojin<br />Areumdaun moseupdeul gieokal su itge<br />Chaekgalpireul noa<br />Yeah nuga mworaedo sanggwaneopsi<br />Gieongnaneun daero oechyeo da<br />Looking like a blur but<br />Geuraedo fine geuttaecheoreom gieokdwaejugil<br /><br />Jinaon nae moseubi<br />Heurithaejin eoneu nal<br />Mundeuk maju bon ne moseube<br />Tto hanaui naega isseo<br /><br />Sum gappatdeon oneurui kkeute<br />Hamkkein seoroe gidae<br />Urin nuneul gamgo<br />Pyeonhi jami deulgo<br />Dasi kkumeul kkugo<br />Sueopsi dasi sijakdoel<br />Jogeumeun natseon naeildo<br />Gwaenchaneul geot gata nunbusil geot gata<br />Neowa nae mameul ieojuneun Rainbow<br /><br />Hamkke kkwo on kkumdeureun tto<br />Nugungaui kkumi dwaegago<br />Urin gateun kkumsogeuro<br /><br />I kkum ane dasi saeropge<br />Sijakdoel iyagi<br />Kkeuteopsi seolleineun page<br />Cheot munjange damgil neon<br />Naui gajang binnaneun kkum<br /><br />Hamkke mandeul chueokdeul soge<br />(Neoui kkumi doego sipdeon)<br />Ttaseuhi soneul jabeun chae<br />(Cheoeum moseup geudaero)<br />Gateun gireul geotgo<br />Gateun useum jitgo<br />(I kkumsoge fallin' fallin' fallin')<br />Gateun kkumeul kkugo<br /><br />Chagapdeon bibaram kkeute<br />(Oraen gidarimui kkeute)<br />Gyeondyeonaen modeun geotdeure<br />(Ilgop bichui kkumeuro)<br />Seumyeodeun geot gata<br />Imi bon geot gata<br />(Pyeolchyeojineun dreamin' dreamin' dreamin')<br />Deo seonmyeonghage tteooreuneun Rainbow<br /><br />Hamkke kkwo on kkumdeureun tto<br />Nugungaui kkumi dwaegago<br />Urin gateun kkumsogeuro<br />Deo seonmyeonghage tteooreuneun Rainbow</p>n Dance, Dun Dun Dance<br />Just dance, just dance<br /><br />Shining like a disco ball<br />Ppalgan High heels on the road<br />Got my eyes on you, and you got yours<br />Jeo taeyangi dasi nuntteul ttaekkaji<br /><br />Neon pyeongbeomhande mwonga dalla waenji myohan guseogi inne<br />Nan garyeojyeo inneun ge boyeo<br />Urin modu isanghae jogeumssigeun Yeah<br />Sarameul gajanghan natseon jonjaedeulcheoreom Oh baby<br /><br />Yeah nollaji ana gwaenchana jom deo gakkai wa<br />Dareun siseon ttawi da ijeobeoryeo uri<br />Neul bokjapan jeosesanggwa gidaeeseo beoseona Oh tonight<br /><br />Just you and I jigureul deungjigo tteoolla<br />Mamkkeot Crazy, crazy, crazy gin chumeul chwo<br />Malliji ma jigeum nae gibuneun Feel so high<br />Meolli meolli meolli da nunbusyeo<br /><br />I just wanna Dun Dun Dance<br />Dun Dun Dance, Dun Dun Dance<br />Oh baby, give me baby, give me baby, give me more<br />Nal meomchuji ma Love this song<br />Just wanna Dun Dun Dance, Dun Dun Dance, Dun Dun Dance<br />Just dance, just dance<br /><br />Eochapi jageun jeomil ppunya boseok gateun aiya<br />Myeot baljjak meolli tteoreojyeoseo barabomyeon dwae<br />Urin Dancing on ﬁre<br /><br />Just you and I jigureul deungjigo tteoolla<br />Mamkkeot Crazy, crazy, crazy gin chumeul chwo<br />Malliji ma jigeum nae gibuneun Feel so high<br />Meolli meolli meolli da nunbusyeo<br /><br />I just wanna Dun Dun Dance<br />Dun Dun Dance, Dun Dun Dance<br />Oh baby, give me baby, give me baby, give me more<br />Nal meomchuji ma Love this song<br /><br />Just wanna Dun Dun Dance<br />Dun Dun Dance, Dun Dun Dance<br />Just dance, just dance</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Oh My Girl",
+    "title": "Dear You (나의 봄에게)",
+    "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1yMtfHkTTx1hExgJUBp1ftyecewNzNHkz",
+    "duration": 215,
+    "lyrics": "<p>Haetsal deo meogeumgoseo jaranan saessak<br />Neon kkaeeonaryeo hae<br />Ilsang geu memallatdeon ttangeul bakkun neo<br />Nan gidaryeo wasseo<br /><br />Jogeumahan gwansimeul giullyeojumyeon<br />Neon ulchanghan supeul irul geol<br />Neul sori eopsi beotyeonaedeon sel su eomneun bamdeul<br />Ije pyeonhi bomeul bangyeojwo eoseo<br /><br />Adeukan bameul geotgo kkaeeona<br />Ije pieooreuneun ilppunya<br />Neon illeongineun bom Ah<br />Naenae illeongineun bom Ah-ah<br /><br />Haneureul maju bogo jarana<br />Nuneul ttel su eopge gowara<br />Neon illeongineun bom Ah<br />Naenae illeongineun bom Ah-ah<br /><br />Adeukan bameul geotgo kkaeeona<br />Ije pieooreuneun ilppunya<br />Neon illeongineun bom<br />Naenae illeongineun bom Ah-ah<br /><br />Haneureul maju bogo jarana<br />Nuneul ttel su eopge gowara<br />Neon illeongineun bom<br />Naenae illeongineun bom Ah-ah<br /><br />Sallang jeo barami nal bureudeon geunal<br />Nal ikkeuneun deuthae<br />Neoguna gilgae jamsi heorireul sungnyeo<br />Du nuneul matchullae<br /><br />I ttaseuhan ondoreul neukkigo jeulgyeo<br />Neon pul jugeun pyojeong an eoullyeo<br />Jeo haetsal arae geokjeongeul da teoreonaego naseo<br />Ije pyeonhi bomeul bangyeojwo eoseo<br /><br />Adeukan bameul geotgo kkaeeona<br />Ije pieooreuneun ilppunya<br />Neon illeongineun bom Ah<br />Nae illeongineun bom Ah-ah<br /><br />Haneureul maju bogo jarana<br />Nuneul ttel su eopge gowara<br />Neon illeongineun bom Ah<br />Nae illeongineun bom Ah-ah<br /><br />Adeukan bameul geotgo kkaeeona<br />Ije pieooreuneun ilppunya<br />Neon illeongineun bom Ah<br />Nae illeongineun bom Ah-ah<br /><br />Haneureul maju bogo jarana<br />Nuneul ttel su eopge gowara<br />Neon illeongineun bom Ah<br />Nae illeongineun bom Ah-ah<br /><br />Ireum eomneun jeo pulkkot modu da sojunghae neol gieokae<br />Mideojwoseo gidaryeojwoseo cham gomawo<br /><br />Adeukan bameul geotgo kkaeeona<br />Ije pieooreuneun ilppunya<br />Neon illeongineun bom<br />Nae illeongineun bom Ah-ah<br /><br />Haneureul maju bogo jarana<br />Nuneul ttel su eopge gowara<br />Neon illeongineun bom<br />Nae illeongineun bom Ah-ah<br /><br />Adeukan bameul geotgo kkaeeona<br />Ije pieooreuneun ilppunya<br />Neon illeongineun bom<br />Nae illeongineun bom<br /><br />Haneureul maju bogo jarana<br />Nuneul ttel su eopge gowara<br />Neon illeongineun bom<br />Nae illeongineun bom Ah-ah</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "Oh My Girl",
+    "title": "My Doll (나의 인형)",
+    "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1PYYVx48wo8GulUoAjikFSoWS_EHLOkl3",
+    "duration": 204,
+    "lyrics": "<p>Jeo ki jageun gyedan heorireul natchwo<br />Oreun darakbange seon<br />Nae eorin nal punggyeong goseuranhi pyeolchyeojyeo<br />Ppuyeoke sigani kyeokyeoi ssayeojin teumeuro<br />Naeryeoon meonjireul teoreonae huk<br />Neol mannage dwaesseo naui nalgeun inhyeong<br /><br />Bogiman haedo useumi heulleo<br />Saeksaegui bitkkarui binut banguldeul<br />Huhu ipbaram hamkke bureotdeon<br />Jageun sonyeo mian itgo sarasseo<br /><br />Meon geuriumi byeolcheoreom itji<br />Oh, I'm so sorry<br />Nawa kkumeseon nora<br />Ongido eopdeon guseoge noyeo<br />Nal gidaryeonni<br />Nawa kkumeseon nora<br /><br />Kkok han ppyeomssik keojineun naui kimankeum<br />Neon jagajigo<br />Nae teduri bakkeuro eoneusae neoreul<br />Mireonaesseotji<br />Waenji haruga gireotdeon<br />Ohuui nareunhaetdeon haetsare<br />Neol pume kkok aneun chae<br />Gin natjameul jadeon nae eoril jeok gieok<br /><br />Bogiman haedo useumi heulleo<br />Saeksaegui bitkkarui binut banguldeul<br />Huhu ipbaram hamkke bureotdeon<br />Jageun sonyeo mian itgo sarasseo<br /><br />Meon geuriumi byeolcheoreom itji<br />Oh, I'm so sorry<br />Nawa kkumeseon nora<br />Ongido eopdeon guseoge noyeo<br />Nal gidaryeonni<br />Nawa kkumeseon nora<br /><br />Nawa kkumeseon nora<br /><br />Begael jeoksimyeo uldeon eotteon nal<br />Du bore heureuneun nunmul majeumyeo<br />Aga ulji ma soksangnyeojudeon naui inhyeong<br /><br />Mian itgo sarasseo<br /><br />Meon geuriumi byeolcheoreom itji<br />Oh, I'm so sorry<br />Nawa kkumeseon nora<br />Ongido eopdeon guseoge noyeo<br />Nal gidaryeonni<br />Nawa kkumeseon nora<br /><br />Yeoldu sikkaji nal boreo wajwo<br />Oh, I'm so sorry<br />Annyeong kkumeseo manna<br />Tto maldo eopsi tteonaji ana<br />Neol gidarilge<br />Annyeong kkumeseo manna<br />Nawa kkumeseon nora</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "Oh My Girl",
+    "title": "Quest",
+    "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1JJrYYtjU2XCm_6NqEpFN6ePqZJomXmR3",
+    "duration": 208,
+    "lyrics": "<p>Eodingaro Down, down, OK<br />Oettangose urin deonggeureoni<br />Nan aitem eopsido<br />Sijak beoteuneul nulleo<br /><br />Gureum dwie garin jeogin eodi<br />Gunggeumhan geon chameul suga eopji<br />Neon apjangseoseo georeo<br />Nae sarangseureon raibeol<br /><br />Jageun hwabune yeppeun kkocheul simeullae<br />Igeon naege juneun misyeon gateun geo<br />Joahae nan Tulip<br />Geurigo neon Daisy<br /><br />Hanguseoge tok mureumpyoga tteumyeon<br />Nunchichaeja seoro jeil meonjeo<br />Nunbinman bwado boyeo<br />Ne songmaeumgwa gibun<br /><br />Nan musuhi geuryeonae<br />Jeongsang wiro huljjeok neowa ollagagil<br />Deo Power up, my best player<br />We can go, we can go<br /><br />Eodingaro Down, Down, OK<br />Oettangose urin deonggeureoni<br />Nan aitem eopsido<br />Sijak beoteuneul nulleo<br /><br />Gureum dwie garin jeogin eodi<br />Gunggeumhan geon chameul suga eopji<br />Neon apjangseoseo georeo<br />Nae sarangseureon raibeol<br /><br />Mareunhaneul arae georeogada kwang<br />Ibeon maebeun jom jeulgil suga eopjiman<br />Dojeonhalkka dasi<br />Hal su itji urin<br /><br />Hey, hey naega bwado yeogin eoryeopgin hae<br />Yumyeonghadadeon gongnyakbeopdo an tonghae<br />Hwaljjak unneun kaerikteo golla geurae neodapge<br />Neol boneun sungan hoeboktemi mak ssodajyeotji<br /><br />Neul allyeojuneun hinteu tto maeil chaenggyeojuneun seupgwan<br />Ttak jeokdanghan jangnangwa ginjangeun Mmm, nonstop<br />Heullyeobon geurimdo jeonghwakage bwa nan<br />Mollasseulkka neodo geu sunsuhami mugini mallya<br /><br />Nopeun goseseo (nan sorichyeo)<br />I mearin jom deo meollikkaji ullyeo peojyeogagil<br />Deo Power up, my best player<br />We can go, we can go<br /><br />Eodingaro Down, Down, OK<br />Oettangose urin deonggeureoni<br />Nan aitem eopsido<br />Sijak beoteuneul nulleo (nulleonne)<br /><br />Gureum dwie garin jeogin eodi<br />Gunggeumhan geon chameul suga eopji<br />Neon apjangseoseo georeo (apjangseoseo georeo)<br />Nae sarangseureon raibeol<br />(Nae sarangseureon raibeol raibeol)<br /><br />Da waganda jeomjeom OK<br />Kweseuteureul jeonbu kkaego nan dwi<br />I punggyeongeul deo jeulgyeo Yeah<br />I barameul deo neukkyeo (barameul deo neukkyeo)<br /><br />Dasi tto dareun keun maebi yeolliji<br />Urin gyesok himeul hapchyeoya hae<br />Jeo nopeun raengking wie<br />Uriui ireum jeogeo<br />Tto dareun sijagingeol</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "Oh My Girl",
+    "title": "Who Comes Who Knows (초대장)",
+    "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1bRAIwgeSp0b-s8FHy3WKo5mBCFJdpV-H",
+    "duration": 181,
+    "lyrics": "<p>Who comes who knows<br />Who comes who knows<br />Who comes who knows<br /><br />Nuga wajulkka ireon jogeumahan byeore<br />Jeomboda jageun geol amudo moreul geol nae ireum<br />Geurae honja nolmyeon dwae jogeum oeropgin hae<br />Hoksi nuga isseulkka jeo paran jigubyeoren<br />Sinhoreul bonae bwa nugunga deureotdamyeon<br />Baneunghae jwo Right now<br /><br />Dareun saenggimsae<br />Eomeo annyeong naui Stranger<br />Sujubeun deut geonnen son insaga jeongmal bangawo<br />Neol chodaehalge maeil Uh-uh<br />Cheot baljagugeul namgyeo<br />Dajeonghage geonnen neoui eoneol naege allyeojwo<br /><br />Eoseo chajabwa<br />Naega ttuiun bihaengseon High<br />Jeongmal yeppeosseo dosiui jeo bulbit<br />From nal allyeona hoksi<br /><br />Naman ppaego bappeun geol jogeum uljeokaejyeo<br />Yeogil ollyeobwa han beonjjeum barabwa jwo<br />Geurimeul geuryeosseo nugunga nunchichaemyeon<br />Baneunghae jwo Right now<br /><br />Dareun saenggimsae<br />Eomeo annyeong naui Stranger<br />Sujubeun deut geonnen son insaga jeongmal bangawo<br />Neol chodaehalge maeil Uh-uh<br />Cheot baljagugeul namgyeo<br />Dajeonghage geonnen neoui eoneol naege allyeojwo<br /><br />Who comes who knows<br />Who comes, Who comes who knows<br />Who comes, Who comes who knows<br />Who comes, Who comes who knows<br /><br />Nega nolleo ondamyeon<br />Jeongmal joeul tende<br />Orae geollyeodo<br />Kkok han beon chajawajwo<br />Jidoreul bonaelkka<br />Nan hangsang yeogi isseo<br /><br />Dareun saenggimsae<br />Eomeo annyeong naui Stranger<br />Sujubeun deut geonnen son insaga jeongmal bangawo<br />Neol chodaehalge maeil Uh-uh<br />Cheot baljagugeul namgyeo<br />Dajeonghage geonnen neoui eoneol naege allyeojwo<br />Bamsae neoui yaegil deullyeojwo</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "Oh My Girl",
+    "title": "Swan",
+    "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=18vu6BH4j0SWCqtlHxmGXywJkoaXL7QAn",
+    "duration": 155,
+    "lyrics": "<p>Igeon nae jageun gobaek neomu geokjeong malgo deureobwa<br />Bibarami jinago nan dwi<br />Momen sangcheo eopseo nae maeumkkajin ajik<br />Ijebuteo dulleobwayaji<br /><br />Nan jeogi guseokkkaji tto nopeun jeogotkkaji<br />Ppajimeopsi chajagayaji<br />Sel su eomneun gallimgil<br /><br />Eodiro gaya hae gil ileun daeum sungan<br />Gwitgaen janjanhan mulsoriga machimnae<br />Amudo bon jeok eopdeon bimilseureon hosu wie Inner peace<br />Padoe millyeonal pillyo eopsi<br />Nun gamgo gamanhi momeul ttuiwo deudieo<br />Amudo bon jeok eopdeon bimilseureon hosu wie Inner peace<br />Amudo bon jeok eopdeon bimilseureon hosu wie Inner peace<br /><br />Ireoseoneun beopdo heeomchineun geotdo<br />Sum chamneun beopdo mollatdeon geoya<br />Eoreunira haedo da eoseolpeun ge manchi<br />Geoteuron dadeul anin cheogeul hae<br /><br />Badakkkeuteul jipgo naseo bicheul ttara ollaga<br />Eodideun gado dwae geop eomneun aigachi<br />Eoril jeok bomureul chajanae deut machimnae<br />Amudo bon jeok eopdeon bimilseureon hosu wie Inner peace<br /><br />Padoe millyeonal pillyo eopsi<br />Nun gamgo gamanhi momeul ttuiwo deudieo<br />Amudo bon jeok eopdeon bimilseureon hosu wie Inner peace<br />Amudo bon jeok eopdeon bimilseureon hosu wie Inner peace<br />Amudo bon jeok eopdeon bimilseureon hosu wie Inner peace</p>"
   },
   {
     "id": 5,
