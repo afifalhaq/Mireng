@@ -32,211 +32,216 @@
   },
   {
     "id": 3,
+    "name_category": "After School",
+    "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/4b/Diva_cd_dvd_a.JPG/250px-Diva_cd_dvd_a.JPG"
+  },
+  {
+    "id": 4,
     "name_category": "Apink",
     "image": "https://i.pinimg.com/736x/32/43/32/324332c4b052b3cebe655d5052bca994--apink-naeun-apink-kpop.jpg"
   },
   {
-    "id": 4,
+    "id": 5,
     "name_category": "Astro",
     "image": "https://i0.wp.com/hallyumusic.com/wp-content/uploads/2020/05/ASTRO-COVER.png?fit=600%2C600&ssl=1"
   },
   {
-    "id": 5,
+    "id": 6,
     "name_category": "ATEEZ",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg"
   },
   {
-    "id": 6,
+    "id": 7,
     "name_category": "B1A4",
     "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg"
   },
   {
-    "id": 7,
+    "id": 8,
     "name_category": "BIGBANG",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg"
   },
   {
-    "id": 8,
+    "id": 9,
     "name_category": "BLACKPINK",
     "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "name_category": "Brave Girl",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/브레이브걸스_수능인사.jpg/700px-브레이브걸스_수능인사.jpg"
   },
   {
-    "id": 10,
+    "id": 11,
     "name_category": "BTS",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg"
   },
   {
-    "id": 11,
+    "id": 12,
     "name_category": "Cravity",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg"
   },
   {
-    "id": 12,
+    "id": 13,
     "name_category": "DAY6",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg"
   },
   {
-    "id": 13,
+    "id": 14,
     "name_category": "Dreamcatcher",
     "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg"
   },
   {
-    "id": 14,
+    "id": 15,
     "name_category": "ENHYPEN",
     "image": "https://www.korebu.com/wp-content/uploads/2020/10/enhypen-3-1-850x638.jpg"
   },
   {
-    "id": 15,
+    "id": 16,
     "name_category": "EVERGLOW",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg"
   },
   {
-    "id": 16,
+    "id": 17,
     "name_category": "EXO",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg"
   },
   {
-    "id": 17,
+    "id": 18,
     "name_category": "G-idle",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg"
   },
   {
-    "id": 18,
+    "id": 19,
     "name_category": "GFriend",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg"
   },
   {
-    "id": 19,
+    "id": 20,
     "name_category": "GOT7",
     "image": "https://pbs.twimg.com/profile_images/957032046836240384/NneCvaHk.jpg"
   },
   {
-    "id": 20,
+    "id": 21,
     "name_category": "iKon",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg"
   },
   {
-    "id": 21,
+    "id": 22,
     "name_category": "ITZY",
     "image": "https://1409791524.rsc.cdn77.org/data/thumbs/full/547971/650/0/0/0/itzy-wannabe-mv-3-consecutive-100-million-views.jpg"
   },
   {
-    "id": 22,
+    "id": 23,
     "name_category": "IU",
     "image": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg"
   },
   {
-    "id": 23,
+    "id": 24,
     "name_category": "IZ*ONE",
     "image": "https://i.redd.it/obceohfe3jh21.jpg"
   },
   {
-    "id": 24,
+    "id": 25,
     "name_category": "Mamamoo",
     "image": "https://www.hellokpop.com/wp-content/uploads/2016/08/20160824_mamamoo.jpg"
   },
   {
-    "id": 25,
+    "id": 26,
     "name_category": "MCND",
     "image": "https://i0.wp.com/kstationtv.com/wp-content/uploads/2019/12/MCND-2.jpg?fit=798%2C798&ssl=1"
   },
   {
-    "id": 26,
+    "id": 27,
     "name_category": "MOMOLAND",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1"
   },
   {
-    "id": 27,
+    "id": 28,
     "name_category": "MONSTA X",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg"
   },
   {
-    "id": 28,
+    "id": 29,
     "name_category": "NCT",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg"
   },
   {
-    "id": 29,
+    "id": 30,
     "name_category": "NiziU",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg"
   },
   {
-    "id": 30,
+    "id": 31,
     "name_category": "NU'EST",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg"
   },
   {
-    "id": 31,
+    "id": 32,
     "name_category": "Oh My Girl",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg"
   },
   {
-    "id": 32,
+    "id": 33,
     "name_category": "Red Velvet",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg"
   },
   {
-    "id": 33,
+    "id": 34,
     "name_category": "SECRET NUMBER",
     "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg"
   },
   {
-    "id": 34,
+    "id": 35,
     "name_category": "SEVENTEEN",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seventeen_continues_to_Rise.jpg"
   },
   {
-    "id": 35,
+    "id": 36,
     "name_category": "SF9",
     "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg"
   },
   {
-    "id": 36,
+    "id": 37,
     "name_category": "SHINee",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg"
   },
   {
-    "id": 37,
+    "id": 38,
     "name_category": "STAYC",
     "image": "https://6.viki.io/image/46e65a881e8b41f88f4ff59ac72af4bc.jpeg"
   },
   {
-    "id": 38,
+    "id": 39,
     "name_category": "Stray Kids",
     "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg"
   },
   {
-    "id": 39,
+    "id": 40,
     "name_category": "THE BOYZ",
     "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg"
   },
   {
-    "id": 40,
+    "id": 41,
     "name_category": "TREASURE",
     "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg"
   },
   {
-    "id": 41,
+    "id": 42,
     "name_category": "TWICE",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg"
   },
   {
-    "id": 42,
+    "id": 43,
     "name_category": "TXT",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg"
   },
   {
-    "id": 43,
+    "id": 44,
     "name_category": "Weeekly",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/Weeekly-Mengonfirmasi-Rencana-Untuk-Comeback-Pertama-Kali.jpeg"
   },
   {
-    "id": 44,
+    "id": 45,
     "name_category": "VICTON",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg"
   }
@@ -264,7 +269,7 @@
   {
     "id": 1,
     "name_category": "SF9",
-    "title": "|Believer| (숨)",
+    "title": "Believer (숨)",
     "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg",
     "link_mp3": "https://ia601405.us.archive.org/29/items/sf9kpop/Believer%20%28숨%29.mp3",
     "duration": 211,
@@ -305,6 +310,60 @@
     "link_mp3": "https://ia601405.us.archive.org/29/items/sf9kpop/Hey%20Hi%20Bye.mp3",
     "duration": 208,
     "lyrics": "<p>Oh I'm missing halo<br />Na neo animyeon eodikkaji<br />Tteoreojilji molla Too low<br />You and I<br />Da kkeunnandamyeon dasi geogiro K I C K it<br /><br />Hey<br />Nae mamsok maldeureul<br />Hanadulssik kkeonae bolge<br />Hi<br />Maebeon neol bol ttae seolledeon<br />Gamjeongeul gobaekae nollaji ma<br />Bye now<br />Du ru ru Kicking back again<br />Du ru ru Here we go again<br /><br />Kicking back again<br />Here we go again<br />Gieokdoego sipeo maeil<br />Neoui haru eodijjeume<br /><br />Nega mandeun sarang doge<br />Jakkujakku ppajyeodeureo<br />Jeongsini mongnonghaejyeo<br />Yuchihage deullilji mollado<br />Gojang nabeorin Love control<br />I can't wait anymore<br />So girl wait girl wait girl wait go<br />Girl ne sarangeul wonhae<br /><br />I'm singing now la la la<br />Say Hey Hi Bye<br />I'm singing now la la la<br />Say Hey Hi Bye<br />Neol ango sipeo Oh<br />Mannago sipeo Oh<br />I'm singing now la la la<br />Say Hey Hi Bye<br /><br />Ah umm umm annyeong annyeong<br />Hey Hi Bye My wine bar<br />Heunchi aneun Not a light body<br />Chatjan deun naui chakjang jjwak malkkeumhage Suit &amp; tie<br />Mudeu itge junbidoen yeopjari belteuneun naega jikjeop<br />Kkieodeulmyeon hwak chigo tangchigo tang ppang Woo<br /><br />Eomneun yonggimajeo saenggige hae<br />Nae mami ganeun daero halge<br />Neon jogeumssingman Lean on me<br />Na doege jinjihae<br />Not easy come Not easy go<br />Neoman gwaenchantamyeon Let's go<br /><br />Maneun yaegil an haedo dwae<br />Oneulbuteo 1il haja<br />Nal mitgo ttarawa bwa<br />Seonggeupage deullilji mollado<br />Gojang nabeorin Love control<br />I can't wait anymore<br />So girl wait girl wait girl wait go<br />Girl ne sarangeul wonhae<br /><br />I'm singing now la la la<br />Say Hey Hi Bye<br />I'm singing now la la la<br />Say Hey Hi Bye<br />Neol ango sipeo Oh<br />Mannago sipeo Oh<br />I'm singing now la la la<br />Say Hey Hi Bye<br /><br />Girl let's not pretend<br />We ain't a thing<br />Neorang na kodeuga matjana<br />Girl let's not pretend<br />We ain't a thing<br />Tonghaetjana neukkimi oji<br />La la la la la La la la la<br />La la la la la La la la la<br />Sarangi dagawa<br />Ne gyeote itjana Hey girl<br /><br />I'm singing now la la la<br />Say Hey Hi Bye<br />I'm singing now la la la<br />Say Hey Hi Bye<br />Neol ango sipeo Oh<br />Mannago sipeo Oh<br />I'm singing now la la la<br />Say Hey Hi Bye<br /><br />Heya hiya bye<br />Can't nobody<br />Can't nobody love you like me<br />Heya hiya bye<br />Can't nobody<br />Can't nobody do<br />You and I oh<br />Neol ango sipeo Oh<br />Mannago sipeo Oh<br />I'm singing now la la la<br />Say Hey Hi Bye</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "After School",
+    "title": "AH",
+    "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/4b/Diva_cd_dvd_a.JPG/250px-Diva_cd_dvd_a.JPG",
+    "link_mp3": "https://ia801400.us.archive.org/32/items/aftrschl/AH.mp3",
+    "duration": 229,
+    "lyrics": "<p>Ireoke duri neowa dan duri<br />Eonjena urin dalkomhan iyagilhagopa<br />Duri duri oneulbam duri<br />Saranghae uri duri duri Baby<br />[Kahi] Jal ppajin dariwa oemo neoneun naege banhaji<br />[Soyoung] Geudaereul hyanghan wingkeu hanbeon naege ppajiji<br />[Jooyeon] Ni nopeun kotdae nae mommaen eottae<br />[Jungah] Nae apeseon ni modeunge muneojigo malkkeol<br />[Kahi] Saranghanda malman malgo boyeo jugenni<br />Nado niga mame deureo chumeul chugenni<br />[Jooyeon] Neowa nan waenji jakkuman waenji<br />[Jungah] Tonghal geotman gata neoreul saranghal geot gata<br />Ireoke duri (ah) Neowa dan duri (ah)<br />Eonjena urin (ah) Dalkomhan iyagilhagopa<br />Duri (ah) duri (ah) Oneulbam duri (ah)<br />Saranghae uri duri duri Baby<br />[Kahi] Jjarbeun sigan gakkawojin uri dul sai<br />[Jungah] Geudaewa nan ije haneuri maejeojun sai<br />[Kahi] Dumal hal pillyo eobseo dagawa naege eoseo<br />Jomyeongi nareul beonjjeok bichumyeon<br />[Jungah] Geudael yuhokhaneun naenunbichi tteugeowojiji<br />Dareun namjadeureun niga neomu bureowojiji<br />[Bekah] Mareun anhaedo nan aljanha pyohyeon anhaedo da ara<br />[Jungah] Ppalgaejin ni eolguri da mareul haejujanha<br />Ireoke duri (ah) Neowa dan duri (ah)<br />Eonjena urin (ah) Dalkomhan iyagilhagopa<br />Duri (ah) duri (ah) Oneulbam duri (ah)<br />Saranghae uri duri duri Baby<br />Nanana Nanana Nanana Nanana<br />Nanana Nanana Nanana Nanana<br />Nanana Nanana Nanana Nanana<br />Nanana Nanana Nanana Nanana<br />[Kahi/Bekah] After School in the house<br />[Kahi/Bekah] Modu gachi Make it bounce<br />[Kahi/Bekah] Deureobwa jigeum naemal<br />[Kahi] Oneulbam Tonight<br />[Bekah] Da gawa mal motaetdeon yaegi<br />[Kahi] Uridulmanui jakgo jageun soksagim<br />[Bekah] Geurae neon jigeum nal neomu wonhaji<br />[Kahi] Gabyeoun geon sirheo nae moseubi<br />[Bekah] Dareun jangso After Party<br />Geokjeongma ireon nae Seutaire<br />Oneulbameun huhoeanhae<br />Nae mameul ppaeseobwa Bad Boy<br />Ireoke duri (Ah!) Neowa dan duri (Ah!)<br />Eonjena urin (Ah!) Dalkomhan iyagil<br />Hagopa duri (Ah!) Duri (Ah!)<br />Oneulbam duri (Ah!) Saranghae uri duri duri Baby</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "After School",
+    "title": "Bang!",
+    "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/4b/Diva_cd_dvd_a.JPG/250px-Diva_cd_dvd_a.JPG",
+    "link_mp3": "https://ia601400.us.archive.org/32/items/aftrschl/Bang.mp3",
+    "duration": 230,
+    "lyrics": "<p>T. R. Y Do it now Can you follow me? Yes Uh huh<br />T. R. Y Pick it up You&rsquo;ll never catch me Oh no!<br />[Kahi] Nun bushige bitnaneun nareul ttara Oh Oh Oh<br />[Raina] Gashik jeogin maldeureun biuseo beoryeo Ha Ha Ha<br />[UEE] Yeppeugiman han neoneun deo isangeun No No No<br />[Jungah] Jjarithan eumak soge deonjyeo beoryeo Bang Bang Bang<br />Urineun Oh After School Up neohuin modu bikyeora<br />Check it out da gajyeobwa Uh Huh Uh Huh Uh Huh<br />Right now Oh After School Up modu michyeora<br />Oechyeora tto ireoke Uh Huh Uh Huh Uh Huh<br />T. R. Y Do it now Can you follow me? Yes Uh huh<br />T. R. Y Pick it up You&rsquo;ll never catch me Oh no<br />[Jooyeon] Gaseum ttwineun ibameul nae maeumeun Oh Oh Oh<br />[Kahi] Bultaneun ni nun gireun nae momeul tago Ha Ha Ha<br />[Nana/Lizzy] Geochireo jin sumsori meomchujin ma No No No<br />[Jungah] Shimjangi irideumeul ttara gage kung kung kung<br />Urineun Oh After School Up neohuin modu bikyeora<br />Check it out da gajyeobwa Uh Huh Uh Huh Uh Huh<br />Right now Oh After School Up modu michyeora<br />Oechyeora tto ireoke Uh Huh Uh Huh Uh Huh<br />[Bekah] Bringin&rsquo; it to you daily it&rsquo;s only from the best<br />After School Playgirlz know how to get fresh so cool So right just so tasty<br />We bring it fast forward the fellows go crazy (Give it up Come on)<br />[Kahi] Jom deo gwagamhage boye juneun geoya neo<br />(To be raised for my life)<br />[Raina] Jomdeo teukbyeolhage chumeulchuneun geoya neo<br />(To be raised for my life)<br />[Bekah] One Two Three (To be raised for my life)<br />[Kahi] Eumage neol matgyeo jumuneul georeobwa Yeah<br />[Bekah] Crisp clean original new (Check it out)<br />Quality is what we give to you (Check it out)<br />A new generation and a whole new start (Check it out)<br />Collaboration with a brand new heart (Check it out)<br />[Raina] Jogeum deo dagawa isunganeul Catch Up Ooh Ooh Woah<br />[Bekah] On your mark set ready to go<br />Can you feel it in your body this A.S flow<br />Hey hey What you want? Let&rsquo;s go! [Raina] Yeah~<br />Urineun Oh After School Up neohuin modu bikyeora<br />Check it out da gajyeobwa Uh Huh Uh Huh Uh Huh<br />Right now Oh After School Up modu michyeora<br />Oechyeora tto ireoke Uh Huh Uh Huh Uh Huh<br />T. R. Y Do it now Can you follow me? Yes Uh huh<br />T. R. Y Pick it up You&rsquo;ll never catch me! Oh no!<br />Uh Huh Uh Huh Uh Huh! T.R.Y Do it now<br />Uh Huh Uh Huh Uh Huh! Can you follow me? Yes Uh Huh<br />Uh Huh Uh Huh Uh Huh Uh Huh Uh Huh Uh Huh</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "After School",
+    "title": "Diva",
+    "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/4b/Diva_cd_dvd_a.JPG/250px-Diva_cd_dvd_a.JPG",
+    "link_mp3": "https://ia801400.us.archive.org/32/items/aftrschl/Diva.mp3",
+    "duration": 229,
+    "lyrics": "<p>[Nana] I love my boy (Ohh yeah)<br />[Jooyeon] I love my boy (I love you my boy)<br />[Raina] I love my boy (Doo do do doo do doo do)<br />[UEE] I love my boy (I love you my boy)<br />Everybody scream!<br />Oneulbam maeilbam<br />Jakkuman niga saenggangna <br />[Raina] Naneun geudaeui Diva Diva Diva Diva<br />Oneulbam maeilbam<br />[Lizzy] Jjaritjjaritan i sungan <br />[Jungah] Naneun geudaeui Diva Diva Diva Diva<br />[Raina] Jakkuman ni saenggagi na neoui dalkomhan hyanggi <br />[Nana] Amureochi anheuncheok nan nege ppajyeobeoryeosseo<br />[Jooyeon] Chagapge mareul handaedo naneun meomchul su eobseo<br />[Jungah] Nal barabondago yaksokhae naege<br />[Kaeun] I got ni mameul yeol su inneun Master key<br />Neon naui Masterpiece <br />Duri gachi machi hwansangui Tag team<br />You know we are destiny sarangeun bul ta After this<br />Neomuna dalkomhan soksagim <br />Jjaritjjaritan Kiss so sweet<br />Boy you&rsquo;re my favorite<br />Oneulbam maeilbam<br />[E-Young] Jakkuman niga saenggangna <br />[Raina] Naneun geudaeui Diva Diva Diva Diva<br />Oneulbam maeilbam<br />[Lizzy] Jjaritjjaritan i sungan <br />[Jungah] Naneun geudaeui Diva Diva Diva Diva<br />[JungAh/UEE] Just tell me what you wanna do<br />[E-Young] Nae mameul gajyeogarago<br />[JungAh/UEE] I don&rsquo;t wanna let you go<br />[UEE] Neon naman baraborago<br />[JungAh/UEE] I just wanna get it done<br />[Jooyeon] Sarangeul mal hal georago<br />[E-Young] Apado joha niga eobsineun<br />[Jungah] Salsuga eomneunde nan<br />[Lizzy] I got big plan 4 U luv 4 U<br />I don&rsquo;t give a damn what people say<br />Uri sarangi jungyohae No matter what, you&rsquo;re my man<br />Ja kkuman jeomjeom nan beonjyeo L-O-V-E<br />Sarangiran gamjeong<br />U&rsquo;re so perfect neon naege manjeom<br />Come 2 me naege dagawajwo<br />Oneulbam maeilbam<br />Jakkuman ni saenggangna<br />[Raina] Naneun geudaeui Diva Diva Diva Diva<br />Oneulbam maeilbam<br />[Lizzy] Jjaritjjaritan i sungan <br />[Jungah] Naneun geudaeui Diva Diva Diva Diva<br />[Jungah] Oneulbam ni gyeoteseo jamdeulgoman sipeo<br />Ireonge sarangilkka jakkuman tteollyeo<br />[Raina] Ttatteutan neoui pume angigoman sipeo<br />Na ije eotteokhae neoege ppajyeonnabwa<br />Oneulbam maeilbam<br />Jakkuman ni saenggangna<br />[Raina] Naneun geudaeui Diva Diva Diva Diva<br />Oneulbam maeilbam<br />[Lizzy] Jjaritjjaritan i sungan <br />[Jungah] Naneun geudaeui Diva Diva Diva Diva<br />Oneulbam maeilbam<br />[E-Young] Jakkuman ni saenggangna<br />[Raina] Naneun geudaeui Diva Diva Diva Diva<br />Oneulbam maeilbam<br />[Lizzy] Jjaritjjaritan i sungan <br />[Jungah] Naneun geudaeui Diva Diva Diva Diva<br />[Nana] Lalalalala Lalalalala<br />Lalalalala Lalalalala<br />(Diva Diva D-D-D-Diva)</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "After School",
+    "title": "First Love",
+    "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/4b/Diva_cd_dvd_a.JPG/250px-Diva_cd_dvd_a.JPG",
+    "link_mp3": "https://ia601400.us.archive.org/32/items/aftrschl/First%20Love.mp3",
+    "duration": 225,
+    "lyrics": "<p>Get Funky Get Down Get Down Come on<br />Get Funky Get Down [Nana] Let&rsquo;s Go<br />Na Na Na Na Na Na Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na<br />[Nana] Geuttae cham eoryeotjyo naneun neoman boyeotjyo Oh<br />Amugeotdo pillyo eobseo hamkke hal su itdamyeon<br />[Lizzy] Cham manhido ssawotjyo byeolgeo anin geotdeullo<br />[Raina] Dorikyeo saenggakhaebomyeon nan useumman nawayo<br />[UEE] Gakkeum ni sosigi gunggeumhae jugeul geot gatjiman<br />[Jooyeon] Ijewa eojjeol su eomneun geureon saijanhayo<br />[E-Young] Gakkeum ni saenggagi tteoolla neomu bogo sipjiman<br />[Kaeun] Geunyang mudeodullaeyo areumdaun gieogeuro<br />[Raina] Cheossarang ijeul su eomneun naesarang<br />Waeiri apeungeongayo neoman gieokhamyeonyo<br />[Jungah] Cheossarang sorichyeo bulleo aejeolhan<br />I moksoriga neoege daheul su isseul ttaekkaji eonjena<br />Na Na Na Na Na Na Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na<br />[Kaeun] Yeoboseyo i hanmadiga eoryeowo jeonhwajocha geolji motae<br />Mianhaeyo deo jalhaejuji motae geudaega neomu antakkawo<br />[E-Young] Deoneun angil su eopgetjyo kkumsogeseojocha<br />[UEE] Dasin apeuji malgo haengbokhae geudael wihae na gidohalge<br />[Lizzy] Jinagan chueogi areungeoryeo amugeotdo hal su eobtjanha<br />[Jungah] Waeiri babo gateunji nae moseubi<br />[Raina] Cheossarang ijeul su eomneun naesarang<br />Waeiri apeungeongayo neoman gieokhamyeonyo<br />[Jungah] Cheossarang sorichyeo bulleo aejeolhan i moksoriga<br />Neoege daheul su isseul ttaekkaji eonjena<br />[Nana] Nun gamabwa jigeum i sungan nunmuri heulleo i sungan<br />[Jooyeon] Wae ireoke hansimhage ajik neoreul itji motago<br />[Raina] Eojjeol su eobsi haengbokhagil bilgeyo<br />Na Na Na Na Na Na Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na Na Na Na Na Na Na<br />Na Na Na Na Na Na Na Na</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "After School",
+    "title": "Flashback",
+    "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/4b/Diva_cd_dvd_a.JPG/250px-Diva_cd_dvd_a.JPG",
+    "link_mp3": "https://ia801400.us.archive.org/32/items/aftrschl/Flashback.mp3",
+    "duration": 228,
+    "lyrics": "<p>I can&rsquo;t wait nae maeum imi Danger<br />dashi neol boneun sungan nan Automatic<br />ireon gamjeong yeojeonhi tto On and on and on<br />dashi han sungan geuttaero Flashback<br />My love is automatic cheoncheonhi Systematic<br />baro dap naoji Tonight<br />geuttaero dagawa geudaero dorawa<br />geu moseup modu naege wa</p> <p>neomu jicheo ireoda micheo<br />nae maeum neon molla Ah ah ah<br />mameul dacheoseo nae maeumi dacheo<br />modeun geol dollyeonwa Baby</p> <p>Bo bo bo boy I miss you baby uh uh uh<br />boini neo mitgil barae<br />Bo bo bo boy I miss you baby yeah eh eh<br />nareul baraebwa naege dagawa bwa</p> <p>Come back here cheoeum gateun nal Oh<br />[Li/Ka] Come back here hanappunin Night oh</p> <p>Flashback</p> <p>Love is like geojinmarira hadeon Sister mari<br />baro ttak sarajeo Tonight<br />geudaero sarajeora cheoeumcheoreom eopseojeora<br />[Joo/Na] geojitto gipeun sangcheodo</p> <p>mameul dacheoseo nae maeumi dacheo<br />modeun geol dollyeonwa Baby</p> <p>Bo bo bo boy I miss you baby uh uh uh<br />boini neo mitgil barae<br />Bo bo bo boy I miss you baby yeah eh eh<br />nareul baraebwa naege dagawa bwa</p> <p>Oh beautiful magic naege itji<br />don&rsquo;t let me down down down down<br />Oh it&rsquo;s magical feeling neoreul mitji<br />Don&rsquo;t let me down down down, no</p> <p>dashi tto naege naege ppappappappajeodeureo Uh<br />du beonjjae sarangdo tto dashi na na na<br />deureonni nae mam deullini<br />cheoeum neukkimeuro doraga (Dance)</p> <p>I&rsquo;m in flashback<br />I&rsquo;m in flashback<br />(Come into my world now) I&rsquo;m in flashback<br />(Come into my world) I&rsquo;m in flashback<br />Baby</p> <p>Bo bo bo boy I miss you baby uh uh uh<br />boini neo mitgil barae<br />Bo bo bo boy I miss you baby yeah eh eh<br />nareul baraebwa naege dagawa bwa</p> <p>Flashback</p>"
+  },
+  {
+    "id": 1,
+    "name_category": "After School",
+    "title": "Shampoo",
+    "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/4b/Diva_cd_dvd_a.JPG/250px-Diva_cd_dvd_a.JPG",
+    "link_mp3": "https://ia801400.us.archive.org/32/items/aftrschl/Shampoo.mp3",
+    "duration": 227,
+    "lyrics": "<p>shampuga dwego shipeo<br />geudaeye meorikarage na heulleonaerimyeo<br />jiteun naye hyanggiro<br />geudaereul gamssago shipeoyo<br />dareun hyanggireul saranghaettamyeon<br />ijen jiweo beoryeoyo<br />sesange eomneun hyanggideullo<br />neol yeongweonhi neol chwihage hal kkeoya</p> <p>hokshi neo byeol byeol byeol iyuro<br />nareul seulpeuge hamyeon<br />neoye nuneul ttagapge hal kkeoya<br />hajiman byeol byeol byeol iyuro<br />nareul gippeuge hamyeon<br />on momeul da gamssa jul su isseo</p> <p>geouldo neoreul boji motage<br />hayan geopumdeullo<br />ni onmomeul da gamssa beoril kkeoya<br />amudo neoreul gatji motage<br />nareul mucheo dul kkeoya<br />nae hyanggineun jiul su eopseul kkeol</p> <p>cheoeum neol bwasseulttae<br />neoyege punggineun hyanggiga neomu shireosseo<br />jigeumkkajin da ijeo<br />ije nae hyanggiman muchillae</p> <p>ipsuri sarangeul yaegi halttaen<br />geuttaen uri sarangeun The end<br />niga naege ppajeosseulttae<br />geuttaen ilchodo neomu gireo<br />Tick tock, you talk, we talk<br />uri shiganman jakku heureugo<br />gaseumi teojil kkeonman gata<br />ireon niga miweo</p> <p>hokshi neo byeol byeol byeol iyuro<br />nareul seulpeuge hamyeon<br />neoye nuneul ttagapge hal kkeoya<br />hajiman byeol byeol byeol iyuro<br />nareul gippeuge hamyeon<br />on momeul da gamssa jul su isseo</p> <p>maeil maeil gidaryeo<br />i sunganeul saranghae<br />ni sonkkiri daeumyeon<br />urin dashi pantaji</p> <p>neoye barami bundamyeon<br />naneun barame nallyeoga<br />nunmure sshitgyeoga<br />ni gaseumeun ttullyeoga<br />ni hyanggiga dwel kkeoya<br />ppeonhan hyanggineun Goodbye<br />ppeonhan sarangdo Goodbye<br />nae hyanggiman yeongweonhi</p> <p>hokshi neo nareul apeuge hamyeon<br />nareul seulpeuge hamyeon<br />neoye nuneul ttagapge hal kkeoya<br />amudo neoreul gatji motage<br />nareul mucheo dul kkeoya<br />nae hyanggineun jiul su eopseul kkeol</p> <p>hokshi neo nareul apeuge hamyeon<br />nareul seulpeuge hamyeon<br />neoye nuneul ttagapge hal kkeoya<br />amudo neoreul gatji motage<br />nareul mucheo dul kkeoya<br />nae hyanggineun jiul su eopseul kkeol</p> <p>hajiman byeol byeol byeol iyuro<br />nareul gippeuge hamyeon<br />on momeul da gamssa jul su isseo<br />geouldo neoreul boji motage<br />hayan geopumdeullo<br />ni onmomeul da gamssa beoril kkeoya</p>"
   },
   {
     "id": 1,
