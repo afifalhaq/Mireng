@@ -1,28 +1,41 @@
-{ 
-  "items":[
-  {
-    "type": "sound",
-    "title": "Permission To Dance",
-    "streamUrl": "https://ia601401.us.archive.org/26/items/btsfullalbum/BTS%20%28방탄소년단%29%20-%20Permission%20To%20Dance.mp3",
-    "length": 190
-  },
-  {
-    "type": "sound",
-    "title": "Super Summer",
-    "streamUrl": "https://ia601407.us.archive.org/3/items/niziyu/Super%20Summer.mp3",
-    "length": 180
-  },
-  {
-    "type": "sound",
-    "title": "Dreamers",
-    "streamUrl": "https://ia601505.us.archive.org/4/items/atezkpop/Dreamer.mp3",
-    "length": 214
-  },
-  {
-    "type": "sound",
-    "title": "Drink It",
-    "streamUrl": "https://ia601408.us.archive.org/21/items/theboyz/Drink%20It.mp3",
-    "length": 207
-  }
-]
+{
+  "dedup": true,
+  "generated_in": "0.010000 s",
+  "items": [
+    {
+      "id": "1",
+      "type": "sound",
+      "title": "Permission To Dance",
+      "url": "http:\/\/tracking.feedpress.it\/link\/9711\/5770969",
+      "date": "2017-05-02T00:00:00+0000",
+      "author": "none",
+      "authorAvatarUrl": "",
+      "content": "<p>It's the thought of being young<br />When your heart's just like a drum<br />Beating louder with no way to guard it<br />When it all seems like it's wrong<br />Just sing along to Elton John<br />And to that feeling, we're just getting started<br /><br />When the nights get colder<br />And the rhythms got you falling behind<br />Just dream about that moment<br />When you look yourself right in the eye, eye, eye<br />Then you say<br /><br />I wanna dance<br />The music's got me going<br />Ain't nothing that can stop how we move, yeah<br />Let's break our plans<br />And live just like we're golden<br />And roll in like we're dancing fools<br /><br />We don't need to worry<br />'Cause when we fall, we know how to land<br />Don't need to talk the talk<br />Just walk the walk tonight<br />'Cause we don't need Permission to Dance<br /><br />There's always something that's standing in the way<br />But if you don't let it faze ya<br />You'll know just how to break<br />Just keep the right vibe, yeah<br />'Cause there's no looking back<br />There ain't no one to prove<br />We don't got this on lock, yeah<br /><br />The wait is over<br />The time is now<br />So let's do it right<br />Yeah, we'll keep going<br />And stay up until we see the sunrise<br />And we'll say<br /><br />I wanna dance<br />The music's got me going<br />Ain't nothing that can stop how we move, yeah<br />Let's break our plans<br />And live just like we're golden<br />And roll in like we're dancing fools<br /><br />We don't need to worry<br />'Cause when we fall, we know how to land<br />Don't need to talk the talk<br />Just walk the walk tonight<br />'Cause we don't need Permission to Dance<br /><br />Da-na-na-na-na-na-na<br />Da-na-na-na-na-na-na<br />Da-na-na-na-na-na-na<br />No, we don't need Permission to Dance<br /><br />Da-na-na-na-na-na-na<br />Da-na-na-na-na-na-na<br />Da-na-na-na-na-na-na<br /><br />Well, let me show ya<br />That we can keep the fire alive<br />'Cause it's not over<br />'Till it's over, say it one more time<br />Say<br /><br />I wanna dance<br />The music's got me going<br />Ain't nothing that can stop how we move, yeah<br />Let's break our plans<br />And live just like we're golden<br />And roll in like we're dancing fools<br /><br />We don't need to worry<br />'Cause when we fall, we know how to land<br />Don't need to talk the talk<br />Just walk the walk tonight<br />'Cause we don't need Permission to Dance</p>",
+      "nbcomments": 0,
+      "commentsEnabled": false,
+      "commentsUrl": "",
+      "summary": "Flight 052. The entitlement of United. The electronics ban. A new Star Wars ANA 787. A giant airport kebab. And more. \u2014 www.layovers.to\/podcast\/052-isg",
+      "thumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/314\/196\/",
+      "smallThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/157\/93\/",
+      "largeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/750\/-1\/",
+      "xLargeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/1200\/-1\/",
+      "xxLargeThumbnail": "https:\/\/back.ww-cdn.com\/resizeapi\/b9a717b07def8e5e50af12b8e85d56f4dd2506d9d955ced269682a1f6fafde65\/3200\/-1\/",
+      "images": [
+        {
+          "id": "img-layovers-58a5b06bcfd3b_jpg",
+          "url": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg",
+          "url_large": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg",
+          "originalSizeUrl": "http:\/\/static.feedpress.it\/logo\/layovers-58a5b06bcfd3b.jpg"
+        }
+      ],
+      "subtype": "podcast",
+      "purshaseUrl": "",
+      "downloadUrl": "http:\/\/tracking.feedpress.it\/link\/9711\/5770970\/320494608-layovers-052-isg.mp3",
+      "streamUrl": "https://ia601401.us.archive.org/26/items/btsfullalbum/BTS%20%28방탄소년단%29%20-%20Permission%20To%20Dance.mp3",
+      "nbFavorites": 0,
+      "length": "190"
+    }
+  ],
+  "next_page": null,
+  "stat": "ok"
 }
