@@ -1,0 +1,179 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "Categories": [
+  {
+    "id": 1,
+    "name_category": "Switch On",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/1.jpg"
+  },
+  {
+    "id": 2,
+    "name_category": "All Yours",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/2.jpg"
+  },
+  {
+    "id": 3,
+    "name_category": "Gateway",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/3.jpg"
+  },
+  {
+    "id": 4,
+    "name_category": "Blue Flame",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/4.jpg"
+  },
+  {
+    "id": 5,
+    "name_category": "Venus",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/5.jpg"
+  },
+  {
+    "id": 6,
+    "name_category": "All Light",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/6.jpg"
+  },
+  {
+    "id": 7,
+    "name_category": "Rise Up",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/7.jpg"
+  },
+  {
+    "id": 8,
+    "name_category": "Dream Part.02",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/8.jpg"
+  },
+  {
+    "id": 9,
+    "name_category": "Dream Part.01",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/9.jpg"
+  },
+  {
+    "id": 10,
+    "name_category": "Winter Dream",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/10.jpg"
+  },
+  {
+    "id": 11,
+    "name_category": "Autumn Story",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/11.jpg"
+  },
+  {
+    "id": 12,
+    "name_category": "Summer Vibes",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/12.jpg"
+  },
+  {
+    "id": 13,
+    "name_category": "Spring Up",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/13.jpg"
+  },
+  {
+    "id": 14,
+    "name_category": "Other",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/14.jpg"
+  }
+],
+
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Spring Up",
+    "title": "Hide & Seek (숨바꼭질)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/13.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1xPFsbVBIXoZ6PhsZ2QFZ6gTMBd3FxfjC",
+    "duration": 197,
+    "lyrics": "<p>Kkokkkokkkokkkok sumeora<br />Meorikarak boilla<br />Nana nabicheoreom nege naragaseo<br />Beolcheoreom byeolcheoreom nege kkothigesseo<br />Nunchichaenni beolsseo noran kkochi pyeosseo<br />Bomi wanni beolsseo ok junbiwallyo<br /><br />Sumanheun saramdeul sogeseo<br />Neo hana bakke an boyeosseo<br />Taeeonaseo cheoeumeuro<br />Nege banhaebeoryeosseo<br />Neo ttaeme tteollineun soneuro<br />Jeonghwakhi jojunhae ssogesseo<br />Yonggi naeseo<br />Gobaekhalge namjadapge neol<br /><br />Sumbakkokjil sullaegachi<br />Swipge japhijineun anchi<br />Hajiman nae nunen japhigo<br />Nan ajikdo neol jabeureo daniji<br />Mulkkeureomi siseon gangtalhaesseo<br />Neomu yeppeo chameul su eopseo fly fly<br /><br />Kkokkkok sumeora meorikarak boilla<br />Nuguboda binnal neoraseo<br />Eodideunji chajeul su isseo<br /><br />Saramdeuri mollabwado naneun<br />Ttak bomyeon alji eotteoke neol molla<br />Jubyeoneseo jel yeppeoseo jal twineun ae<br />Chajeumyeon baro geuge neoji<br />Ajik eosaekhan i neukkim silchi anha<br />Naega neukkin gamjeong geudaero pyeongsaeng<br />Idaero ganjikhago sipeo kkeutkkaji girl<br /><br />Oreuji mothan san iraedo<br />Gipilko neomeoga bogesseo<br />Chingudeuri modu an doendago mallyeodo<br />Mallimyeon deohago sipeun geol<br />Jajonsim ttaemuneun aniya<br />Soljikhage nega johaseo michigesseo<br /><br />Neon bichi naneun geol ara<br />Nunbichi dareun geot gata<br />Nuga mworadeon gane naega pandanhae<br />Neoui mamsogeuro mudanhoengdanhae<br />Mulkkeureomi siseon gangtalhaesseo<br />Neomu yeppeo chameul su eopseo fly fly<br /><br />Kkokkkok sumeora meorikarak boilla<br />Nuguboda binnal neoraseo<br />Eodideunji chajeul su isseo<br /><br />Nana nabicheoreom nege naragaseo<br />Beolcheoreom byeolcheoreom nege kkothigesseo<br />Nunchichaenni beolsseo noran kkochi pyeosseo<br />Bomi wanni beolsseo ok junbiwallyo<br /><br />Ppaljunochoparanborasaek mujigaecheoreom<br />Neoreul mannago maeilmaeiri saerowo<br />Hwolhwol jeo gureum wireul naraganda (woye)<br /><br />Nana nabicheoreom nege naragaseo<br />Beolcheoreom byeolcheoreom nege kkothigesseo<br />Nunchichaenni beolsseo noran kkochi pyeosseo<br />Bomi wanni beolsseo ok junbiwallyo<br /><br />Kkokkkok sumeora meorikarak boilla<br />Nuguboda binnal neoraseo<br />Eodideunji chajeul su isseo</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "Spring Up",
+    "title": "Innocent Love (풋사랑)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/13.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1huHuLE23V3w1kRUsTTK9pe3C4g9l_V7S",
+    "duration": 205,
+    "lyrics": "<p>Nunmuri jakku meomchuji anha<br />Cheotsarangieotjanha<br />Ibyeori seotulleotdeon iyuneun<br />Neon naye cheotsarangigi ttaemune<br />Dulmane jangsodeul mot irun yaksokdeul<br />Dashin neol bol su eopdaneun geol<br />Jal ara ara ara<br /><br />Putsarangirado ara eoryeodo apeun geon gatjanha<br />Ibyeori nasseoreotdeon geon marya<br />Neon naye cheotsarang seotulleotdeon sarang<br />Gomawotdeon sarang<br />(Hoo)<br /><br />Naega saenggakhaetdeon geotbodan deo apeugido hae<br />Uri sajincheob boda ne haengbogeul gidohae<br />Naega meonjeo saranghanda<br />Naega manhi akkindaneun mal<br />Mothaejwoseo hangsang mianhae<br />Yeomchieopneun marijiman ne ane<br />Nae moseub ajik<br />Putputhan cheot sarangeuro namgopa<br />Hago shipeun geotdo da mothan uri<br />Huhoehaedo ttokgata<br />Sseulde eopneun nunmuri ttuk ttuk ttuk ttuk<br />Tteoreojyeodo nan gwaenchanha<br />Nan kkuk kkuk kkuk kkuk chamado boijanha<br /><br />Chueogi jakku tteonaji anha<br />Cheot sarangieotjanha<br />Sarangi seotulleotdeon geol ara<br />Mianhae deo jalhaejuji mot haeseo<br /><br />Uri heeojyeodo neomaneun<br />Apeuji anhgireul nan ganjeolhi barae<br />Jebal jebal jebal<br />(Jebal)<br /><br />Putsarangirado ara eoryeodo apeun geon gatjanha<br />Ibyeori nasseoreotdeon geon marya<br />Neon naye cheotsarang seotulleotdeon sarang<br />Gomawotdeon sarang<br />(Hoo)<br /><br />Neul hamkke ulgo<br />Neul hamkke utdeon<br />Gomaun saram<br />Naye cheot sarangiya yeongwonhan sarang<br />(Woo)<br /><br />Neon naye cheotsarang (naye cheotsarang)<br />Seotulleotdeon sarang (seotulleotdeon sarang)<br />Gomawotdeon sarang haengbokhagireul<br />Kkok haengbokhaeya hae (oh)<br />Sarangbadaya hae (sarangbadgireul gidohae)<br />Shigani jinamyeon (useul su itgil)<br /><br />Chueogi dwae beorin putsarang<br />Gomawo naye cheotsarang</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "Spring Up",
+    "title": "Morning Call (모닝콜)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/13.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=166dlWxzTJLtkOudQ7X4oKtrn53J0PxIh",
+    "duration": 214,
+    "lyrics": "<p>Haru ilbunilcho<br />Meorissoge gadeuk cha issjyo<br />Deep inside my heart<br />Cheoeum bon geu sunganbuteo<br />Eotteon gose isseodo<br />I think about you<br />Eoneusaengabuteo yoksimnayo<br />Deo gakkai chinhaejigo sipeo<br />Butakhae gijeogeul baralge<br />Neoro inhae jameul kkaeneun nae achim<br />It's a miracle<br />Butakhae taeyangi bichul ttae<br />Nuneul tteumyeon deullyeooneun moksori<br />It's so beautiful<br />Hayan miso nuneul ttel su eopsjyo<br />Yonggi nae malhal geoya<br /><br />I wanna wanna take you baby<br />Maeilmaeil gidarilge<br />I wanna wanna take you baby<br />Neoreul algo sipeo<br /><br />Nuneul tteumyeon baro<br />Jeonhwagireul hwaginhae bojyo<br />Bujaejung il kkabwa<br />(Because I'm waiting for you)<br />Machim ullyeooneun bel sorie<br />Gaseumi kungkung gibuni deultteo<br />Gyesokdoeneun maraton na jichyeobeoryeodo<br />Neowa na majuhal ttaekkaji<br />Dallyeo birok meoreodo<br /><br />Butakhae gijeogeul baralge<br />Neoro inhae jameul kkaeneun nae achim<br />It's a miracle<br />Butakhae taeyangi bichul ttae<br />Nuneul tteumyeon deullyeooneun moksori<br />It's so beautiful<br />Hayan miso nuneul ttel su eopsjyo<br />Yonggi nae malhal geoya<br /><br />Jeonhwareul georeo sujupge<br />Mareul georeobone<br />Siganeul beoreo budameul<br />Jogeum deoreobone<br />Geuraedo beolleongbeolleong<br />Momeun peolleok peolleokdae<br />Johahae malhaenohgo<br />Simjang teojyeo babe<br /><br />I need your mind<br />Johahae nuguboda deo<br />Yaksokhae akkyeojul geoya<br /><br />Butakhae gijeogeul baralge<br />Neoro inhae jameul kkaeneun nae achim<br />It's a miracle<br />Butakhae taeyangi bichul ttae<br />Nuneul tteumyeon deullyeooneun moksori<br />It's so beautiful<br /><br />Yejeonen dagagagiga<br />Manyang geopnagiman haesseossjiman<br />Jigeumeun nan geuttaewaneun dalla<br />Ijeneun meonjeo dagaga<br />(Yonggi nae malhal geoya)<br />Nae jinsimi neoui maeumeul<br />Sarojabeul su issge<br /><br />I wanna wanna take you baby<br />Maeilmaeil gidarilge<br />I wanna wanna take you baby<br />Neoreul algo sipeo</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "Spring Up",
+    "title": "Cat's Eye (장화 신은 고양이)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/13.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1rIJt9kHspMOUpEu9KTKo0es4_ETR2y9Y",
+    "duration": 170,
+    "lyrics": "<p>Janghwa sineun goyangi gateun nunbit<br />Nae mam da humchyeogal geot gatjiman<br />Joha geudaeman heorakhalgeyo<br />Daeche mworeul meokgo ireohge yeppeo<br />Beautiful girl<br />Seuchineun namjadeulmada<br />Geunyang mot jinaga nun doraga<br />Pyeongbeomhan maltu soge neomchyeoheulleo aegyo<br />I will get your kiss<br />Birok maldo mot georeodo<br /><br />Byeol geo anin jangnane<br />Imi nan banjjeum neomeoganneyo<br />Oneulttara ireohge tteollineunji (uuu)<br /><br />Janghwa sineun goyangi gateun nunbit<br />Nae mam da humchyeogal geot gatjiman<br />Joha geudaeman heorakhalgeyo<br /><br />Only you<br />Geudaega yuilhajyo maldo mothaeyo<br />Only you whoo<br />I like you feelin' like feelin' like this<br /><br />Oneureun neohante sunsuhan cheok neomeogalge<br />Sumgyeowatdeon maeum ijeneun<br />Mothagesseunikka pyohyeonhalge<br />Neon nunbichi yeppeugo gwiyeowo<br />Soljikhi nan imi hollinji<br />Jom orae dwaesseo yejeonbuteo<br /><br />Cheonsa gateun misoe<br />Imi meorissogen neoppunijyo<br />Oneulttara ireohge yeppeun geonji uuu<br /><br />Janghwa sineun goyangi gateun nunbit<br />Nae mam da humchyeogal geot gatjiman<br />Joha geudaeman heorakhalgeyo<br /><br />Only you<br />Geudaega yuilhajyo maldo mothaeyo<br />Only you whoo<br />I like you feelin' like feelin' like this<br /><br />Na saenggakboda manhi sunjinhae<br />Geuraeseo buranhae<br />Neoege modeun geol ssodabusgetji<br />Amado deo gal dega<br />Eopseul ttaekkaji gagetji<br />Nan miryeon ttawi an kiwoseo<br /><br />Only you (you you just only you)<br />Geudaega yuilhajyo maldo mothaeyo<br />Only you whoo (you you just only you)<br />I like you feelin' like feelin' like this</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Summer Vibes",
+    "title": "Fireworks (불꽃놀이)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/12.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1c_w4Fh1G0PP3NL61XaIaesJr8G7V4ZlO",
+    "duration": 198,
+    "lyrics": "<p>Eodumi naerin oneul bam<br />Hoksirado bi olkka<br />Haru jongil geokjeongman hada<br />Sigani dagawassjyo<br />(Teojil geot gateun bam)<br />Haneurui bulbicceul bwayo<br />(Tteolligin hajiman)<br />Oneureul gidaryeosseoyo<br />Nareul hyanghan maeumi gunggeumhae<br />Ne useumi daesin malhaejujanha<br /><br />Bulkge muldeun bore saljjak mollae<br />Chueok hana namgyeo jugo sipeo<br />Gaseum tteollin gobaek jigeum halge<br />Neoui mame deureogago sipeo<br /><br />I can fly high make you smile<br />Jeo byeolbicheun alkka kkumman gata<br />Seolleneun neowa geotgo sip<br />Yeoreum bamui chueok<br /><br />(Banggeum mwora haessni?)<br />I bameun dasi chajaoji anha<br />Nae mal jom deureobwa<br />(Mot deutneun cheokhani?)<br />Nal hanbeon saenggakhaejwo jinsiminikka<br />Geureonikkan bwajwo dasi dorabwa<br />Bulbichi heuteojineun haneure<br />Na maengsehae son nohchiji anheulge<br /><br />Bulkge muldeun bore saljjak mollae<br />Chueok hana namgyeo jugo sipeo<br />Gaseum tteollin gobaek jigeum halge<br />Neoui mame deureogago sipeo<br /><br />I can fly high make you smile<br />Jeo byeolbicheun alkka kkumman gata<br />Seolleneun neowa geotgo sip<br />Yeoreum bamui chueok<br /><br />Morakmorak pieonaneun ttatteuthan<br />Geureon sarangi hago sipeo<br />Geotdora dora machimnae ttak<br />Chakryukhan tteusgipeun bihaenghago sipeo<br />Bam haneureul naneun gibuneul gati neul neukkigo<br />Gureumeul gareuneun jjarishan neukkimeul nanumyeon<br />Eonjena gibun joheun bulkkotnoricheoreom<br />Puspushae jigeum uricheoreom<br /><br />I can fly high make you smile<br />Jeo byeolbicheun alkka kkumman gata<br />Seolleneun neowa geotgo sip<br />Yeoreum bamui chueok<br /><br />Sigan geurigo chueok ireon ge<br />Soljikhage byeollo eopseotjiman<br />Ireohge neoreul mannago<br />Areumdaun bicceul seonmul badasseo<br />Geurigo nae maeumeun<br />Jeo byeolbicheun alkka kkumman gata<br />Seolleneun neowa geotgo sipeo<br />Yeoreum bamui chueok</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Summer Vibes",
+    "title": "Breathless (숨가빠)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/12.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=16cGF6jRUMZSuZ9C_k5t1MU1kk1clmaF1",
+    "duration": 200,
+    "lyrics": "<p>Sumgappa nega ppaeseoganeun gabwa<br />Machi kkumgata jeongsineul mot charil mankeum<br />Sumgappa sansoga bujokhanga bwa<br />Yeppeun sonyeoya naege mwon jiseul han geoya<br />Yappappa barabwabwa<br />Nappappa nareul bwabwa<br />Yappappa barabwabwa<br />Nega naui kkeutpanwang uh<br /><br />Nega nareul barabomyeon mujungryeok gata<br />Mome himi jjukjjuk ppajyeo<br />Nagabeoryeo nae uijiwa sanggwaneopseo<br />Meong ttaerige dwae<br />Seolmyeonghaejwo naege mari doege<br />Neoman bomyeon naneun barage dwae<br />Neomeogal ttaekkaji<br />Baek beon jjigeonael gagohaesseunikka<br /><br />Saenggakboda deo saechimhae boyeo<br />Maldo an dwae tto eojireowo hey<br /><br />Sumgappa nega ppaeseoganeun gabwa<br />Machi kkumgata jeongsineul mot charil mankeum<br />Sumgappa sansoga bujokhanga bwa<br />Yeppeun sonyeoya naege mwon jiseul han geoya<br /><br />Yappappa barabwabwa<br />Nappappa nareul bwabwa<br />Yappappa barabwabwa<br />Nega naui kkeutpanwang uh<br /><br />Seonggyeogi eotteonji eodieseo wassneunji<br />Gunggeumhan ge neomu manha<br />Mal hanbeon geolgiga haneurui byeolttagiji<br />Yeoksi naega injeonghan kkeutpanwang<br /><br />Neoman dagawa omyeon sumi beoltteok<br />Gappawa simhal mankeum eomcheong<br />Mabeobe geollin geoscheoreom<br />Mae sungani seolleme beokchaseo<br />Soljikhi amugeosdo an boyeo neobakke<br />Boineun geo ppaegoneun<br />Nan neobakke an boinikka<br />Naega neoman baraman bwado<br />Budameun gajji ma jinjja nae maeuminikka<br /><br />Bomyeon bolsurok eoryeowo boyeo<br />Kkomkkomhage junbihaessneunde hey<br /><br />Sumgappa nega ppaeseoganeun gabwa<br />Machi kkumgata jeongsineul mot charil mankeum<br />Sumgappa sansoga bujokhanga bwa<br />Yeppeun sonyeoya naege mwon jiseul han geoya<br /><br />Yappappa barabwabwa<br />Nappappa nareul bwabwa<br />Yappappa barabwabwa<br />Nega naui kkeutpanwang uh<br /><br />Han yeoreumindedo chuun geot gata<br />Nega nal baraboneun nunbiche<br />Bogiboda jinjja simgakhageodeun<br />Ijeneun mot igin cheok mameul yeoreojwo<br /><br />Sumgappa nega ppaeseoganeun gabwa<br />Sanso gateun neo naege neoran jonjaega<br />Swipji anhjiman hana dul jeopchokhaega<br />(Shipjineun anketjiman)<br />Sumgappa sansoga bujokhanga bwa<br />Yeppeun sonyeoya pyeongsaengeul<br />Na hanaman barabwabwa<br />Naega chaegimjilge<br />(Nag mweon jiseul han geoya)<br /><br />Yappappa barabwabwa<br />Nappappa nareul bwabwa<br />Yappappa barabwabwa<br />Nega naui kkeutpanwang uh</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "Summer Vibes",
+    "title": "Growing Pains (성장통)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/12.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1OQpNiIk-XT_5KLY0I8b3jvidYkRTPpbL",
+    "duration": 224,
+    "lyrics": "<p>Bamsaewo ureosseo cheoeum ibyeolhaeseo<br />Saenggakhan geotboda hwolssin deo manhi apasseo<br />Modeun saramdeuri ibyeolhago tto apeulkka<br />Naman geureon geolkka<br />Neomu eoryeoseo geureon geolkka<br />Sigani deo jinago nunmuldo malla gago<br />Neo eopneun harudo iksukhaejyeoga<br />Uyeonhi neol mannasseo jayeonseure useosseo<br />Jogeumeun naega eoreuni doen geolkka<br /><br />Apado chameulmanhaetdeon geon<br />Geu iyu baro neoraneun geol<br />Oneuldo na neo ttaeme<br />Ulgobulgo apahago<br />Seulpeodo useul su itneun geon<br />Geumankeum seongjanghandaneun geot<br />Ijji ma naega neoreul manhi<br />Johahaetdaneun geol<br /><br />Amuri saenggak an nandago<br />Jagi haprihwareul sikyeobwado<br />Naneun neoman saenggakhaneun geol<br />Eotteohge bomyeon harudo an ppaemeokgo<br />Neowa yeonrakhage doen geotdo<br />Naneun neobakke an boindaneun geo<br /><br />Apeuro bogo sipgo himdeulgetjiman<br />Da ijhyeojigetji hamyeo<br />Nan amureohji anheun cheok jinaegetji<br />Geureohge neoran jonjaen<br />Naege seongjangtongcheoreom apatgo<br />Nan geumankeum seongjanghago jamsi ijgetji<br /><br />Soljikhi jigeumkkaji gwaenchanheuncheokhan geoya<br />Geuraedo jogeum deo noryeokhaebolge<br />Sonjapgo geotdeon gireul na honjaseo georeoga<br />Geumankeum naega keogandaneun geolkka<br /><br />Apado chameulmanhaetdeon geon<br />Geu iyu baro neoraneun geol<br />Oneuldo na neo ttaeme<br />Ulgobulgo apahago<br />Seulpeodo useul su itneun geon<br />Geumankeum seongjanghandaneun geot<br />Ijji ma naega neoreul manhi<br />Johahaetdaneun geol<br /><br />Deo manhi jalhaejuji mothaeseo<br />Kkeutkkaji neoui gyeoteseo<br />Na jarireul jikiji mot haeseo<br />Mianhae nan haengbokhaesseo<br />Gomawo naege allyeojwoseo<br /><br />Uriga manhi eoridago<br />Swipge saenggakhaetdeon geon aniya<br />Oneuldo na neo ttaeme<br />Ulgobulgo apahago<br />Seulpeodo useul su itneun geon<br />Geumankeum seongjanghandaneun geot<br />Ijji ma naega neoreul manhi<br />Johahaetdaneun geol<br /><br />Han beonjjeum dasi doraogetji<br />Nan mideotjiman<br />Neon jakku meoreojyeo gane jeomjeom<br />Noraega kkeutnamyeon neowaui gieok<br />Aju jamsiman ijeullae<br />Ijhyeojyeo gara jeomjeom</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "Summer Vibes",
+    "title": "Polaris (복극성)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/12.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=10as0_UQq4aTVISgIHvHsaAY7MNWQahB3",
+    "duration": 202,
+    "lyrics": "<p>A.S.T.R.O<br /><br />Everyday yeppeun neoui nunen<br />Chanlanhan byeolbichi kkwak chaitjanha ara<br />Nugurado banhal geot man gata<br />Keokjeongdwae jukgesseo<br />Nae yeope ttak buteo<br />Eodubdeon gireul balkhyeo<br />Teoneol sogui hanjulgi bitcheoreom<br />Huimang gadeukhage<br /><br />Ppajyeodeulmyeon jeongsin mot charil geol<br />Ai gateun nun useum kkajido<br />Onjongil saenggaknayo<br /><br />Jakgo areumdaun neoege<br />Haejul yaegiga isseo<br /><br />Nan neol search search<br />Tto swil sae eopsi bogo sipeo<br />Hemaego isseo<br />Amuri meolli tteoreojyeo isseodo<br />Bitnaneun nega boinikka<br /><br />(I just want you)<br />(I just like you)<br />(I just love)<br />Eonjena gateun gose isseojwo<br />You are my shining star<br /><br />Haneul wie itneun jeo byeolbichi<br />Machi ne nunbit gata<br />Ije deo dareun bulbichi eopsi<br />Jal sal geot gata<br />Ttak oreuji neo hanaman nama isseumyeon<br />I sesang<br />Won eopsi neomuna balgeunikka<br />Bujokhan geon eopseo deo isang<br /><br />Amudo mollasseum jotgesseo neoran yeosin<br />Namani neoreul algo jinaesseumyeon<br />Anjeonhagetji<br /><br />Ppajyeodeulmyeon jeongsin mot charil geol<br />Lemon gateun moksorikkajido<br />Onjongil saenggaknayo<br /><br />Jakgo areumdaun neoege<br />Haejul yaegiga isseo<br /><br />Nan neol search search<br />Tto swil sae eopsi bogo sipeo<br />Hemaego isseo<br />Amuri meolli tteoreojyeo isseodo<br />Bitnaneun nega boinikka<br /><br />(I just want you)<br />(I just like you)<br />(I just love)<br />Eonjena gateun gose isseojwo<br />You are my shining star<br /><br />Neowa na dulmanui ujuyeohaeng fly high<br />Neowa na dulmanui ujuyeohaeng tteonalkka<br /><br />(Gati gallae)<br /><br />Nan neol search search<br />Tto swil sae eopsi bogo sipeo<br />Hemaego isseo<br />Amuri meolli tteoreojyeo isseodo<br />Bitnaneun nega boinikka<br /><br />(I just want you)<br />(I just like you)<br />(I just love)<br />Eonjena gateun gose isseojwo<br />You are my shining star</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "Summer Vibes",
+    "title": "My Style (내 멋대로)",
+    "image": "https://ia601502.us.archive.org/13/items/astorkpp/Image/12.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1Af8k43Jotp23jX1KKg02315HE8dHy5rK",
+    "duration": 210,
+    "lyrics": "<p>Saramdeureun hangsang naege malhaesseo<br />Neomu twiji mallago<br />Sesangeseo dwicheojigi silheumyeon<br />Eoreun mal deureurago<br />Nega kkuneun kkumdeureun<br />Amuna swipge irul su eopdago<br />Musihaneun saramdeureun jeoldaero<br />Nareul ihae mothalgeol<br />Ajik manhji anheun naijiman<br />Geop manheun nideulgwaneun dalleo<br />Mwodeunji dallyeodeuneun<br />Seupseong jeoldae mot mallyeo<br />Han sungan han gaji<br />Ttak geugeosman haneun<br />Taibinikka makji ma<br />Nae meotdaero hal tenikka<br />Neo malgo haryeoneun<br />Saramdeul neomu manha<br />Nega amuri balbeodung<br />Jugeora chyeobwatja<br />Ganeungseongi eopdaneun<br />Geu mal dasi mothage<br />Geumanduneun nae moseup barajidoma<br />Kkok nan kkeutkkaji ga<br /><br />Nae meotdaero kkumeul kkuneun ge<br />Mwoga joega dwae<br />Umuljjumul sigani heulleogabeoryeosseul ttae<br />Gamanhi neomgiji anhgesseo<br />Ijeneun nareul chajagagesseo<br />Huhoehaji anheul su itge dallyeogagesseo<br /><br />Igeosjeogeot gominman hada bomyeon<br />Neomu neujeul georago<br />Hago sipeun mankeum yeolsimhi haedo<br />Siganeun mojarago<br />Naega kkuneun kkummaneun jeoldaero<br />Swipge pogi mothan dago<br />Kkumi eopneun saramdeureun<br />Jeoldaero nareul ihae mothalgeol<br /><br />Nae meotdaero kkumeul kkuneun ge<br />Mwoga joega dwae<br />Umuljjumul sigani heulleogabeoryeosseul ttae<br />Gamanhi neomgiji anhgesseo<br />Ijeneun nareul chajagagesseo<br />Huhoehaji anheul su itge dallyeogagesseo<br /><br />Nan chajgo isseo gyesokhaeseo<br />Namgwa dareun gaeseong<br />Nugul geol ppaesjin anhgesseo<br />Namanui saekkkareul changjohaenaeeo<br />Baeun daero haneun<br />Kkokdugaksibodaneun nae meotdaero<br />Nae geosdaero chajagagesseo<br />(Nae meotdaero)<br />Ijebuteo sijagiya<br />Deo dangdanghage gogae deureo<br /><br />Nae meotdaero kkumeul kkuneun ge<br />Mwoga joega dwae<br />Umuljjumul sigani heulleogabeoryeosseul ttae<br />Gamanhi neomgiji anhgesseo<br />Ijeneun nareul chajagagesseo<br />Huhoehaji anheul su itge dallyeogagesseo<br /><br />Jasinui kkumeul pogihan<br />Sumanheun saramdeul<br />Choesangwi posikjaneun<br />Kkumeul irun saramdeul<br />Yagyukgangsik namege<br />Jaba meokhil baen<br />Nan kkeutkkaji saranama<br />Jaril jikil geoya</p>"
+  }
+]
+}
