@@ -1,0 +1,53 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "HOME": [
+    {
+      "keyword_home_fragment": "spiderman"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "Spider Black",
+      "image_url": "https://i.pinimg.com/564x/64/95/7b/64957b09a62faf2162232d5fcf579a5c.jpg"
+    },
+    {
+      "title_search": "Spider Gwen",
+      "image_url": "https://i.pinimg.com/564x/fc/9e/4a/fc9e4af61f87f647772c42b3e581c028.jpg"
+    },
+    {
+      "title_search": "Spider Verse",
+      "image_url": "https://i.pinimg.com/564x/05/6d/f4/056df4e329c1dacb9adbbd1115eb4ed5.jpg"
+    },
+    {
+      "title_search": "Spider Red",
+      "image_url": "https://i.pinimg.com/564x/51/c5/63/51c5635a5ed092479ef02999abba59cd.jpg"
+    },
+    {
+      "title_search": "Venom",
+      "image_url": "https://i.pinimg.com/564x/39/81/fc/3981fc6c89efba0b038a29feb010b323.jpg"
+    },
+    {
+      "title_search": "Spiderman",
+      "image_url": "https://i.pinimg.com/564x/3f/60/4c/3f604c0da13efeb93b6412db2ce47b6d.jpg"
+    }
+  ]
+}
