@@ -1,0 +1,45 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "",
+      "main_ads_intertitial": "",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "HOME": [
+    {
+      "keyword_home_fragment": "Black Spider"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "Black Spiderman",
+      "image_url": "https://i.pinimg.com/564x/21/d2/ad/21d2adc3e6a4fe87156afba71c180c31.jpg"
+    },
+    {
+      "title_search": "Spiderman Black",
+      "image_url": "https://i.pinimg.com/564x/76/e0/61/76e061b908c5fc3324f8c317b22760b6.jpg"
+    },
+    {
+      "title_search": "Spiderman Venom",
+      "image_url": "https://i.pinimg.com/564x/05/6d/f4/056df4e329c1dacb9adbbd1115eb4ed5.jpg"
+    },
+    {
+      "title_search": "Venom Spiderman",
+      "image_url": "https://i.pinimg.com/564x/51/c5/63/51c5635a5ed092479ef02999abba59cd.jpg"
+    }
+  ]
+}
