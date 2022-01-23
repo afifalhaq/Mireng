@@ -2,8 +2,8 @@
 "Ads": [
 {
 "select_ads": "ADMOB",
-"status_app": "1",
-"link_redirect": "https://play.google.com/store/apps/details?id=admobileapps.vancountry",
+"status_app": "0",
+"link_redirect": "",
 "admob_interid": "ca-app-pub-5011952813953789/1716637705",
 "admob_bannerid": "ca-app-pub-5011952813953789/8527805679",
 "admob_openid": "ca-app-pub-5011952813953789/1716637705",
