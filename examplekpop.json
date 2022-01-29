@@ -10242,7 +10242,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 225,
     "id": 997,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1Y_GrFbwo9FlJ96wmTQew2iuAm6IerW6z",
@@ -10252,7 +10252,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 239,
     "id": 998,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1fUON4tkiQ5WkMvBLgw8Qro2pumpqXneS",
@@ -10262,7 +10262,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 240,
     "id": 999,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1L1KdylZl_cQ8pFgYn3QP8y4rK5HVHU3_",
@@ -10272,7 +10272,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 215,
     "id": 1000,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1ORRna43sZqDl0swjEo9W1y6P3SC-8r_0",
@@ -10282,7 +10282,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 235,
     "id": 1001,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1zezZlfyFbaOPFaj1MnLTMk_USKvoLv3L",
@@ -10292,7 +10292,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 254,
     "id": 1002,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1jkfUWiX38CYDKgXCc-Bte5xuIMTiggu9",
@@ -10302,7 +10302,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 235,
     "id": 1003,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=16e-0NnS04Wr-JKGX-xcv8g_VHB5E_ejD",
@@ -10312,7 +10312,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 225,
     "id": 1004,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=11kVeNkr9mR847yRqKZv6vE8qg39gEv79",
@@ -10322,7 +10322,7 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 259,
     "id": 1005,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=108VSsz2e0unHimxtWuqeRHL1JN0e9WuN",
@@ -10332,13 +10332,23 @@
   },
   {
     "album": "Descendants of the Sun",
-    "duration": "",
+    "duration": 194,
     "id": 1006,
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=14qgNJ9XvXCall1_GVo4Ud4q4niSkP_8H",
     "lyrics": "",
     "name_category": "Yoon Mi-rae",
     "title": "Always"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": 189,
+    "id": 1007,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1mEENV-Im7K4kHNQxnnkVBqDnah5VNpdX",
+    "lyrics": "",
+    "name_category": "",
+    "title": ""
   }
 ]
 }
