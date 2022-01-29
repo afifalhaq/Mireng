@@ -10096,7 +10096,7 @@
     "id": 982,
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1tKb5zYvSEObnnH5ofgq66m424tMy2thX",
-    "lyrics": "6968025572641563224",
+    "lyrics": "",
     "name_category": "Brand New Day",
     "title": "Something Like Love"
   },
@@ -10106,7 +10106,7 @@
     "id": 983,
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1cGutv4WDLrneICivcGtUf--EQG8qKuVy",
-    "lyrics": "8819999985693084198",
+    "lyrics": "",
     "name_category": "HowL",
     "title": "Love U"
   },
@@ -10239,6 +10239,106 @@
     "lyrics": "",
     "name_category": "T-Max ft J",
     "title": "Wish You My Love"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 997,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1Y_GrFbwo9FlJ96wmTQew2iuAm6IerW6z",
+    "lyrics": "",
+    "name_category": "Davici",
+    "title": "This Love"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 998,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1fUON4tkiQ5WkMvBLgw8Qro2pumpqXneS",
+    "lyrics": "",
+    "name_category": "Gummy",
+    "title": "You Are My Everything (English version)"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 999,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1L1KdylZl_cQ8pFgYn3QP8y4rK5HVHU3_",
+    "lyrics": "",
+    "name_category": "Gummy",
+    "title": "You Are My Everything"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 1000,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1ORRna43sZqDl0swjEo9W1y6P3SC-8r_0",
+    "lyrics": "",
+    "name_category": "K.Will",
+    "title": "Talk Love"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 1001,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1zezZlfyFbaOPFaj1MnLTMk_USKvoLv3L",
+    "lyrics": "",
+    "name_category": "Kim Na-young feat. Mad Clown",
+    "title": "Once again"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 1002,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1jkfUWiX38CYDKgXCc-Bte5xuIMTiggu9",
+    "lyrics": "",
+    "name_category": "LYn",
+    "title": "With You"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 1003,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=16e-0NnS04Wr-JKGX-xcv8g_VHB5E_ejD",
+    "lyrics": "",
+    "name_category": "M.C THE MAX",
+    "title": "Wind Beneath Your"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 1004,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=11kVeNkr9mR847yRqKZv6vE8qg39gEv79",
+    "lyrics": "",
+    "name_category": "SG WANNEBE",
+    "title": "By My Side"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 1005,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=108VSsz2e0unHimxtWuqeRHL1JN0e9WuN",
+    "lyrics": "",
+    "name_category": "XIA",
+    "title": "How Can I Love You"
+  },
+  {
+    "album": "Descendants of the Sun",
+    "duration": "",
+    "id": 1006,
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=14qgNJ9XvXCall1_GVo4Ud4q4niSkP_8H",
+    "lyrics": "",
+    "name_category": "Yoon Mi-rae",
+    "title": "Always"
   }
 ]
 }
