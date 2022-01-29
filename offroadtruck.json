@@ -1,0 +1,42 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "2",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "Off Road Truck",
+      "show_category": "no"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "Lisa Blackpink",
+      "image_url": "https://fsa.zobj.net/crop.php?r=Jg4L-VYnMXVHWPQo4UdWNuzcqyYrtIYB1jqZQwMBw1sLh52BxkbpM4VXft7a69y3Ub3JiC_Do8VvXttyVXKypSPWd7alG-Zcw-vjdnDwapqhhwpY5BctIFBlKB6eWXUOOB4nTphWP-fC6OUxlXkHNtgIEuOPrn6FR_8s1B5LpJ7NUcWRJ6D-PVRG9Zo_gKfRCn3IkCrLt9KuxWJz"
+    },
+    {
+      "title_search": "Jennie Blackpink",
+      "image_url": "https://fsb.zobj.net/crop.php?r=3A7-w7PwUB6fHfDerbeB7r05HiUfhpcPJxpEJqtkG7L_2lxmsjJfImUdEeN28cb6JDx6-xELdDu1cLe-AMO2sDAAImMP-EP-xYXQB_Was2wu1bkjFs0aYMg9QOhQn_Y17QRG5va6sHlE8S4Os_hPQAGxqpk2cBHFCJnch5T94stfMF19X2kSiStF7n44yqb-IfSCTzYLVOm2haZn"
+    },
+    {
+      "title_search": "Jisoo Blackpink",
+      "image_url": "https://fsb.zobj.net/crop.php?r=07yoOc1-Fcb1wmsFj2ofIhoWkSWIv6cK8U_SfM91iCHFPsPbCGMfK6l3LHjCXP84FK8pNC41UktCH-TylxA60Io4dRyCvKV1jeRcNzxAOESU38UyBxCDdTJifls568SCrSsFgnxb_v5swQ4YaSHRFlFUbR96kiipy4Lq7ttJNhAOarr-VZjaWblKDb9nk7-DCT-JGq16wuaNi8WT"
+    },
+    {
+      "title_search": "Rosé Blackpink",
+      "image_url": "https://fsb.zobj.net/crop.php?r=Gf0hSd0TSamAXjQETngkbfsZAmtHEuzx0cNfY9_8X1eT7FppCcy3z2VC6wtupIbW9lzoRsCDS6in7Oc-oF6gG8eDSUaR9hC_J4GiMvVrTpscolhml0g-67oxHdmBwnmUvPkyZ0K6FfijVuvipsrWpTI1r2nJVlpGlVBYq2IGZLn1yLQUkgPrFaHL3XEui-x_9qrpKN1mfPuwdXHe"
+    }
+  ]
+}
