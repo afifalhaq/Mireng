@@ -27,9 +27,14 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2NE1_2009_MAMA.jpg/1200px-2NE1_2009_MAMA.jpg"
     },
     {
+      "id": 1,
+      "name_category": "AB6IX",
+      "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg"
+    },
+    {
       "id": 2,
       "name_category": "aespa",
-      "image": "https://tdkp.b-cdn.net/wp-content/uploads/2020/11/aespa-Raih-Rekor-Mengesankan-Dengan-View-Count-24-Jam-Untuk-768x512.jpeg"
+      "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg"
     },
     {
       "id": 3,
@@ -8244,7 +8249,7 @@
     "album": "",
     "duration": 300,
     "id": 797,
-    "image": "https://tdkp.b-cdn.net/wp-content/uploads/2020/11/aespa-Raih-Rekor-Mengesankan-Dengan-View-Count-24-Jam-Untuk-768x512.jpeg",
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "link_mp3": "https://ia601400.us.archive.org/2/items/espkpop/aespa%20%28에스파%29%20-%20Forever%20약속.mp3",
     "lyrics": "",
     "name_category": "aespa",
@@ -8254,7 +8259,7 @@
     "album": "",
     "duration": 205,
     "id": 798,
-    "image": "https://tdkp.b-cdn.net/wp-content/uploads/2020/11/aespa-Raih-Rekor-Mengesankan-Dengan-View-Count-24-Jam-Untuk-768x512.jpeg",
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "link_mp3": "https://ia601400.us.archive.org/2/items/espkpop/aespa%20%28에스파%29%20-%20Black%20Mamba.mp3",
     "lyrics": "",
     "name_category": "aespa",
@@ -9354,7 +9359,7 @@
     "album": "",
     "duration": 221,
     "id": 908,
-    "image": "https://tdkp.b-cdn.net/wp-content/uploads/2020/11/aespa-Raih-Rekor-Mengesankan-Dengan-View-Count-24-Jam-Untuk-768x512.jpeg",
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "link_mp3": "https://ia601400.us.archive.org/2/items/espkpop/aespa%20%28에스파%29%20-%20Next%20Level.mp3",
     "lyrics": "",
     "name_category": "aespa",
@@ -10347,8 +10352,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1mEENV-Im7K4kHNQxnnkVBqDnah5VNpdX",
     "lyrics": "",
-    "name_category": "",
-    "title": ""
+    "name_category": "Chen and Punch",
+    "title": "Everytime"
   },
   {
     "album": "Goblin",
@@ -10579,6 +10584,196 @@
     "lyrics": "",
     "name_category": "2NE1",
     "title": "Lonely"
+  },
+  {
+    "album": "",
+    "duration": 203,
+    "id": 1031,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=1",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1zHwFAAv-sJ3aB0SU2GeeLO3qfNLOEvw7",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "Be There"
+  },
+  {
+    "album": "",
+    "duration": 232,
+    "id": 1032,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=2",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1weaKA_CA2Rjr3iRqg0ApwVDHWFchX54t",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "Blind For Love"
+  },
+  {
+    "album": "",
+    "duration": 219,
+    "id": 1033,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=3",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1Z9Z9q0jq37vDikOfBBZp-KdTy0Z77Ir6",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "Close"
+  },
+  {
+    "album": "",
+    "duration": 273,
+    "id": 1034,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=4",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=103jNESH6qU2s2DXxnTDMqnCcMOou6eNX",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "Deep Inside"
+  },
+  {
+    "album": "",
+    "duration": 234,
+    "id": 1035,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=5",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1r5IT1oeJTRKzCu9kfA_pNjM6RVMjd7sB",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "Nothing Without You"
+  },
+  {
+    "album": "",
+    "duration": 211,
+    "id": 1036,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=6",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1fVjOFyzUlRcuWhRW9IOE4d4xcdGNvaov",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "Salute"
+  },
+  {
+    "album": "",
+    "duration": 209,
+    "id": 1037,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=7",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1mOA82U9HY2EdN-6vA3URq7J8OMY7_TZ8",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "Stay Young"
+  },
+  {
+    "album": "",
+    "duration": 190,
+    "id": 1038,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=8",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1X4iwYr_DhIxtvFLMsP99DxZObqiEmseN",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "The Answer"
+  },
+  {
+    "album": "",
+    "duration": 212,
+    "id": 1039,
+    "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=9",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1OCKzk3Edp7nHWfetCcvn06HdLEmnWFAW",
+    "lyrics": "",
+    "name_category": "AB6IX",
+    "title": "Fallin' (Adrenaline) (AB6IX Remix)"
+  },
+  {
+    "album": "",
+    "duration": 240,
+    "id": 1040,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1PzEFM9G_eZzCWWRDlFdmcLu02Q9bfcDj",
+    "lyrics": "",
+    "name_category": "aespa",
+    "title": "Savage"
+  },
+  {
+    "album": "",
+    "duration": 214,
+    "id": 1041,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1RUbj6e8ItgxNiu-9oLPMjfc34HtNTRGv",
+    "lyrics": "",
+    "name_category": "aespa",
+    "title": "I'll Make You Cry"
+  },
+  {
+    "album": "",
+    "duration": 147,
+    "id": 1042,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1W5zeTbNfWg8N-pdel6bZdsUBzQm-eCFf",
+    "lyrics": "",
+    "name_category": "aespa",
+    "title": "aenergy"
+  },
+  {
+    "album": "",
+    "duration": 213,
+    "id": 1043,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1GSOzF9mGN9-QtpJGNSfCnz3rJGBqf0eR",
+    "lyrics": "",
+    "name_category": "aespa",
+    "title": "YEPPI YEPPI"
+  },
+  {
+    "album": "",
+    "duration": 191,
+    "id": 1044,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1igUhP1vKZEn1kwja62Thama5Jg2osgUH",
+    "lyrics": "",
+    "name_category": "aespa",
+    "title": "ICONIC"
+  },
+  {
+    "album": "",
+    "duration": 210,
+    "id": 1045,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1nYSR0eYBSsgvKxuycmPBydJvG26CpNh",
+    "lyrics": "",
+    "name_category": "aespa",
+    "title": "Lucid Dream"
+  },
+  {
+    "album": "",
+    "duration": 203,
+    "id": 1046,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=17pOJ3TbpQsSunTwe7ycP4N0ClZyPNCec",
+    "lyrics": "",
+    "name_category": "aespa",
+    "title": "Dream Come True"
+  },
+  {
+    "album": "",
+    "duration": 210,
+    "id": 1047,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1BL19n0YX6KEeAaFnCf5uUc1HjOCTCSJL",
+    "lyrics": "",
+    "name_category": "Astro",
+    "title": "My Style"
+  },
+  {
+    "album": "",
+    "duration": 189,
+    "id": 1048,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1lwFgZiRH0yZHZtYMI2dWRlThj9_Xlmw",
+    "lyrics": "",
+    "name_category": "Astro",
+    "title": "MY ZONE"
+  },
+  {
+    "album": "",
+    "duration": 205,
+    "id": 1049,
+    "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=15I6ae-bjFobBMHi6WjmAyps7if0ts1er",
+    "lyrics": "",
+    "name_category": "Astro",
+    "title": "ONE"
   }
 ]
 }
