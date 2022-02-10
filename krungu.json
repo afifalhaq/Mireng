@@ -66,192 +66,472 @@
   },
   {
     "id": 10,
+    "name_category": "Boys Over Flower",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg"
+  },
+  {
+    "id": 11,
     "name_category": "Brave Girl",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/브레이브걸스_수능인사.jpg/700px-브레이브걸스_수능인사.jpg"
   },
   {
-    "id": 11,
+    "id": 12,
     "name_category": "BTS",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg"
   },
   {
-    "id": 12,
+    "id": 13,
     "name_category": "Cravity",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg"
   },
   {
-    "id": 13,
+    "id": 14,
     "name_category": "DAY6",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg"
   },
   {
-    "id": 14,
+    "id": 15,
+    "name_category": "Descendants of the Sun",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg"
+  },
+  {
+    "id": 16,
     "name_category": "Dreamcatcher",
     "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg"
   },
   {
-    "id": 15,
+    "id": 17,
     "name_category": "ENHYPEN",
     "image": "https://www.korebu.com/wp-content/uploads/2020/10/enhypen-3-1-850x638.jpg"
   },
   {
-    "id": 16,
+    "id": 18,
     "name_category": "EVERGLOW",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg"
   },
   {
-    "id": 17,
+    "id": 19,
     "name_category": "EXO",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg"
   },
   {
-    "id": 18,
+    "id": 20,
     "name_category": "G-idle",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg"
   },
   {
-    "id": 19,
+    "id": 21,
     "name_category": "GFriend",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg"
   },
   {
-    "id": 20,
+    "id": 22,
     "name_category": "GOT7",
     "image": "https://pbs.twimg.com/profile_images/957032046836240384/NneCvaHk.jpg"
   },
   {
-    "id": 21,
+    "id": 23,
     "name_category": "iKon",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg"
   },
   {
-    "id": 22,
+    "id": 24,
     "name_category": "ITZY",
     "image": "https://1409791524.rsc.cdn77.org/data/thumbs/full/547971/650/0/0/0/itzy-wannabe-mv-3-consecutive-100-million-views.jpg"
   },
   {
-    "id": 23,
+    "id": 25,
     "name_category": "IU",
     "image": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg"
   },
   {
-    "id": 24,
+    "id": 26,
     "name_category": "IZ*ONE",
     "image": "https://i.redd.it/obceohfe3jh21.jpg"
   },
   {
-    "id": 25,
+    "id": 27,
     "name_category": "Mamamoo",
     "image": "https://www.hellokpop.com/wp-content/uploads/2016/08/20160824_mamamoo.jpg"
   },
   {
-    "id": 26,
+    "id": 28,
     "name_category": "MCND",
     "image": "https://i0.wp.com/kstationtv.com/wp-content/uploads/2019/12/MCND-2.jpg?fit=798%2C798&ssl=1"
   },
   {
-    "id": 27,
+    "id": 29,
     "name_category": "MOMOLAND",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1"
   },
   {
-    "id": 28,
+    "id": 30,
     "name_category": "MONSTA X",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg"
   },
   {
-    "id": 29,
+    "id": 31,
     "name_category": "NCT",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg"
   },
   {
-    "id": 30,
+    "id": 32,
     "name_category": "NiziU",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg"
   },
   {
-    "id": 31,
+    "id": 33,
     "name_category": "NU'EST",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg"
   },
   {
-    "id": 32,
+    "id": 34,
     "name_category": "Oh My Girl",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg"
   },
   {
-    "id": 33,
+    "id": 35,
     "name_category": "Red Velvet",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg"
   },
   {
-    "id": 34,
+    "id": 36,
     "name_category": "SECRET NUMBER",
     "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg"
   },
   {
-    "id": 35,
+    "id": 37,
     "name_category": "SEVENTEEN",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seventeen_continues_to_Rise.jpg"
   },
   {
-    "id": 36,
+    "id": 38,
     "name_category": "SF9",
     "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg"
   },
   {
-    "id": 37,
+    "id": 39,
     "name_category": "SHINee",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg"
   },
   {
-    "id": 38,
+    "id": 40,
     "name_category": "STAYC",
     "image": "https://6.viki.io/image/46e65a881e8b41f88f4ff59ac72af4bc.jpeg"
   },
   {
-    "id": 39,
+    "id": 41,
     "name_category": "Stray Kids",
     "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg"
   },
   {
-    "id": 40,
+    "id": 42,
     "name_category": "Super Junior",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg"
   },
   {
-    "id": 41,
+    "id": 43,
     "name_category": "THE BOYZ",
     "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg"
   },
   {
-    "id": 42,
+    "id": 44,
     "name_category": "TREASURE",
     "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg"
   },
   {
-    "id": 43,
+    "id": 45,
     "name_category": "TWICE",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg"
   },
   {
-    "id": 44,
+    "id": 46,
     "name_category": "TXT",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg"
   },
   {
-    "id": 45,
-    "name_category": "Weeekly",
-    "image": "https://todaykpop.com/wp-content/uploads/2020/09/Weeekly-Mengonfirmasi-Rencana-Untuk-Comeback-Pertama-Kali.jpeg"
-  },
-  {
-    "id": 46,
+    "id": 47,
     "name_category": "VICTON",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg"
+  },
+  {
+    "id": 48,
+    "name_category": "Weeekly",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/09/Weeekly-Mengonfirmasi-Rencana-Untuk-Comeback-Pertama-Kali.jpeg"
   }
 ],
   
 "Data": [
+  {
+    "id": 1,
+    "name_category": "Descendants of the Sun",
+    "title": "Chen and Punch - Everytime",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia601504.us.archive.org/0/items/dotsost/Chen%20and%20Punch%20-%20Everytime.mp3",
+    "duration": 189,
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "Descendants of the Sun",
+    "title": "Yoon Mi-rae - Always",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia601504.us.archive.org/0/items/dotsost/Yoon%20Mi-rae%20-%20Always.mp3",
+    "duration": 194,
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "Descendants of the Sun",
+    "title": "XIA - How Can I Love You",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia801504.us.archive.org/0/items/dotsost/XIA%20-%20How%20Can%20I%20Love%20You.mp3",
+    "duration": 259,
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "Descendants of the Sun",
+    "title": "SG WANNEBE - By My Side",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia801504.us.archive.org/0/items/dotsost/SG%20WANNEBE%20-%20By%20My%20Side.mp3",
+    "duration": 225,
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "Descendants of the Sun",
+    "title": "M.C THE MAX Wind - Beneath Your",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia801504.us.archive.org/0/items/dotsost/M.C%20THE%20MAX%20-%20Wind%20Beneath%20Your.mp3",
+    "duration": 235,
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "Descendants of the Sun",
+    "title": "LYn - With You",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia801504.us.archive.org/0/items/dotsost/LYn%28린%29%20-%20With%20You.mp3",
+    "duration": 254,
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "Descendants of the Sun",
+    "title": "Kim Na-young feat. Mad Clown - Once again",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia801504.us.archive.org/0/items/dotsost/Kim%20Na-young%20feat.%20Mad%20Clown%20-%20Once%20again.mp3",
+    "duration": 235,
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "Descendants of the Sun",
+    "title": "K.Will - Talk Love",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia801504.us.archive.org/0/items/dotsost/K.Will%20-%20Talk%20Love.mp3",
+    "duration": 215,
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "Descendants of the Sun",
+    "title": "Gummy - You Are My Everything",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia801504.us.archive.org/0/items/dotsost/Gummy%20-%20You%20Are%20My%20Everything.mp3",
+    "duration": 240,
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "Descendants of the Sun",
+    "title": "Gummy - You Are My Everything (English version)",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia801504.us.archive.org/0/items/dotsost/Gummy%20-%20You%20Are%20My%20Everything%20%28English%20version%29.mp3",
+    "duration": 239,
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "Descendants of the Sun",
+    "title": "Davici - This Love",
+    "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
+    "link_mp3": "https://ia601504.us.archive.org/0/items/dotsost/Davichi%20-%20This%20Love.mp3",
+    "duration": 225,
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "Boys Over Flower",
+    "title": "T-Max ft J - Wish You My Love",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/T-Max%20feat.%20J%20-%20Wish%20Ur%20My%20Love.mp3",
+    "duration": 290,
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "Boys Over Flower",
+    "title": "T-Max - Say Yes",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/T-Max%20-%20Say%20Yes.mp3",
+    "duration": 210,
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "Boys Over Flower",
+    "title": "T-Max - Paradise",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/T-Max%20-%20Paradise.mp3",
+    "duration": 245,
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "Boys Over Flower",
+    "title": "SS501 - Making a Lover",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/SS501%20-%20Making%20A%20Lover.mp3",
+    "duration": 225,
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "Boys Over Flower",
+    "title": "SS501 - Because I'm Stupid",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/SS501%20-%20Because%20I%27m%20Stupid.mp3",
+    "duration": 258,
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "Boys Over Flower",
+    "title": "Someday - Do You Know ?",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Someday%20-%20Do%20You%20Know.mp3",
+    "duration": 252,
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "Boys Over Flower",
+    "title": "SHINee - Stand By Me",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/SHINee%20-%20Stand%20By%20Me.mp3",
+    "duration": 247,
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "Boys Over Flower",
+    "title": "Seo Jin Young - A Little",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Seo%20Jin%20Young%20-%20A%20Little.mp3",
+    "duration": 288,
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "Boys Over Flower",
+    "title": "Lee Sang Gon - With Tears",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Lee%20Sang-gon%20-%20Tears%20Are%20Falling.mp3",
+    "duration": 248,
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "Boys Over Flower",
+    "title": "Kim Yoo Kyung - Cellogic",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Kim%20Young-min%20-%20Cellogic.mp3",
+    "duration": 123,
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "Boys Over Flower",
+    "title": "Kim Yoo Kyung - Starlight Tears",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Kim%20Yoo%20Kyung%20-%20Starlight%20Tears.mp3",
+    "duration": 242,
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "Boys Over Flower",
+    "title": "KARA - Love is Fire",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Kara%20-%20Love%20Is%20Fire.mp3",
+    "duration": 232,
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "Boys Over Flower",
+    "title": "Ji Sun - What Should I Do?",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Jisun%20-%20What%20Should%20I%20Do.mp3",
+    "duration": 242,
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "Boys Over Flower",
+    "title": "HowL - Love U",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Howl%20-%20Love%20U.mp3",
+    "duration": 253,
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "Boys Over Flower",
+    "title": "Brand New Day - Something Like Love",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Brand%20New%20Day%20-%20Something%20Like%20Love.mp3",
+    "duration": 270,
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "Boys Over Flower",
+    "title": "Ashily - Lucky",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Ashily%20-%20Lucky.mp3",
+    "duration": 219,
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "Boys Over Flower",
+    "title": "T-Max ft A&T - Something Happened To My Heart",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/T-max%20ft%20A%26T%20-%20Something%20Happened%20To%20My%20Heart.mp3",
+    "duration": 222,
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "Boys Over Flower",
+    "title": "A'ST1 - Yearning Heart",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/A%27ST1%20-%20Yearning%20Heart.mp3",
+    "duration": 240,
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "Boys Over Flower",
+    "title": "Tree Bicycle - One More Time",
+    "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
+    "link_mp3": "https://ia601402.us.archive.org/2/items/ostb2F/Tree%20Bicycle%20-%20One%20More%20Time.mp3",
+    "duration": 263,
+    "lyrics": ""
+  },
   {
     "id": 1,
     "name_category": "EVERGLOW",
