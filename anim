@@ -1,0 +1,51 @@
+{
+"Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "Categories": [
+  {
+    "id": 1,
+    "name_category": "2 Cool 4 Skool",
+    "image": "https://www.pngitem.com/pimgs/m/277-2772440_transparent-bts-chibi-png-bts-jungkook-cute-chibi.png"
+  }
+  ],
+  
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Fairy Tail",
+    "title": "BACK-ON - STRIKE BACK",
+    "image": "https://cdn.wallpapersafari.com/22/5/WuxqA9.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=125HFbz6ysQ1U9Fmck_MYQzIXNo88huU7",
+    "duration": 229,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Fairy Tail",
+    "title": "BoA - MASAYUME CHASING",
+    "image": "https://cdn.wallpapersafari.com/22/5/WuxqA9.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1wMg4s1_eDNBZZ5_UYrsUFK-rcXkLCFct",
+    "duration": 220,
+    "lyrics": ""
+  }
+]
+}
