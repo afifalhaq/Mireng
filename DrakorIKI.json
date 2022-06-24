@@ -1,13 +1,11 @@
 {
 
   "ADS": [
-
     {
-	  
     "select_main_ads": "ADMOB",
     "select_backup_ads": "",
-	  
-	  "initialize_sdk": "",
+    
+    "initialize_sdk": "",
     "initialize_sdk_backup": "",
 
     "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -21,9 +19,9 @@
 
     "main_ads_reward": "ca-app-pub-3940256099942544/5224354917",
     "backup_ads_reward": "",
-	  
+    
     "interstitial_counter": "3",
-	  "high_paying_keyword_1": "",
+    "high_paying_keyword_1": "",
     "high_paying_keyword_2": "",
     "high_paying_keyword_3": "",
     "high_paying_keyword_4": "",
@@ -32,8 +30,8 @@
 
     "status_app": "0",
     "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
-    "show_fake_home": "1",
-	  "config": "aHR0cHM6Ly9kYXNoZHJha29yLm15LmlkL2FwaS8="
+    "show_fake_home": "0",
+    "config": "aHR0cHM6Ly9kYXNoZHJha29yLm15LmlkL2FwaS8="
 
     }
   ],
