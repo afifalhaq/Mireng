@@ -2,7 +2,7 @@
 
   "ADS": [
     {
-    "select_main_ads": "",
+    "select_main_ads": "ADMOB",
     "select_backup_ads": "",
     
     "initialize_sdk": "",
@@ -26,7 +26,7 @@
     "high_paying_keyword_3": "",
     "high_paying_keyword_4": "",
     "high_paying_keyword_5": "",
-    "timer_ads": "500000",
+    "timer_ads": "600000",
 
     "status_app": "0",
     "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
