@@ -46,6 +46,33 @@
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1wMg4s1_eDNBZZ5_UYrsUFK-rcXkLCFct",
     "duration": 220,
     "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "One Piece",
+    "title": "Hikari E - The Babystars",
+    "image": "https://de7i3bh7bgh0d.cloudfront.net/2020/12/16/19/13/55/4ad5124b-87e7-4a0c-9920-04b98fd32181/OnePiece1000ChapterFinal.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1naPGRH91CfTEU5lTqZ1UYOEOQnWIkIb0",
+    "duration": 224,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "One Piece",
+    "title": "Believe - Folder5",
+    "image": "https://de7i3bh7bgh0d.cloudfront.net/2020/12/16/19/13/55/4ad5124b-87e7-4a0c-9920-04b98fd32181/OnePiece1000ChapterFinal.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1Plbbi68mfcAfOj0kv_fYQr2eEAPRonrX",
+    "duration": 230,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "BRAND NEW STARS!! - ES All Stars",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=10KDreusq8mswfCr85zbTw2i3SzswtSDO",
+    "duration": 302,
+    "lyrics": ""
   }
 ]
 }
