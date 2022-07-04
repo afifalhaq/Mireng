@@ -28,9 +28,9 @@
     "high_paying_keyword_5": "",
     "timer_ads": "600000",
 
-    "status_app": "1",
+    "status_app": "0",
     "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
-    "show_fake_home": "0",
+    "show_fake_home": "1",
     "config": "aHR0cHM6Ly9kYXNoZHJha29yLm15LmlkL2FwaS8="
 
     }
