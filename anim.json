@@ -23,12 +23,198 @@
   "Categories": [
   {
     "id": 1,
+    "name_category": "Ensemble Star",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png"
+  },
+  {
+    "id": 2,
+    "name_category": "One Piece",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a7053041-484b-414d-ab38-03bea0325148/d95icw6-71a1a919-3b7e-4821-a09d-e20af9d7f680.png"
+  },
+  {
+    "id": 3,
     "name_category": "Fairy Tail",
-    "image": "https://3.bp.blogspot.com/-2jiW1e9JVWM/UOqYkf-i7tI/AAAAAAAAAJ0/gdL5mfPllYM/s1600/Fairy-tail-characters-usuitakumi77-31777712-1500-1500.jpg"
+    "image": "https://www.pixel-creation.com/wp-content/uploads/fairy-tail-fond-decran-and-arriere-plan-1280x800-id301649-800x800.jpg"
+  },
+  {
+    "id": 4,
+    "name_category": "Bleach",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d738a30f-5ac0-491a-a2a7-2e6d26d20b6c/d6irs6k-fe93b3b0-e386-4730-b750-5533633119d1.png"
   }
-  ],
+],
   
   "Data": [
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "BRAND NEW STARS!! - ES All Stars",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=10KDreusq8mswfCr85zbTw2i3SzswtSDO",
+    "duration": 282,
+    "lyrics": "<pre>Yume ga kasanaru<br />Uta ga umareru<br />Atarashii suteeji e<br />Ensemble Stars!! GO!!<br /><br /><br />Tsunagatte hajimete<br />Uta datte wakatta<br />Unmei no fureezu<br />Fuzoroi ni matataku<br />Rizumu wo kette<br />Hoshi wo tsukamou<br /><br /><br />Tobikomun da hajimari no sora<br />Omou mama<br />(Hey!)<br />Irodotte<br />(Hey!)<br />Ensemble Stars!!<br />(Yeah!!)<br />Mugen no kanousei de<br />Hashiridasu matta nashi no<br />Seishun no kodou<br /><br /><br />Hitori hitori ga kagayakeru basho mitsuketa iro wa onrii wan<br />(Shine on the stage)<br />Hikari to hikari ga deatte kasoku suru mabushisa e<br />(tsugi no mabushisa e)<br />Yume ga kasanaru uta ga umareru hibikasetai ne Brand-new Beat<br />(So wonder beat)<br />Mirai wo sagashi ni ikun da atarashii suteeji e!<br /><br /><br />Kitto tokubetsu na<br />Jounetsu dakara<br />Kyou made koreta<br />(Step by Step YES!!)<br />Motto tooku made<br />Mezashite ii yo ne<br />Hoshi ni narun da<br /><br /><br />Kodomo jimita akogare wa mou<br />Jinsei wo<br />(Hey!)<br />Kaeru you na<br />(Hey!)<br />Ensemble Stars!!<br />(Yeah!!)<br />Doko made mo oikakete<br />Mada daremo mita koto nai<br />Densetsu no saki wo egakou<br /><br /><br />Hitotsu hitotsu ga kiseki mitai ni mugen no iro wo hanatsu<br />(Shine on the stage)<br />Hikare au hikari no yukue tsugi no sora ga matteru<br />(mirai ga matteru)<br />Yume ga hirogaru uta ga afureru kanadeau tabi Brand-new Beat<br />(So wonder beat)<br />Chousen wa tomaranain da owaranai suteeji e!<br /><br /><br />Let&rsquo;s sing a song,<br />It&rsquo;s starry dream,<br />Shine on the stage,<br />Issho ni tsukurou<br />Let&rsquo;s sing a song,<br />It&rsquo;s joyful live,<br />Saa koko kara<br />Ensemble Stars!! Yeah!!<br /><br /><br />Hitori hitori ga kagayakeru basho<br />Mitsuketa iro wa onrii wan<br />Hikari to hikari ga deatte<br />Kasoku suru mabushisa e<br /><br /><br />Hitotsu hitotsu ga kiseki mitai ni mugen no iro wo hanatsu<br />(Shine on the stage)<br />Hikare au hikari no yukue tsugi no sora ga matteru<br />(mirai ga matteru)<br />Yume ga hirogaru uta ga afureru kanadeau tabi Brand-new Beat<br />(So wonder beat)<br />Chousen wa tomaranain da<br />Sekaijuu ni<br />Hibikase ni ikou<br />Owaranai suteeji e!<br /><br /><br />Hibike ansanburu deau hikari mita koto nai azayaka na iro de<br />Todoke ansanburu tsuzuite iku unmei no fureezu<br /><br />Source: https://www.lyrical-nonsense.com/global/lyrics/es-all-stars/brand-new-stars/</pre>"
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "ONLY YOUR STARS! - Trickstar",
+    "image": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1d/Main_Page_Trickstar_1st_Anniversary_Render.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1hti8B7DAuOtBb159u7MP3PAdLQS6GV_S",
+    "duration": 224,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Stars' Ensemble! - Yumenosaki Dream Stars",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=177j44u3U_jSqoc5qv-0knSiQpDmlJXyU",
+    "duration": 236,
+    "lyrics": "<pre>Sakasetai! (oretachi no yume)<br />Kanadetai! (ansanburu wo)<br />Mabushii kurai kagayaki wo hanatte yukou<br />Hoshi no hikari no you ni<br /><br /><br />Wow&hellip; hashiridasou Wow&hellip; yume no saki e!<br />Let&rsquo;s make new days. Here we go!<br /><br /><br />Uta ni natta kanjou ga afurete ittan da<br />(Wow Wow)<br />Mezashiteiru mirai e mukete<br />(kitto, todokaseru kara)<br />Jibun wo shinjinakya hajimaranain darou<br />(kono sutoorii wa)<br />Daita omoi, hibikaseatteiru<br />(We are)<br /><br /><br />Butsukariau tabi, tsuyoku naru<br />Sore wa kitto<br />Kizuna da tte&hellip;<br />Mitsumete kureteiru sono egao ga<br />Kotae wo<br />Kureru kara<br /><br /><br />Tsutaetai! (mune no kodou wo)<br />Tsunagetai! (atsui merodii)<br />Nozomu ashita ga hoshii nara<br />Atarashii sekai e to kaete yukou<br />We are singing shining song for you.<br />Mabushii kurai kagayaku no sa Stars&rsquo; Ensemble!<br />Seishun tte suteeji de<br /><br /><br />Wow&hellip; Wow&hellip;<br />Let&rsquo;s make new days. Here we go!<br /><br /><br />Kosei ga atsumatte katachi ni nattan da<br />(Wow Wow)<br />Egakitai mirai motomete<br />(kitto, doko ni itatte)<br />Majiwaranai oto mo imi ga arun darou<br />(kono myuujikku)<br />Kikasetai, dareka ga iru no nara<br />(We are)<br /><br /><br />Kokoro wo takushite okuru mono<br />Sore wa kitto<br />Kizuna da tte&hellip;<br />Te wo totte oshiete kureta egao ga<br />Michibiku<br />Hoshi ni narou<br /><br /><br />Kakagetai! (oretachi no kibou)<br />Kanaetai! (hontou no negai)<br />Nozomu ashita ga hoshii kara<br />Akirameru koto nante arienai no sa<br />We are singing shining song for you.<br />Nandodatte kagayakeru yo Stars&rsquo; Ensemble!<br />Seishun tte suteeji de<br /><br /><br />Atsui messeiji<br />Tewatashitain da<br />Yasashii<br />Mahou<br />Kasanatteku<br /><br /><br />Saa, tobou yo!<br />Tsurete yuku no sa<br />Risou<br />Motome<br />Tsukuru<br />Kirakira no<br />&ldquo;suteeji&rdquo; kimi no tame ni!<br /><br /><br />Osaekirenai kanjou<br />Hitorihitori ga motteiru<br />Karaa de egakidasou<br /><br /><br />Sakasetai! (oretachi no yume)<br />Kanadetai! (ansanburu wo)<br />Nozomu ashita no mukou ni wa<br />Atarashii sekai ga ne, matteiru no sa<br />We can sing shining song for you.<br />Mabushii kurai kagayaku no sa Stars&rsquo; Ensemble!<br />Hoshi no hikari no you ni<br /><br />Source: https://www.lyrical-nonsense.com/global/lyrics/yumenosaki-dream-stars/stars-ensemble/</pre>"
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Kiss Of Life - ALKALOID",
+    "image": "https://p2.music.126.net/_yDINoVNzB4585s6wgrvxA==/109951164795509816.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1G44Bj89lCwsv_omlJ_IZhaQR8jo0ui0t",
+    "duration": 288,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Rebellion Star - Trickstar",
+    "image": "http://vignette2.wikia.nocookie.net/ensemble-stars/images/1/1d/Main_Page_Trickstar_1st_Anniversary_Render.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1bIsJo4Brj_cIdMVd7XNFKOswVJhkYdJ1",
+    "duration": 255,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Kangei☆2wink Zatsugidan - 2wink",
+    "image": "https://vignette.wikia.nocookie.net/ensemble-stars/images/2/27/2wink_Unit_Song_CD.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1OXXYKlRBK6CiRb0wQtdz9dm7KXTHJwKE",
+    "duration": 260,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Melody in the Dark - UNDEAD",
+    "image": "https://i1.sndcdn.com/artworks-000146218804-0alpep-t500x500.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=15d576tsstQ211_9IGRJ9i_dj9NqchlY8",
+    "duration": 264,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Miwaku Geki - Valkyrie",
+    "image": "https://c-cl.cdn.smule.com/rs-s71/arr/12/c8/df2e4e75-104a-484e-b4c7-d1f578c4958f_1024.jpg",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1LU1--yesZICfjtY5qjlbHw2qbUWpKqlp",
+    "duration": 244,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Blooming World - MaM",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1liNFL53Ao3S3J-pnFTD1AfoS0KEcwcKU",
+    "duration": 260,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Voice of Sword - Knights",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=16IoW-lILY42Gpfk2FuBS3Bz5SIKLaEW5",
+    "duration": 287,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Owaranai Symphonia - fine",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1bkhnEudFxm8KA1rIiLKPcOp_MiGhIpOX",
+    "duration": 249,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Temptation Magic - Switch",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1XEcbjNH3pzIne2q_2R5R1VRGcevLG0De",
+    "duration": 329,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Hyakka Ryouran, Akatsukiyo - AKATSUKI",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1N9RZJ4XuOPHnQKawiqnc4RvN7EN7IMAE",
+    "duration": 262,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Joyful×Box* - Ra*bits",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1bWqPQyDloQ2vUtU9QhVLU_BW2KzgYS-r",
+    "duration": 309,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Tenka Muteki☆Meteorangers! - Ryuseitai",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1tRYeNV32Y5fkcQZ0-pF3gf-7IAyps6El",
+    "duration": 264,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "THE GENESIS - Eden",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1xn3OB9ISO_-so7lOGsGAnIYOnyDUYCQ0",
+    "duration": 247,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Crazy Roulette - Crazy:B",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1noUcFVxAU6kAN2_Y5RUjd0owW4RTPD3-",
+    "duration": 251,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Holy Angel's Carol - fine",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=19Ak8HOA7pij4Z1wnnPJ3bBTOe3m56ydo",
+    "duration": 223,
+    "lyrics": ""
+  },
+  {
+    "id": 1,
+    "name_category": "Ensemble Stars",
+    "title": "Love Ra*bits Party!! - Ra*bits",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
+    "link_mp3": "http://docs.google.com/uc?xport=download&id=1zm4uo_5YfQG4mtRNvmYS_x4eGMkDc-zU",
+    "duration": 258,
+    "lyrics": ""
+  },
   {
     "id": 1,
     "name_category": "Fairy Tail",
@@ -63,15 +249,6 @@
     "image": "https://de7i3bh7bgh0d.cloudfront.net/2020/12/16/19/13/55/4ad5124b-87e7-4a0c-9920-04b98fd32181/OnePiece1000ChapterFinal.jpg",
     "link_mp3": "http://docs.google.com/uc?xport=download&id=1Plbbi68mfcAfOj0kv_fYQr2eEAPRonrX",
     "duration": 230,
-    "lyrics": ""
-  },
-  {
-    "id": 1,
-    "name_category": "Ensemble Stars",
-    "title": "BRAND NEW STARS!! - ES All Stars",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/ensemble_stars.png",
-    "link_mp3": "http://docs.google.com/uc?xport=download&id=10KDreusq8mswfCr85zbTw2i3SzswtSDO",
-    "duration": 302,
     "lyrics": ""
   }
 ]
