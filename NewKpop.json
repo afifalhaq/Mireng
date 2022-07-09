@@ -29,11 +29,20 @@
   {
     "id": 1,
     "album": "",
+    "artist": "J-Hope",
+    "duration": "3:00",
+    "image": "https://pm1.narvii.com/6363/c539f350fca2b6e6d55a21203960188dfb810c35_hq.jpg",
+    "title": "Hope",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/J-Hope/J-Hope%20-%20Hope.mp3"
+  },
+  {
+    "id": 1,
+    "album": "",
     "artist": "NAEYON",
     "duration": "2:50",
     "image": "https://vignette.wikia.nocookie.net/twicenation/images/8/8d/Happy_Happy_Nayeon_Profile.jpg",
     "title": "POP!",
-    "url": "http://docs.google.com/uc?xport=download&id=14oZ-5ZTnKWlkrgXLRXqRweGix_4aLQcK"
+    "url": "https://ia601409.us.archive.org/3/items/nynnop/NAYEON%20-%20POP%21.mp3"
   },
   {
     "id": 2,
@@ -42,14 +51,14 @@
     "duration": "3:16",
     "image": "https://vignette.wikia.nocookie.net/twicenation/images/8/8d/Happy_Happy_Nayeon_Profile.jpg",
     "title": "NO PROBLEM",
-    "url": "https://ia601409.us.archive.org/3/items/nynnop/NAYEON%20-%20POP%21.mp3"
+    "url": "https://ia601409.us.archive.org/3/items/nynnop/NAYEON%20-%20NO%20PROBLEM.mp3"
   },
   {
     "id": 3,
     "album": "",
     "artist": "ENHYPEN",
     "duration": "3:00",
-    "image": "https://headlineplanet.com/home/wp-content/uploads/2020/09/Enhyphen-Photo.jpg",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Future Perfect (Pass the MIC)",
     "url": "https://ia902203.us.archive.org/12/items/enhy_n/ENHYPEN%20-%20Future%20Perfect%20%28Pass%20the%20MIC%29.mp3"
   },
@@ -58,7 +67,7 @@
     "album": "",
     "artist": "ENHYPEN",
     "duration": "3:48",
-    "image": "https://headlineplanet.com/home/wp-content/uploads/2020/09/Enhyphen-Photo.jpg",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "SHOUT OUT",
     "url": "https://ia802203.us.archive.org/12/items/enhy_n/ENHYPEN%20-%20SHOUT%20OUT.mp3"
   },
@@ -67,7 +76,7 @@
     "album": "",
     "artist": "ENHYPEN",
     "duration": "3:07",
-    "image": "https://headlineplanet.com/home/wp-content/uploads/2020/09/Enhyphen-Photo.jpg",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "ParadoXXX Invasion",
     "url": "https://ia902203.us.archive.org/12/items/enhy_n/ENHYPEN%20-%20ParadoXXX%20Invasion.mp3"
   },
@@ -76,7 +85,7 @@
     "album": "",
     "artist": "ENHYPEN",
     "duration": "3:17",
-    "image": "https://headlineplanet.com/home/wp-content/uploads/2020/09/Enhyphen-Photo.jpg",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "TFW (That Feeling When)",
     "url": "https://ia902203.us.archive.org/12/items/enhy_n/ENHYPEN%20-%20TFW%20%28That%20Feeling%20When%29.mp3"
   },
