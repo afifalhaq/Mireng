@@ -65,6 +65,15 @@
   {
     "id": 1,
     "album": "",
+    "artist": "Charlie Puth",
+    "duration": "2:39",
+    "image": "https://a10.gaanacdn.com/gn_img/albums/9MAWe97WyJ/AWe9RA8qWy/size_l.jpg",
+    "title": "Left And Right (Feat Jung Kook BTS)",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/Charlie%20Puth%20-%20Left%20And%20Right%20%28Feat%20Jung%20Kook%20BTS%29.mp3"
+  },
+  {
+    "id": 1,
+    "album": "",
     "artist": "ENHYPEN",
     "duration": "3:48",
     "image": "https://headlineplanet.com/home/wp-content/uploads/2020/09/Enhyphen-Photo.jpg",
@@ -115,6 +124,24 @@
     "image": "https://cornytube.com/wp-content/uploads/2021/02/Aespa-Members-Tour-Information-Facts-Music-Info-Interesting-Trivia.jpg",
     "title": "ZOO",
     "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20ft%20NCT%20-%20Zoo.mp3"
+  },
+  {
+    "id": 1,
+    "album": "",
+    "artist": "Stray Kids",
+    "duration": "3:14",
+    "image": "https://i.pinimg.com/736x/b9/93/68/b9936851add351f4b20d53152aac2b80.jpg",
+    "title": "CIRCUS",
+    "url": "https://ia902304.us.archive.org/23/items/straykidskpop/Stray%20Kids%20-%20CIRCUS.mp3"
+  },
+  {
+    "id": 1,
+    "album": "",
+    "artist": "Stray Kids",
+    "duration": "3:15",
+    "image": "https://i.pinimg.com/736x/b9/93/68/b9936851add351f4b20d53152aac2b80.jpg",
+    "title": "VENOM",
+    "url": "https://ia902304.us.archive.org/23/items/straykidskpop/Stray%20Kids%20-%20VENOM.mp3"
   },
   {
     "id": 1,
@@ -1704,10 +1731,10 @@
     "id": 1,
     "album": "",
     "artist": "Stray Kids",
-    "duration": 211,
+    "duration": "3:31",
     "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg",
     "title": "Mixtape: OH (애)",
-    "url": "http://docs.google.com/uc?xport=download&id=1sTWl8FHSTmh1rzaWokkHar42XqAW11VA"
+    "url": "https://ia902304.us.archive.org/23/items/straykidskpop/Stray%20Kids%20-%20Mixtape%20OH%20%28%EC%95%A0%29.mp3"
   },
   {
     "id": 1,
@@ -6726,19 +6753,19 @@
     "id": 1,
     "album": "",
     "artist": "Stray Kids",
-    "duration": 95,
+    "duration": "1:35",
     "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg",
     "title": "Road Not Taken (밟힌 적 없는 길)",
-    "url": "http://docs.google.com/uc?xport=download&id=1VvbZnypq4Lu4F0ZEJvAkjVw1hz90Sfx0"
+    "url": "https://ia902304.us.archive.org/23/items/straykidskpop/Stray%20Kids%20-%20Road%20Not%20Taken.mp3"
   },
   {
     "id": 1,
     "album": "",
     "artist": "Stray Kids",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg",
     "title": "TMT (별생각)",
-    "url": "http://docs.google.com/uc?xport=download&id=1VQI8pIuYDtvCWfTX1bpN3BPZat63Qadx"
+    "url": "https://ia902304.us.archive.org/23/items/straykidskpop/Stray%20Kids%20-%20TMT.mp3"
   },
   {
     "id": 1,
