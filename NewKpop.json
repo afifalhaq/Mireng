@@ -27,6 +27,15 @@
 
   "DATA": [
   {
+    "id": 1179,
+    "album": "",
+    "artist": "J-Hope",
+    "duration": "2:40",
+    "image": "https://pm1.narvii.com/6363/c539f350fca2b6e6d55a21203960188dfb810c35_hq.jpg",
+    "title": "Arson",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/J-Hope%20-%20Arson.mp3"
+  },
+  {
     "id": 1,
     "album": "",
     "artist": "aespa",
@@ -354,7 +363,7 @@
     "id": 37,
     "album": "",
     "artist": "STAYC",
-    "duration": 274,
+    "duration": "4:34",
     "image": "http://cm1.narvii.com/8139/0f1530c11fceda82de767c93e32316626d2f467e_00.jpg",
     "title": "I WANT YOU BABY",
     "url": "https://ia601506.us.archive.org/23/items/sty-c/YOUNG-LUV.COM/STAYC%20-%20I%20WANT%20U%20BABY.mp3"
@@ -363,7 +372,7 @@
     "id": 38,
     "album": "",
     "artist": "STAYC",
-    "duration": 211,
+    "duration": "3:31",
     "image": "https://6.viki.io/image/46e65a881e8b41f88f4ff59ac72af4bc.jpeg",
     "title": "SO BAD",
     "url": "https://ia801506.us.archive.org/23/items/sty-c/Star%20To%20A%20Young%20Culture/STAYC%20-%20SO%20BAD.mp3"
@@ -372,7 +381,7 @@
     "id": 39,
     "album": "",
     "artist": "STAYC",
-    "duration": 185,
+    "duration": "3:05",
     "image": "https://6.viki.io/image/46e65a881e8b41f88f4ff59ac72af4bc.jpeg",
     "title": "LIKE THIS",
     "url": "https://ia801506.us.archive.org/23/items/sty-c/Star%20To%20A%20Young%20Culture/STAYC%20-%20LIKE%20THIS.mp3"
@@ -381,7 +390,7 @@
     "id": 40,
     "album": "",
     "artist": "TREASURE",
-    "duration": 184,
+    "duration": "3:04",
     "image": "https://0.soompi.io/wp-content/uploads/2021/01/30085749/TREASURE-31.jpg",
     "title": "JIKJIN (직진)",
     "url": "https://ia601504.us.archive.org/13/items/tr-sr/THE%20SECOND%20STEP%20%20CHAPTER%20ONE/TREASURE%20-%20JIKJIN.mp3"
@@ -390,7 +399,7 @@
     "id": 41,
     "album": "",
     "artist": "TREASURE",
-    "duration": 168,
+    "duration": "2:48",
     "image": "https://0.soompi.io/wp-content/uploads/2021/01/30085749/TREASURE-31.jpg",
     "title": "U",
     "url": "https://ia801504.us.archive.org/13/items/tr-sr/THE%20SECOND%20STEP%20%20CHAPTER%20ONE/TREASURE%20-%20U.mp3"
@@ -399,7 +408,7 @@
     "id": 42,
     "album": "",
     "artist": "TREASURE",
-    "duration": 220,
+    "duration": "3:40",
     "image": "https://0.soompi.io/wp-content/uploads/2021/01/30085749/TREASURE-31.jpg",
     "title": "DARARI (다라리)",
     "url": "https://ia801504.us.archive.org/13/items/tr-sr/THE%20SECOND%20STEP%20%20CHAPTER%20ONE/TREASURE%20-%20DARARI.mp3"
@@ -408,7 +417,7 @@
     "id": 43,
     "album": "",
     "artist": "TREASURE",
-    "duration": 220,
+    "duration": "3:40",
     "image": "https://0.soompi.io/wp-content/uploads/2021/01/30085749/TREASURE-31.jpg",
     "title": "IT'S OKAY (괜찮아질 거야)",
     "url": "https://ia601504.us.archive.org/13/items/tr-sr/THE%20SECOND%20STEP%20%20CHAPTER%20ONE/TREASURE%20-%20IT%27S%20OKAY.mp3"
@@ -417,7 +426,7 @@
     "id": 44,
     "album": "",
     "artist": "IVE",
-    "duration": 178,
+    "duration": "2:58",
     "image": "https://otakukart.com/wp-content/uploads/2021/11/ive.jpg",
     "title": "ELEVEN",
     "url": "https://ia601507.us.archive.org/16/items/ivekpop/IVE%20-%20ELEVEN.mp3"
@@ -426,7 +435,7 @@
     "id": 45,
     "album": "",
     "artist": "IVE",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://otakukart.com/wp-content/uploads/2021/11/ive.jpg",
     "title": "Take It",
     "url": "https://ia801507.us.archive.org/16/items/ivekpop/IVE%20-%20Take%20It.mp3"
@@ -435,7 +444,7 @@
     "id": 46,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 254,
+    "duration": "4:14",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Yang Da Il - Only You",
     "url": "https://ia601508.us.archive.org/11/items/ost-hdl/Yang%20Da%20Il%20-%20Only%20You.mp3"
@@ -444,7 +453,7 @@
     "id": 47,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 259,
+    "duration": "4:19",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Taeyong & Punch - Love del Luna",
     "url": "https://ia601508.us.archive.org/11/items/ost-hdl/Taeyong%20%26%20Punch%20-%20Love%20del%20Luna.mp3"
@@ -498,7 +507,7 @@
     "id": 53,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Taeyeon - All About You",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Taeyeon%20-%20All%20About%20You.mp3"
@@ -507,7 +516,7 @@
     "id": 54,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 183,
+    "duration": "3:03",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Song Haye - Say Goodbye",
     "url": "https://ia601508.us.archive.org/11/items/ost-hdl/Song%20Haye%20-%20Say%20Goodbye.mp3"
@@ -516,7 +525,7 @@
     "id": 55,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Red Velvet - See The Stars",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Red%20Velvet%20-%20See%20The%20Stars.mp3"
@@ -525,7 +534,7 @@
     "id": 56,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 231,
+    "duration": "3:51",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Punch - Done For Me",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Punch%20-%20Done%20For%20Me.mp3"
@@ -534,7 +543,7 @@
     "id": 57,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Paul Kim - So Long",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Paul%20Kim%20-%20So%20Long.mp3"
@@ -606,7 +615,7 @@
     "id": 65,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Monday Kiz & Punch - Another Day",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Monday%20Kiz%20%26%20Punch%20-%20Another%20Day.mp3"
@@ -615,7 +624,7 @@
     "id": 66,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "IU - Our Happy Ending",
     "url": "https://ia601508.us.archive.org/11/items/ost-hdl/IU%20-%20Our%20Happy%20Ending.mp3"
@@ -624,7 +633,7 @@
     "id": 67,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 220,
+    "duration": "3:40",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Heize - Can You See My Heart",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Heize%20-%20Can%20You%20See%20My%20Heart.mp3"
@@ -633,7 +642,7 @@
     "id": 68,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 227,
+    "duration": "3:47",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Gummy - Remember Me",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Gummy%20-%20Remember%20Me.mp3"
@@ -642,7 +651,7 @@
     "id": 69,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 224,
+    "duration": "3:44",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Chungha - At The End",
     "url": "https://ia601508.us.archive.org/11/items/ost-hdl/Chungha%20-%20At%20The%20End.mp3"
@@ -651,7 +660,7 @@
     "id": 70,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 266,
+    "duration": "4:26",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "Ben - Can You Hear Me",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Ben%20-%20Can%20You%20Hear%20Me.mp3"
@@ -660,7 +669,7 @@
     "id": 71,
     "album": "",
     "artist": "Hotel Del Luna",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
     "title": "10cm - Lean On Me",
     "url": "https://ia801508.us.archive.org/11/items/ost-hdl/10cm%20-%20Lean%20On%20Me.mp3"
@@ -786,7 +795,7 @@
     "id": 85,
     "album": "",
     "artist": "Goblin",
-    "duration": 245,
+    "duration": "4:05",
     "image": "https://asianwiki.com/images/b/b2/Goblin-p04.jpg",
     "title": "Lasse Lindh - Hush",
     "url": "https://ia601507.us.archive.org/26/items/go-bln/Lasse%20Lindh%20-%20Hush.mp3"
@@ -795,7 +804,7 @@
     "id": 86,
     "album": "",
     "artist": "Goblin",
-    "duration": 201,
+    "duration": "3:31",
     "image": "https://asianwiki.com/images/b/b2/Goblin-p04.jpg",
     "title": "Heize Feat Han Soo-ji - Round and Round",
     "url": "https://ia601507.us.archive.org/26/items/go-bln/Heize%20Feat%20Han%20Soo-ji%20-%20Round%20and%20Round.mp3"
@@ -804,7 +813,7 @@
     "id": 87,
     "album": "",
     "artist": "Goblin",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://asianwiki.com/images/b/b2/Goblin-p04.jpg",
     "title": "Eddy Kim - You Are So Beautifull",
     "url": "https://ia601507.us.archive.org/26/items/go-bln/Eddy%20Kim%20-%20You%20Are%20So%20Beautifull.mp3"
@@ -813,7 +822,7 @@
     "id": 88,
     "album": "",
     "artist": "Goblin",
-    "duration": 227,
+    "duration": "3:57",
     "image": "https://asianwiki.com/images/b/b2/Goblin-p04.jpg",
     "title": "Crush - Beautifull",
     "url": "https://ia601507.us.archive.org/26/items/go-bln/Crush%20-%20Beautiful.mp3"
@@ -822,7 +831,7 @@
     "id": 89,
     "album": "",
     "artist": "Goblin",
-    "duration": 192,
+    "duration": "3:13",
     "image": "https://asianwiki.com/images/b/b2/Goblin-p04.jpg",
     "title": "Chanyeol & Punch - Stay With Me",
     "url": "https://ia601507.us.archive.org/26/items/go-bln/Chanyeol%20%26%20Punch%20-%20Stay%20With%20Me.mp3"
@@ -831,7 +840,7 @@
     "id": 90,
     "album": "",
     "artist": "Goblin",
-    "duration": 157,
+    "duration": "2:37",
     "image": "https://asianwiki.com/images/b/b2/Goblin-p04.jpg",
     "title": "10cm - My Eyes",
     "url": "https://ia601507.us.archive.org/26/items/go-bln/10cm%20-%20My%20Eyes.mp3"
@@ -840,7 +849,7 @@
     "id": 91,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "Chen and Punch - Everytime",
     "url": "https://ia601504.us.archive.org/0/items/dotsost/Chen%20and%20Punch%20-%20Everytime.mp3"
@@ -849,7 +858,7 @@
     "id": 92,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 194,
+    "duration": "3:14",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "Yoon Mi-rae - Always",
     "url": "https://ia601504.us.archive.org/0/items/dotsost/Yoon%20Mi-rae%20-%20Always.mp3"
@@ -858,7 +867,7 @@
     "id": 93,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 259,
+    "duration": "4:19",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "XIA - How Can I Love You",
     "url": "https://ia801504.us.archive.org/0/items/dotsost/XIA%20-%20How%20Can%20I%20Love%20You.mp3"
@@ -867,7 +876,7 @@
     "id": 94,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 225,
+    "duration": "3:45",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "SG WANNEBE - By My Side",
     "url": "https://ia801504.us.archive.org/0/items/dotsost/SG%20WANNEBE%20-%20By%20My%20Side.mp3"
@@ -876,7 +885,7 @@
     "id": 95,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 235,
+    "duration": "3:55",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "M.C THE MAX Wind - Beneath Your",
     "url": "https://ia801504.us.archive.org/0/items/dotsost/M.C%20THE%20MAX%20-%20Wind%20Beneath%20Your.mp3"
@@ -885,7 +894,7 @@
     "id": 96,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 254,
+    "duration": "3:54",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "LYn - With You",
     "url": "https://ia801504.us.archive.org/0/items/dotsost/LYn%28린%29%20-%20With%20You.mp3"
@@ -894,7 +903,7 @@
     "id": 97,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 235,
+    "duration": "3:55",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "Kim Na-young feat. Mad Clown - Once again",
     "url": "https://ia801504.us.archive.org/0/items/dotsost/Kim%20Na-young%20feat.%20Mad%20Clown%20-%20Once%20again.mp3"
@@ -903,7 +912,7 @@
     "id": 98,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "K.Will - Talk Love",
     "url": "https://ia801504.us.archive.org/0/items/dotsost/K.Will%20-%20Talk%20Love.mp3"
@@ -912,7 +921,7 @@
     "id": 99,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 240,
+    "duration": "4:00",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "Gummy - You Are My Everything",
     "url": "https://ia801504.us.archive.org/0/items/dotsost/Gummy%20-%20You%20Are%20My%20Everything.mp3"
@@ -921,7 +930,7 @@
     "id": 100,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 239,
+    "duration": "3:59",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "Gummy - You Are My Everything (English version)",
     "url": "https://ia801504.us.archive.org/0/items/dotsost/Gummy%20-%20You%20Are%20My%20Everything%20%28English%20version%29.mp3"
@@ -930,7 +939,7 @@
     "id": 101,
     "album": "",
     "artist": "Descendants of the Sun",
-    "duration": 225,
+    "duration": "2:45",
     "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg",
     "title": "Davici - This Love",
     "url": "https://ia601504.us.archive.org/0/items/dotsost/Davichi%20-%20This%20Love.mp3"
@@ -939,7 +948,7 @@
     "id": 102,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 290,
+    "duration": "4:50",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "T-Max ft J - Wish You My Love",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/T-Max%20feat.%20J%20-%20Wish%20Ur%20My%20Love.mp3"
@@ -948,7 +957,7 @@
     "id": 103,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "T-Max - Say Yes",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/T-Max%20-%20Say%20Yes.mp3"
@@ -957,7 +966,7 @@
     "id": 104,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 245,
+    "duration": "4:05",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "T-Max - Paradise",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/T-Max%20-%20Paradise.mp3"
@@ -966,7 +975,7 @@
     "id": 105,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 225,
+    "duration": "2:45",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "SS501 - Making a Lover",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/SS501%20-%20Making%20A%20Lover.mp3"
@@ -975,7 +984,7 @@
     "id": 106,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 258,
+    "duration": "4:18",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "SS501 - Because I'm Stupid",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/SS501%20-%20Because%20I%27m%20Stupid.mp3"
@@ -984,7 +993,7 @@
     "id": 107,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 252,
+    "duration": "4:12",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Someday - Do You Know ?",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Someday%20-%20Do%20You%20Know.mp3"
@@ -993,7 +1002,7 @@
     "id": 108,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 247,
+    "duration": "4:07",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "SHINee - Stand By Me",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/SHINee%20-%20Stand%20By%20Me.mp3"
@@ -1002,7 +1011,7 @@
     "id": 109,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 288,
+    "duration": "4:48",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Seo Jin Young - A Little",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Seo%20Jin%20Young%20-%20A%20Little.mp3"
@@ -1011,7 +1020,7 @@
     "id": 110,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 248,
+    "duration": "4:08",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Lee Sang Gon - With Tears",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Lee%20Sang-gon%20-%20Tears%20Are%20Falling.mp3"
@@ -1020,7 +1029,7 @@
     "id": 111,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 123,
+    "duration": "2:03",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Kim Yoo Kyung - Cellogic",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Kim%20Young-min%20-%20Cellogic.mp3"
@@ -1029,7 +1038,7 @@
     "id": 112,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 242,
+    "duration": "4:02",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Kim Yoo Kyung - Starlight Tears",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Kim%20Yoo%20Kyung%20-%20Starlight%20Tears.mp3"
@@ -1038,7 +1047,7 @@
     "id": 113,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 232,
+    "duration": "3:52",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "KARA - Love is Fire",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Kara%20-%20Love%20Is%20Fire.mp3"
@@ -1047,7 +1056,7 @@
     "id": 114,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 242,
+    "duration": "4:02",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Ji Sun - What Should I Do?",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Jisun%20-%20What%20Should%20I%20Do.mp3"
@@ -1056,7 +1065,7 @@
     "id": 115,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 253,
+    "duration": "4:13",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "HowL - Love U",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Howl%20-%20Love%20U.mp3"
@@ -1065,7 +1074,7 @@
     "id": 116,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 270,
+    "duration": "4:30",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Brand New Day - Something Like Love",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Brand%20New%20Day%20-%20Something%20Like%20Love.mp3"
@@ -1074,7 +1083,7 @@
     "id": 117,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 219,
+    "duration": "3:39",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Ashily - Lucky",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Ashily%20-%20Lucky.mp3"
@@ -1083,7 +1092,7 @@
     "id": 118,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "T-Max ft A&T - Something Happened To My Heart",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/T-max%20ft%20A%26T%20-%20Something%20Happened%20To%20My%20Heart.mp3"
@@ -1092,7 +1101,7 @@
     "id": 119,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 240,
+    "duration": "4:00",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "A'ST1 - Yearning Heart",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/A%27ST1%20-%20Yearning%20Heart.mp3"
@@ -1101,7 +1110,7 @@
     "id": 120,
     "album": "",
     "artist": "Boys Over Flower",
-    "duration": 263,
+    "duration": "4:23",
     "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg",
     "title": "Tree Bicycle - One More Time",
     "url": "https://ia601402.us.archive.org/2/items/ostb2F/Tree%20Bicycle%20-%20One%20More%20Time.mp3"
@@ -1110,7 +1119,7 @@
     "id": 121,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Pirate",
     "url": "https://ia804507.us.archive.org/13/items/evrglw/%5B2021%5D%20Return%20Of%20The%20Girl/EVERGLOW%20-%20Pirate.mp3"
@@ -1119,7 +1128,7 @@
     "id": 122,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 162,
+    "duration": "2:42",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Nighty Night",
     "url": "https://ia904507.us.archive.org/13/items/evrglw/%5B2021%5D%20Return%20Of%20The%20Girl/EVERGLOW%20-%20Nighty%20Night.mp3"
@@ -1128,7 +1137,7 @@
     "id": 123,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Don't Speak",
     "url": "https://ia804507.us.archive.org/13/items/evrglw/%5B2021%5D%20Return%20Of%20The%20Girl/EVERGLOW%20-%20Don’t%20Speak.mp3"
@@ -1137,7 +1146,7 @@
     "id": 124,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 177,
+    "duration": "2:57",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Company",
     "url": "https://ia904507.us.archive.org/13/items/evrglw/%5B2021%5D%20Return%20Of%20The%20Girl/EVERGLOW%20-%20Company.mp3"
@@ -1146,7 +1155,7 @@
     "id": 125,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 239,
+    "duration": "3:59",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Back Together",
     "url": "https://ia904507.us.archive.org/13/items/evrglw/%5B2021%5D%20Return%20Of%20The%20Girl/EVERGLOW%20-%20Back%20Together.mp3"
@@ -1155,7 +1164,7 @@
     "id": 126,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 214,
+    "duration": "3:34",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Promise",
     "url": "https://ia904507.us.archive.org/13/items/evrglw/EVERGLOW%20-%20Promise.mp3"
